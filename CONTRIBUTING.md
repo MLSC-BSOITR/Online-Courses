@@ -8,3 +8,10 @@ How to CONTRIBUTE ?
 7. NOTE2 -  Courses you are providing must be free and accessable to everyone
 
 EX :-
+
+ {
+        "id" : "3",
+        "courseName" : "Free Java Basic Course for Beginners",
+        "platform" : "Skillup",
+        "courseLink" : "https://www.simplilearn.com/learn-java-basics-skillup",
+    },
