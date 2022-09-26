@@ -9,9 +9,13 @@ How to CONTRIBUTE ?
 
 EX :-
 
- {
+[
+
+  {
         "id" : "3",
         "courseName" : "Free Java Basic Course for Beginners",
         "platform" : "Skillup",
         "courseLink" : "https://www.simplilearn.com/learn-java-basics-skillup",
     },
+    
+]
