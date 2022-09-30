@@ -15,6 +15,15 @@
         "platform" : "GFG",
         "courseLink" : "https://www.geeksforgeeks.org/data-structures/"
     },
+    
+     {
+        "id" : "101",
+        "courseName" : "C++",
+        "platform" : "W3Schools",
+        "courseLink" : "https://www.w3schools.com/cpp/"
+        
+    },
+    
         {
         "id" : "10",
         "courseName" : "DSA",
