@@ -39,6 +39,18 @@
         "courseLink" : "https://www.ros.org"
         
     },
+      {
+        "id" : "104",
+        "courseName" : "Python",
+        "platform" : "W3Schools",
+        "courseLink" : "https://www.w3schools.com/python/default.asp"
+    },
+      {
+        "id" : "103",
+        "courseName" : "Javascript",
+        "platform" : "W3Schools",
+        "courseLink" : "https://www.w3schools.com/js/default.asp"
+    }
     
     
     
