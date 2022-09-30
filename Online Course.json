@@ -270,7 +270,14 @@
         "courseName" : "Full Stack Java Developer",
         "platform" : "simplilearn"
         "courseLink" : "https://www.simplilearn.com/java-full-stack-developer-certification-training-course?utm_source=google&utm_medium=cpc&utm_term=&utm_content=17794206227-139814028875-611092856388&utm_device=c&utm_campaign=Search-TechCluster-SD-FullStack-DSA-IN-Main-AllDevice-JGuarantee-adgroup-DSA-Full-Stack-Java-Developer-master&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbyFVufRKw8qxUrC_WrPxPEN7Q4JC8Qr-g21N9jWgtXW6DsU1seZX6BoC4y0QAvD_BwE"
-}
+},
+
+{
+        "id" : "100",
+        "courseName" : "Introduction To Python Programming",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/pythonforbeginnersintro/"
+    }
 
 {
         "id" : "10",
