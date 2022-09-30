@@ -189,4 +189,16 @@
         "courseName" : "Data Science And Analytics",
         "platform" : "Upgrad"
         "courseLink" : "https://learn.upgrad.com/course/4401"
+},
+    
+    
+    
+    {
+
+        "id" : "44",
+        "courseName" : "Flutter-Development-Udemy",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/flutter-bootcamp-with-dart/"
+    },
+    
 ]
