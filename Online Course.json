@@ -32,6 +32,14 @@
         
          
     },
+          {
+        "id" : "85",
+        "courseName" : "OOPS with c++",
+        "platform" : "youtube",
+        "courseLink" : "https://youtu.be/h0dzuYW_E4k"
+        
+         
+    },
       {
         "id" : "103",
         "courseName" : "ROS",
@@ -482,6 +490,14 @@
     },
 
 {
+        "id" : "336",
+        "courseName" : "Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order.",
+        "platform" : "Geeks for geeks",
+        "courseLink" : "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1"
+    },
+
+
+{
         "id" : "32",
         "courseName" : "IBM Machine Learning Professional",
         "platform" : "Coursera",
@@ -524,6 +540,20 @@
         "platform" : "GeeksforGeeks",
         "courseLink" :"https://www.geeksforgeeks.org/web-development/"
     },
+{
+
+        "id" : "40",
+        "courseName" : "NMIMS Digital Marketing",
+        "platform" : "nmims.edu",
+        "courseLink" : "https://www.nmims.edu/"
+    },
+
+{
+"id" : "2410",
+        "courseName" : "Project Managment",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/it-project-management-for-beginners-a-step-by-step-guide/"
+},
 
 {
         "id" : "100",
@@ -538,4 +568,21 @@
       "platform" : "Great Learning",
       "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/bootstrap-in-hindi"
     },
+{
+        "id" : "08",
+        "courseName" : "Introduction to C++ | Data Structures and Algorithms | College Placement Course",
+        "platform" : "YouTube",
+        "courseLink" : "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
+
+}
+{
+     "id" : "101",
+        "courseName" : "Java Programming  + DSA",
+        "platform" : "apna college",
+        "courseLink" : "https://www.apnacollege.in/course/placement-course-java",
+}
+
 ]
+    
+
+
