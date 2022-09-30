@@ -466,7 +466,7 @@
     },
 
 
-]
+
  {
         "id" : "31",
         "courseName" : "dsa with placement preparation with apna college",
@@ -480,27 +480,20 @@
         "platform" : "Coursera",
         "courseLink" : "https://in.coursera.org/professional-certificates/ibm-machine-learning"
     },
-    {
-      "id" : "10000",
-      "courseName" : "Introduction to HTML and CSS",
-      "platform" : "Udacity",
-      "courseLink" : "https://www.udacity.com/course/intro-to-html-and-css--ud001"
+
+{
+        "id" : "37",
+        "courseName" : "Android Development",
+        "platform" : "Officially By Google",
+        "courseLink" : "https://developer.android.com/courses/android-basics-compose/course"
     },
 
-	{
-      "id" : "10001",
-      "courseName" : "Learn Java",
-      "platform" : "Code Academy",
-      "courseLink" : "https://www.udacity.com/course/intro-to-html-and-css--ud001"
+
+        "id" : "38",
+        "courseName" : "Machine Learning",
+        "platform" : "hARVARD",
+        "courseLink" : "https://www.mybib.com/tools/harvard-referencing-generator"
     },
 
-	
-
-	{
-      "id" : "10002",
-      "courseName" : "Algorithms, Part1",
-      "platform" : "Coursera",
-      "courseLink" : "https://www.coursera.org/learn/algorithms-part1"
-    },
 
 
