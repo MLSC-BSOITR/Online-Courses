@@ -445,6 +445,13 @@
         "courseLink" : "https://www.udemy.com/share/101r1i/"
 },
 
+{
+        "id" : "71",
+        "courseName" : "Javascript Essentials",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/course/javascript-essentials/"
+},
+
     {
       "id" : "48",
       "courseName" : "Basic Data Structures And Algorithms by Google",
@@ -495,7 +502,8 @@
         "courseLink" : "https://www.mybib.com/tools/harvard-referencing-generator"
     },
 
-        "id" : "38",
+{
+        "id" : "333",
         "courseName" : "CET Preparation",
         "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/results?search_query=matrix+science+academy"
@@ -510,15 +518,12 @@
         "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
     },
 
-
 {
-        "id" : "2409",
-        "courseName" : "Learn Blockchain",
-        "platform" : "Internshala",
-        "courseLink" : "https://trainings.internshala.com/blockchain-course/?tracking_source=trainings-dropdown-programming-sp"
+        "id" : "145",
+        "courseName" : " WebDevelopment",
+        "platform" : "GeeksforGeeks",
+        "courseLink" :"https://www.geeksforgeeks.org/web-development/"
     },
-
-
 
 {
         "id" : "100",
@@ -526,7 +531,6 @@
         "platform" : "Google",
         "courseLink" : "https://www.programiz.com/java-programming"
 
+}
 
-
-
-
+]
