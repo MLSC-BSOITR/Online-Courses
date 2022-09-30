@@ -382,14 +382,6 @@
         "courseLink" : "https://www.mygreatlearning.com/great-lakes-artificial-intelligence-and-machine-learning?&utm_source=google&utm_medium=Search&utm_campaign=AIML_Pune_Purchase_Intent-Course_AIML_Combined&adgroup_id=106440164291&campaign_id=9971246354&keyword=machine%20learning%20course&placement=&gclid=EAIaIQobChMI9PT1tOC8-gIVEyQrCh2PbAwpEAAYASAAEgKrDvD_BwE"
     },
 
-
-{
-        "id" : "124",
-        "courseName" : "Crash Course on Python",
-        "platform" : "Coursera",
-        "courseLink" : "https://in.coursera.org/learn/python-crash-course?"
-},
-
     {
         "id" : "2406",
         "courseName" : "An Introduction to Photography (FREE Course)",
@@ -452,6 +444,13 @@
         "platform" : "udemy",
         "courseLink" : "https://www.udemy.com/share/101r1i/"
 },
+
+    {
+      "id" : "48",
+      "courseName" : "Basic Data Structures And Algorithms by Google",
+      "platform" : "Google",
+      "courseLink" : "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/"
+    }
  {
 
         "id" : "71",
@@ -465,20 +464,21 @@
         "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
     },
-       
-     {
-        "id" : "80",
-        "courseName" : "Java For Beginners",
-        "platform" : "codegym",
-        "courseLink" : "https://codegym.cc/"
-    },
 
 
+]
  {
         "id" : "31",
         "courseName" : "dsa with placement preparation with apna college",
         "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
     },
-]
+
+{
+        "id" : "32",
+        "courseName" : "IBM Machine Learning Professional",
+        "platform" : "Coursera",
+        "courseLink" : "https://in.coursera.org/professional-certificates/ibm-machine-learning"
+    },
+
 
