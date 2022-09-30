@@ -226,6 +226,12 @@
         "platform" : "Data Flair",
         "courseLink" : "https://data-flair.training/python-course/"
     },
+    {
+        "id" : "118",
+        "courseName" : "Android Basics: User Interface",
+        "platform" : "Udacity",
+        "courseLink" : "https://www.udacity.com/course/android-basics-user-interface--ud834"
+    },
 
 ]
 
