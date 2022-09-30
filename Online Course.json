@@ -32,6 +32,14 @@
         
          
     },
+          {
+        "id" : "85",
+        "courseName" : "OOPS with c++",
+        "platform" : "youtube",
+        "courseLink" : "https://youtu.be/h0dzuYW_E4k"
+        
+         
+    },
       {
         "id" : "103",
         "courseName" : "ROS",
@@ -482,6 +490,14 @@
     },
 
 {
+        "id" : "336",
+        "courseName" : "Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order.",
+        "platform" : "Geeks for geeks",
+        "courseLink" : "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1"
+    },
+
+
+{
         "id" : "32",
         "courseName" : "IBM Machine Learning Professional",
         "platform" : "Coursera",
@@ -525,12 +541,4 @@
         "courseLink" :"https://www.geeksforgeeks.org/web-development/"
     },
 
-{
-        "id" : "100",
-        "courseName" : "Java Programming",
-        "platform" : "Google",
-        "courseLink" : "https://www.programiz.com/java-programming"
 
-}
-
-]
