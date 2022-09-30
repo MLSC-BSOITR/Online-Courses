@@ -22,6 +22,12 @@
         "platform" : "",
         "courseLink" : ""
     },
+    {
+        "id" : "4",
+        "courseName" : "Complete Web DEV",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+    },
    {
         "id" : "5",
         "courseName" : "Cybersecurity",
@@ -33,8 +39,35 @@
         "courseName" : "Data science with python",
         "platform" : "Simpli learn",
         "courseLink" : "https://www.simplilearn.com/getting-started-data-science-with-python-skillup?term=Dat"
-    }
+    },
 
+        "id" : "10",
+        "courseName" : "C++",
+        "platform" : "codecademy",
+        "courseLink" : "https://www.codecademy.com/learn/learn-c-plus-plus"
+    },
+
+    {
+        "id" : "11",
+        "courseName" : "Introduction To Python Programming",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/pythonforbeginnersintro/"
+        },
+
+    {
+      "id" : "4",
+      "courseName" : "Amazon Web Services Cloud Practitioner ",
+      "platform" : "Amazon",
+      "courseLink" : "https://aws.amazon.com/"
+
+    },
+    
+    {
+    "id" : "16",
+    "courseName" : "Coding Interview Prep",
+    "platform" : "FreeCodeCamp",
+    "courseLink" : "https://www.freecodecamp.org/learn/coding-interview-prep/",
+}
     
     
 
