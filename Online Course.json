@@ -654,6 +654,13 @@
         "platform" : "Coursera",
         "courseLink" : "https://www.coursera.org/specializations/blockchain"
     },
- 
-    
+
+    {
+        "id" : "41",
+        "courseName" : "Python Regression Analysis: Statistics & Machine Learning",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
+    }
+
+   
 ]
