@@ -382,14 +382,6 @@
         "courseLink" : "https://www.mygreatlearning.com/great-lakes-artificial-intelligence-and-machine-learning?&utm_source=google&utm_medium=Search&utm_campaign=AIML_Pune_Purchase_Intent-Course_AIML_Combined&adgroup_id=106440164291&campaign_id=9971246354&keyword=machine%20learning%20course&placement=&gclid=EAIaIQobChMI9PT1tOC8-gIVEyQrCh2PbAwpEAAYASAAEgKrDvD_BwE"
     },
 
-
-{
-        "id" : "124",
-        "courseName" : "Crash Course on Python",
-        "platform" : "Coursera",
-        "courseLink" : "https://in.coursera.org/learn/python-crash-course?"
-},
-
     {
         "id" : "2406",
         "courseName" : "An Introduction to Photography (FREE Course)",
@@ -481,11 +473,59 @@
         "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
     },
+
 {
         "id" : "336",
         "courseName" : "Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order.",
         "platform" : "Geeks for geeks",
         "courseLink" : "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1"
     },
-]
+
+
+{
+        "id" : "32",
+        "courseName" : "IBM Machine Learning Professional",
+        "platform" : "Coursera",
+        "courseLink" : "https://in.coursera.org/professional-certificates/ibm-machine-learning"
+    },
+
+{
+        "id" : "37",
+        "courseName" : "Android Development",
+        "platform" : "Officially By Google",
+        "courseLink" : "https://developer.android.com/courses/android-basics-compose/course"
+    },
+
+{
+        "id" : "38",
+        "courseName" : "Machine Learning",
+        "platform" : "hARVARD",
+        "courseLink" : "https://www.mybib.com/tools/harvard-referencing-generator"
+    },
+
+        "id" : "38",
+        "courseName" : "CET Preparation",
+        "platform" : "youtube",
+        "courseLink" : "https://www.youtube.com/results?search_query=matrix+science+academy"
+    },
+
+         },
+
+
+        "id" : "39",
+        "courseName" : "udemy",
+        "platform" : "python learning",
+        "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
+    },
+
+
+{
+        "id" : "2409",
+        "courseName" : "Learn Blockchain",
+        "platform" : "Internshala",
+        "courseLink" : "https://trainings.internshala.com/blockchain-course/?tracking_source=trainings-dropdown-programming-sp"
+    },
+
+
+
 
