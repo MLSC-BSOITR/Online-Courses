@@ -494,6 +494,15 @@
         "platform" : "hARVARD",
         "courseLink" : "https://www.mybib.com/tools/harvard-referencing-generator"
     },
+         },
+
+
+        "id" : "39",
+        "courseName" : "udemy",
+        "platform" : "python learning",
+        "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
+    },
+
 
 {
         "id" : "2409",
