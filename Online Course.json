@@ -26,6 +26,14 @@
     
       {
         "id" : "102",
+        "courseName" : "Html",
+        "platform" : "W3Schools",
+        "courseLink" : "https://www.w3schools.com/html/default.asp"
+        
+    },
+    
+      {
+        "id" : "103",
         "courseName" : "java",
         "platform" : "W3Schools",
         "courseLink" : "https://www.w3schools.com/java/default.asp"
