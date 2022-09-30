@@ -34,7 +34,10 @@
         "courseName" : "Complete Web DEV",
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+        
+    },
 
+    {
         "id" : "6",
         "courseName" : "myMQL",
         "platform" : "geeksforgeeks",
@@ -83,7 +86,7 @@
       "courseLink" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
 
     },
-
+{
     "id" : "16",
     "courseName" : "Coding Interview Prep",
     "platform" : "FreeCodeCamp",
