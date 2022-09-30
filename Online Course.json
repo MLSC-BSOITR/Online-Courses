@@ -383,5 +383,11 @@
         "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
 
     },
+ {
+        "id" : "3241",
+        "courseName" : "Learn C: The Complete C Programming Course",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
 
+    },
 ]
