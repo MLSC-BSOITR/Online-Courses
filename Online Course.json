@@ -17,10 +17,23 @@
     },
 
     {
+
+        "id" : "3",
+        "courseName" : "HTML - Introduction to HTML Web Development",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/intro-to-html-web-development/"
+    },
+    {
+        "id" : "4",
+        "courseName" : "Complete Web DEV",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+
         "id" : "6",
         "courseName" : "myMQL",
         "platform" : "geeksforgeeks",
         "courseLink" : "http://www.geeksforgeeks.com"
+
     },
    {
         "id" : "5",
