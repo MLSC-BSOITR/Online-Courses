@@ -35,6 +35,12 @@
         "courseLink" : "https://www.simplilearn.com/learn-cyber-security-basics-skillup?term=C"
     },
     {
+        "id" : "6",
+        "courseName" : "Data science with python",
+        "platform" : "Simpli learn",
+        "courseLink" : "https://www.simplilearn.com/getting-started-data-science-with-python-skillup?term=Dat"
+    },
+
         "id" : "10",
         "courseName" : "C++",
         "platform" : "codecademy",
@@ -57,7 +63,6 @@
     },
     
     {
-
     "id" : "16",
     "courseName" : "Coding Interview Prep",
     "platform" : "FreeCodeCamp",
