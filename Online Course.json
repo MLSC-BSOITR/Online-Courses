@@ -444,10 +444,26 @@
         "platform" : "udemy",
         "courseLink" : "https://www.udemy.com/share/101r1i/"
 },
+
     {
       "id" : "48",
       "courseName" : "Basic Data Structures And Algorithms by Google",
       "platform" : "Google",
       "courseLink" : "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/"
     }
+ {
+
+        "id" : "71",
+        "courseName" : "FULL STACK DEVELOPER",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/share/front end"
+}
+
+        "id" : "30",
+        "courseName" : "DSA learnig with java",
+        "platform" : "youtube",
+        "courseLink" : "https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
+    },
+
+
 ]
