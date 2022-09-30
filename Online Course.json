@@ -670,5 +670,13 @@
         "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
     }
 
+    
+    {
+        "id" : "50",
+        "courseName" : "Intro to Golang",
+        "platform" : "freecodecampe",
+        "courseLink" : "https://www.freecodecamp.org/news/what-is-go-programming-language/"
+    }
+
    
 ]
