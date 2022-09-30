@@ -148,8 +148,6 @@
     },
     
     {
-
-
     "id" : "16",
     "courseName" : "Coding Interview Prep",
     "platform" : "FreeCodeCamp",
@@ -241,7 +239,7 @@
         "courseLink" : "https://swayam.gov.in/nc_details/NPTEL"
     },
     
-        {
+    {
         "id" : "24",
         "courseName" : "Learn android kotlin",
         "platform" : "Skillup",
@@ -398,21 +396,24 @@
 
     },
 
-{
+     {
         "id" : "455",
         "courseName" : "DataStructure Algo",
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/share/105kbg3@8l6O_HqowqPJO4WMXBDoYlkk3C2ZjZHYNsKmAvRr22UWvXol6NOjq8J3L0xowkCMJA==/"
         
-    
-}
+       }
 
-        "id" : "38",
+      {
+          
+       "id" : "38",
         "courseName" : "Building Web applications with Java Spring Boot",
         "platform" : "Alison",
         "courseLink" : "https://alison.com/courses/building-web-applications-with-java-spring-boot/content#event=login"
+          
+      },
 
-    {
+      {
         "id" : "1968",
         "courseName" : "Learn Python: The Complete Python Programming Course",
         "platform" : "udemy",
@@ -420,13 +421,13 @@
 
     },
 
- {
+    {
         "id" : "3241",
         "courseName" : "Learn C: The Complete C Programming Course",
         "platform" : "udemy",
         "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
-}
-{
+     }
+    {
         "id" : "124",
         "courseName" : "The Data Science Course 2022: Complete Data Science Bootcamp",
         "platform" : "udemy",
@@ -438,12 +439,12 @@
         "platform" : "Simply Learn",
         "courseLink" : "https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup"
     },
-{
+    {
         "id" : "70",
         "courseName" : "Introduction To Python Programming",
         "platform" : "udemy",
         "courseLink" : "https://www.udemy.com/share/101r1i/"
-},
+    },
 
     {
       "id" : "48",
@@ -451,22 +452,21 @@
       "platform" : "Google",
       "courseLink" : "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/"
     }
- {
+    {
 
         "id" : "71",
         "courseName" : "FULL STACK DEVELOPER",
         "platform" : "udemy",
         "courseLink" : "https://www.udemy.com/share/front end"
-}
+    }
 
+   {
         "id" : "30",
         "courseName" : "DSA learnig with java",
         "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
     },
 
-
-]
  {
         "id" : "31",
         "courseName" : "dsa with placement preparation with apna college",
@@ -479,6 +479,6 @@
         "courseName" : "IBM Machine Learning Professional",
         "platform" : "Coursera",
         "courseLink" : "https://in.coursera.org/professional-certificates/ibm-machine-learning"
-    },
-
+    }
+]
 
