@@ -84,7 +84,13 @@
         "platform" : "You Tube",
         "courseLink" : "https://youtu.be/3c-iBn73dDE"
     },
-
+{
+    "id" : "30",
+    "courseName" : "Python For Beginners",
+    "platform" : "Skillup",
+    "courseLink": "https://www.simplilearn.com/learn-python-basics-free-course-skillup?term=popular%20courses"
+    
+},    
     
     
 
