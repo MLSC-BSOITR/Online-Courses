@@ -4,9 +4,12 @@ This repository contains different online courses which you can enroll for free.
 The Links provided will directly take you to the course you are looking for.
 
 ![32932356-4371-4193-a163-df0f7906dccb](https://user-images.githubusercontent.com/97043306/192813283-5017347e-e0bd-42ed-b5d5-31d66d9500df.jpg)
- {
-        "id" : "332",
-        "courseName" : "Free javascript courses for students",
-        "platform" : "skillshare",
-        "courseLink" : "https://www.skillshare.com/learan-javascript-basics-skillshare", 
- },
+[
+   {
+      "id" : "322",
+      "courseName" : "Free Javascript Basic Course for learners",
+      "platform" : "Skillshare",
+      "courseLink" : "https://www.skillshare.com/learn-java-basics-skillshare"
+      "courseLink" : "https://www.skillshare.com/learn-java-basics-skillshare",
+    }
+]
