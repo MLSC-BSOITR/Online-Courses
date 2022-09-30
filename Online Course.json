@@ -452,13 +452,6 @@
         "platform" : "udemy",
         "courseLink" : "https://www.udemy.com/share/101r1i/"
 },
-
-    {
-      "id" : "48",
-      "courseName" : "Basic Data Structures And Algorithms by Google",
-      "platform" : "Google",
-      "courseLink" : "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/"
-    }
  {
 
         "id" : "71",
@@ -472,7 +465,13 @@
         "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
     },
-
+       
+     {
+        "id" : "80",
+        "courseName" : "Java For Beginners",
+        "platform" : "codegym",
+        "courseLink" : "https://codegym.cc/"
+    },
 
 
  {
