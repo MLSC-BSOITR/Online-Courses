@@ -10,6 +10,12 @@
     // You can contribute below as mentioned above
     
     {
+        "id" : "1",
+        "courseName" : "DSA",
+        "platform" : "GFG",
+        "courseLink" : "https://www.geeksforgeeks.org/data-structures/"
+    },
+    {
         "id" : "4",
         "courseName" : "python",
         "platform" : "geeksforgeeks",
@@ -78,8 +84,6 @@
 
     },
 
-{
-
     "id" : "16",
     "courseName" : "Coding Interview Prep",
     "platform" : "FreeCodeCamp",
@@ -99,15 +103,6 @@
         "platform" : "You Tube",
         "courseLink" : "https://youtu.be/3c-iBn73dDE"
     },
-
- {
-        "id" : "55",
-        "courseName" : "AWS Developer Associate Certification Training",
-        "platform" : "Simplelearn",
-        "courseLink" : "https://www.simplilearn.com/cloud-computing/aws-developer-certification-training?tag=online%20web%20development%20course"
-    },
-
-
 {
     "id" : "30",
     "courseName" : "Python For Beginners",
@@ -115,7 +110,6 @@
     "courseLink": "https://www.simplilearn.com/learn-python-basics-free-course-skillup?term=popular%20courses"
     
 },    
-
     
     
 
