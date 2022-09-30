@@ -300,4 +300,11 @@
         "courseLink" : "https://www.simplilearn.com/learn-java-basics-skillup"
     },
 
+{
+        "id" : "123",
+        "courseName" : "Machine Learning for Beginners",
+        "platform" : "Great Learning",
+        "courseLink" : "https://www.mygreatlearning.com/great-lakes-artificial-intelligence-and-machine-learning?&utm_source=google&utm_medium=Search&utm_campaign=AIML_Pune_Purchase_Intent-Course_AIML_Combined&adgroup_id=106440164291&campaign_id=9971246354&keyword=machine%20learning%20course&placement=&gclid=EAIaIQobChMI9PT1tOC8-gIVEyQrCh2PbAwpEAAYASAAEgKrDvD_BwE"
+    },
+
 ]
