@@ -39,97 +39,35 @@
         "courseLink" : "https://www.ros.org"
         
     },
+
     {
         "id" : "696969",
         "courseName" : "Android",
         "platform" : "Udacity",
         "courseLink" : " https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012"
         
+    },   
+
+      {
+        "id" : "104",
+        "courseName" : "Python",
+        "platform" : "W3Schools",
+        "courseLink" : "https://www.w3schools.com/python/default.asp"
     },
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+      {
+        "id" : "103",
+        "courseName" : "Javascript",
+        "platform" : "W3Schools",
+        "courseLink" : "https://www.w3schools.com/js/default.asp"
+    }
+
+     {
+        "id" : "104",
+        "courseName" : "AI?ML",
+        "platform" : "Adrew",
+        "courseLink" : "https://www.linkedin.com/pulse/aiml-courses-galore-bhasker-gupta"
+    },
+
      {
         "id" : "104",
         "courseName" : "css",
@@ -151,70 +89,6 @@
         "platform" : "geeksforgeeks",
         "courseLink" : "http://www.geeksforgeeks.com"
     },
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  
-    
-    
-    
-    
     
     {
 
@@ -557,102 +431,12 @@
         "courseName" : "The Data Science Course 2022: Complete Data Science Bootcamp",
         "platform" : "udemy",
         "courseLink" : "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/"
-
-
- },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      },
    {
         "id" : "69",
         "courseName" : "Basics of c++",
         "platform" : "Simply Learn",
         "courseLink" : "https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup"
     },
-
-
-
-    
-    
-    
-
-
 
 ]
