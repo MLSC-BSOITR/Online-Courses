@@ -178,5 +178,9 @@
       "courseLink" : "https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"
     },
 
-
+{
+        "id" : "786",
+        "courseName" : "Data Science And Analytics",
+        "platform" : "Upgrad"
+        "courseLink" : "https://learn.upgrad.com/course/4401"
 ]
