@@ -86,36 +86,36 @@
       "courseLink" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
 
     },
-{
-    "id" : "16",
-    "courseName" : "Coding Interview Prep",
-    "platform" : "FreeCodeCamp",
-    "courseLink" : "https://www.freecodecamp.org/learn/coding-interview-prep/",
-},
+   {
+      "id" : "16",
+      "courseName" : "Coding Interview Prep",
+      "platform" : "FreeCodeCamp",
+      "courseLink" : "https://www.freecodecamp.org/learn/coding-interview-prep/",
+   },
 
-{
+   {
         "id" : "19",
         "courseName" : "DBMS",
         "platform" : "You Tube",
         "courseLink" : "https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU"
     },
 
-{
+    {
         "id" : "007",
         "courseName" : "Docker",
         "platform" : "You Tube",
         "courseLink" : "https://youtu.be/3c-iBn73dDE"
     },
-{
-    "id" : "30",
-    "courseName" : "Python For Beginners",
-    "platform" : "Skillup",
-    "courseLink": "https://www.simplilearn.com/learn-python-basics-free-course-skillup?term=popular%20courses"
+    {
+      "id" : "30",
+      "courseName" : "Python For Beginners",
+      "platform" : "Skillup",
+      "courseLink": "https://www.simplilearn.com/learn-python-basics-free-course-skillup?term=popular%20courses"
     
-},    
+    },    
 
 
-{
+    {
         "id" : "22",
         "courseName" : "AWS Developer Associate Certification Training",
         "platform" : "Skillup",
@@ -136,7 +136,7 @@
         "courseLink" : "https://www.simplilearn.com/pgp-cloud-computing-certification-training-course?tag=Gaming%20programming"
     },
 
-{
+    {
         "id" : "23",
         "courseName" : "introduction to java",
         "platform" : "swayam",
@@ -150,10 +150,21 @@
         "courseLink" : "https://developer.android.com/courses/android-basics-kotlin/course"
     },
     
+
+     {
+        "id" : "28",
+        "courseName" : "Professional Certificate Program in Digital Supply Chain Management",
+        "platform" : "Skillup",
+        "courseLink" : "https://www.simplilearn.com/pgp-digital-supply-chain-management-certification-training-course?tag=time%20management"
+    },
+    
+    
+
     {
         "id" : "25",
         "courseName" : "Machine Learning",
         "platform" : "Skillup"
         "courseLink" : "https://www.simplilearn.com/pgp-machine learning?tag=Gaming%20programming"
+
 
 ]
