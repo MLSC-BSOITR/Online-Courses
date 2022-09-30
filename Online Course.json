@@ -32,6 +32,14 @@
         
          
     },
+          {
+        "id" : "85",
+        "courseName" : "OOPS with c++",
+        "platform" : "youtube",
+        "courseLink" : "https://youtu.be/h0dzuYW_E4k"
+        
+         
+    },
       {
         "id" : "103",
         "courseName" : "ROS",
@@ -445,6 +453,13 @@
         "courseLink" : "https://www.udemy.com/share/101r1i/"
 },
 
+{
+        "id" : "71",
+        "courseName" : "Javascript Essentials",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/course/javascript-essentials/"
+},
+
     {
       "id" : "48",
       "courseName" : "Basic Data Structures And Algorithms by Google",
@@ -503,7 +518,8 @@
         "courseLink" : "https://www.mybib.com/tools/harvard-referencing-generator"
     },
 
-        "id" : "38",
+{
+        "id" : "333",
         "courseName" : "CET Preparation",
         "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/results?search_query=matrix+science+academy"
@@ -518,20 +534,49 @@
         "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
     },
 
-
 {
-        "id" : "2409",
-        "courseName" : "Learn Blockchain",
-        "platform" : "Internshala",
-        "courseLink" : "https://trainings.internshala.com/blockchain-course/?tracking_source=trainings-dropdown-programming-sp"
+        "id" : "145",
+        "courseName" : " WebDevelopment",
+        "platform" : "GeeksforGeeks",
+        "courseLink" :"https://www.geeksforgeeks.org/web-development/"
     },
 {
+
         "id" : "40",
         "courseName" : "NMIMS Digital Marketing",
         "platform" : "nmims.edu",
         "courseLink" : "https://www.nmims.edu/"
     },
 
+{
+"id" : "2410",
+        "courseName" : "Project Managment",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/it-project-management-for-beginners-a-step-by-step-guide/"
+},
 
+{
+        "id" : "100",
+        "courseName" : "Java Programming",
+        "platform" : "Google",
+        "courseLink" : "https://www.programiz.com/java-programming"
+
+},
+{
+        "id" : "08",
+        "courseName" : "Introduction to C++ | Data Structures and Algorithms | College Placement Course",
+        "platform" : "YouTube",
+        "courseLink" : "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
+
+}
+{
+     "id" : "101",
+        "courseName" : "Java Programming  + DSA",
+        "platform" : "apna college",
+        "courseLink" : "https://www.apnacollege.in/course/placement-course-java",
+}
+
+]
+    
 
 
