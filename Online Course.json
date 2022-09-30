@@ -445,6 +445,13 @@
         "courseLink" : "https://www.udemy.com/share/101r1i/"
 },
 
+{
+        "id" : "71",
+        "courseName" : "Javascript Essentials",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/course/javascript-essentials/"
+},
+
     {
       "id" : "48",
       "courseName" : "Basic Data Structures And Algorithms by Google",
