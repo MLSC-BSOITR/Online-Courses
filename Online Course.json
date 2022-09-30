@@ -238,19 +238,11 @@
         "platform" : "Data Flair",
         "courseLink" : "https://data-flair.training/python-course/"
     },
-
-    {
-        "id" : "118",
-        "courseName" : "Android Basics: User Interface",
-        "platform" : "Udacity",
-        "courseLink" : "https://www.udacity.com/course/android-basics-user-interface--ud834"
-
          {
         "id" : "28",
         "courseName" : "Python Certification Course",
         "platform" : "udemy",
         "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
-
     },
 
 
@@ -269,5 +261,11 @@
         "courseLink" : "https://www.simplilearn.com/java-full-stack-developer-certification-training-course?utm_source=google&utm_medium=cpc&utm_term=&utm_content=17794206227-139814028875-611092856388&utm_device=c&utm_campaign=Search-TechCluster-SD-FullStack-DSA-IN-Main-AllDevice-JGuarantee-adgroup-DSA-Full-Stack-Java-Developer-master&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbyFVufRKw8qxUrC_WrPxPEN7Q4JC8Qr-g21N9jWgtXW6DsU1seZX6BoC4y0QAvD_BwE"
 }
 
+{
+        "id" : "10",
+        "courseName" : "full stack java devloper",
+        "platform" : "Skillup",
+        "courseLink" : "https://www.simplilearn.com/learn-java-basics-skillup"
+    },
 
 ]
