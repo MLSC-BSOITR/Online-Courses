@@ -5,7 +5,7 @@ How to CONTRIBUTE ?
 3. Check whether the course you are providing is active and free.
 4. Commit your change and go for pull request.
 6. NOTE1 - Contribution must be done in the given format. Pull request wont be accepted if the format is wrong.
-7. NOTE2 -  Courses you are providing must be free and accessable to everyone
+7. NOTE2 -  Courses you are providing must be free and accessable to everyone.
 
 EX :-
 
