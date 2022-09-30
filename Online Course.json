@@ -291,6 +291,13 @@
         "courseLink" : "https://www.udemy.com/course/beginner-2d-game-development-in-unity"
 }
 
+ {
+      "id" : "07",
+      "courseName" : "Python foundation course",
+      "platform" : "Skillup",
+      "courseLink" : "https://www.simplilearn.com/free-python-foundation-course-skillup?tag=Python"
+    }
+
 
 
 {
