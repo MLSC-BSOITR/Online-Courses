@@ -233,7 +233,18 @@
         "platform" : "udemy",
         "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
     },
-
+ {
+        "id" : "29",
+        "courseName" : "Python Certification Course",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
+    },
+ {
+        "id" : "30",
+        "courseName" : "AWS Course for AWS Certified Cloud Practitioner",
+        "platform" : "Data Flair",
+        "courseLink" : "https://data-flair.training/courses/aws-certified-cloud-practitioner/"
+    },
 
  {
         "id" : "101",
