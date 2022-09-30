@@ -136,7 +136,12 @@
         "courseLink" : "https://www.simplilearn.com/pgp-cloud-computing-certification-training-course?tag=Gaming%20programming"
     },
 
-
+{
+        "id" : "23",
+        "courseName" : "introduction to java",
+        "platform" : "swayam",
+        "courseLink" : "https://swayam.gov.in/nc_details/NPTEL"
+    },
     
     
 
