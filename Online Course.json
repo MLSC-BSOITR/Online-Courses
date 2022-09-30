@@ -35,6 +35,12 @@
         "courseLink" : "https://www.codecademy.com/learn/learn-c-plus-plus"
     },
 
+    {
+      "id" : "4",
+      "courseName" : "Amazon Web Services Cloud Practitioner ",
+      "platform" : "Amazon",
+      "courseLink" : "https://aws.amazon.com/"
+    },
     
     
 
