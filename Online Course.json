@@ -562,6 +562,12 @@
         "courseLink" : "https://www.programiz.com/java-programming"
 
 },
+   {
+      "id" : "1001",
+      "courseName" : "Bootstrap in Hindi",
+      "platform" : "Great Learning",
+      "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/bootstrap-in-hindi"
+    },
 {
         "id" : "08",
         "courseName" : "Introduction to C++ | Data Structures and Algorithms | College Placement Course",
