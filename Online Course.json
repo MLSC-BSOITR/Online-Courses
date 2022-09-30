@@ -150,6 +150,13 @@
         "courseLink" : "https://developer.android.com/courses/android-basics-kotlin/course"
     },
     
+     {
+        "id" : "28",
+        "courseName" : "Professional Certificate Program in Digital Supply Chain Management",
+        "platform" : "Skillup",
+        "courseLink" : "https://www.simplilearn.com/pgp-digital-supply-chain-management-certification-training-course?tag=time%20management"
+    },
+    
     
 
 ]
