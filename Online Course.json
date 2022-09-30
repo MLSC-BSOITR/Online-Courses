@@ -166,5 +166,9 @@
         "platform" : "Skillup"
         "courseLink" : "https://www.simplilearn.com/pgp-machine learning?tag=Gaming%20programming"
 
-
+{
+        "id" : "786",
+        "courseName" : "Data Science And Analytics",
+        "platform" : "Upgrad"
+        "courseLink" : "https://learn.upgrad.com/course/4401"
 ]
