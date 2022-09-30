@@ -21,7 +21,14 @@
         "courseName" : "",
         "platform" : "",
         "courseLink" : ""
+    },
+   {
+        "id" : "5",
+        "courseName" : "Cybersecurity",
+        "platform" : "Simpli learn",
+        "courseLink" : "https://www.simplilearn.com/learn-cyber-security-basics-skillup?term=C"
     }
+
     
     
 
