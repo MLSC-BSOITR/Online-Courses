@@ -647,9 +647,13 @@
         "platform" : "Domestika",
         "courseLink" : "https://www.domestika.org/"
     },
+   
+    {
+        "id" : "5007",
+        "courseName" : "Blockchain Specialization",
+        "platform" : "Coursera",
+        "courseLink" : "https://www.coursera.org/specializations/blockchain"
+    },
+ 
     
-
-
-    
-
 ]
