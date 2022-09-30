@@ -389,7 +389,25 @@
     "platform" : "Google",
     "courseLink" : "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing"
     },
-    ]
+    
     
 
+
+
+
+ {
+        "id" : "3241",
+        "courseName" : "Learn C: The Complete C Programming Course",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
+}
+{
+        "id" : "124",
+        "courseName" : "The Data Science Course 2022: Complete Data Science Bootcamp",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/"
+
+
+ },
+]
 
