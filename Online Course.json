@@ -541,15 +541,7 @@
         "courseLink" :"https://www.geeksforgeeks.org/web-development/"
     },
 {
-
-        "id" : "40",
-        "courseName" : "NMIMS Digital Marketing",
-        "platform" : "nmims.edu",
-        "courseLink" : "https://www.nmims.edu/"
-    },
-
-{
-"id" : "2410",
+    "id" : "2410",
         "courseName" : "Project Managment",
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/course/it-project-management-for-beginners-a-step-by-step-guide/"
@@ -561,28 +553,23 @@
         "platform" : "Google",
         "courseLink" : "https://www.programiz.com/java-programming"
 
-},
-   {
-      "id" : "1001",
-      "courseName" : "Bootstrap in Hindi",
-      "platform" : "Great Learning",
-      "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/bootstrap-in-hindi"
-    },
-{
-        "id" : "08",
-        "courseName" : "Introduction to C++ | Data Structures and Algorithms | College Placement Course",
-        "platform" : "YouTube",
-        "courseLink" : "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
-
 }
 {
      "id" : "101",
         "courseName" : "Java Programming  + DSA",
         "platform" : "apna college",
         "courseLink" : "https://www.apnacollege.in/course/placement-course-java",
-}
+},
 
-]
+
+
+{
+     "id" : "50",
+        "courseName" : "Digital Marketing",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/courses/marketing/digital-marketing/",
+},
+
     
 
 
