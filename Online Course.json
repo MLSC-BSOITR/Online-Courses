@@ -17,10 +17,10 @@
     },
 
     {
-        "id" : "",
-        "courseName" : "",
-        "platform" : "",
-        "courseLink" : ""
+        "id" : "3",
+        "courseName" : "HTML - Introduction to HTML Web Development",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/intro-to-html-web-development/"
     },
     {
         "id" : "4",
