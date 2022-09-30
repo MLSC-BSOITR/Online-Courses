@@ -361,11 +361,14 @@
         "courseLink" : "hhttps://www.udemy.com/course/beginning-javascript/"
 
     },
- {
-        "id" : "1968",
-        "courseName" : "Learn Python: The Complete Python Programming Course",
-        "platform" : "udemy",
-        "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
-    },
+
+{
+        "id" : "455",
+        "courseName" : "DataStructure Algo",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/share/105kbg3@8l6O_HqowqPJO4WMXBDoYlkk3C2ZjZHYNsKmAvRr22UWvXol6NOjq8J3L0xowkCMJA==/"
+        
+    
+}
 
 ]
