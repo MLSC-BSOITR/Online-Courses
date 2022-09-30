@@ -24,17 +24,8 @@
         
     },
     
-
       {
         "id" : "102",
-        "courseName" : "Html",
-        "platform" : "W3Schools",
-        "courseLink" : "https://www.w3schools.com/html/default.asp"
-        
-    },
-    
-      {
-        "id" : "103",
         "courseName" : "java",
         "platform" : "W3Schools",
         "courseLink" : "https://www.w3schools.com/java/default.asp"
@@ -348,17 +339,10 @@
         "courseLink" : "https://www.mygreatlearning.com/great-lakes-artificial-intelligence-and-machine-learning?&utm_source=google&utm_medium=Search&utm_campaign=AIML_Pune_Purchase_Intent-Course_AIML_Combined&adgroup_id=106440164291&campaign_id=9971246354&keyword=machine%20learning%20course&placement=&gclid=EAIaIQobChMI9PT1tOC8-gIVEyQrCh2PbAwpEAAYASAAEgKrDvD_BwE"
     },
 {
-        "id" : "169",
-        "courseName" : "PG Program in Data Science and Engineering",
-        "platform" : "Great Learning",
-        "courseLink" : "https://www.mygreatlearning.com/great-lakes-data-analytics-course?&utm_source=google&utm_medium=search&utm_campaign=DSE_Online_Main_Metros2_April-Data_Analytics&adgroup_id=121238117915&campaign_id=12683339464&keyword=data%20analytics%20courses&placement=&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb4oBEIhVHwrJNWhk_rkqHs73gv20pF2puQVpXBi-mqHRvaygFm99nRoCMDUQAvD_BwE"
-    },
-
-{
-      "id" : "77",
-      "courseName" : "Responsive Web Design from scratch- free",
-      "platform" : "FreeCodeCamp",
-      "courseLink" : "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+        "id" : "501",
+        "courseName" : "Javascript for Beginners",
+        "platform" : "Udemy",
+        "courseLink" : "hhttps://www.udemy.com/course/beginning-javascript/"
     },
 
 ]
