@@ -8,8 +8,7 @@ The Links provided will directly take you to the course you are looking for.
    {
       "id" : "322",
       "courseName" : "Free Javascript Basic Course for learners",
-      "platform" : "Skillshare",
-      "courseLink" : "https://www.skillshare.com/learn-java-basics-skillshare"
+      "platform" : "Skillshare"
       "courseLink" : "https://www.skillshare.com/learn-java-basics-skillshare",
     }
 ]
