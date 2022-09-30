@@ -438,5 +438,10 @@
         "platform" : "Simply Learn",
         "courseLink" : "https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup"
     },
-
+{
+        "id" : "70",
+        "courseName" : "Introduction To Python Programming",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/share/101r1i/"
+},
 ]
