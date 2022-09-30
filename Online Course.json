@@ -34,7 +34,12 @@
         "platform" : "codecademy",
         "courseLink" : "https://www.codecademy.com/learn/learn-c-plus-plus"
     },
-
+    {
+        "id" : "11",
+        "courseName" : "Introduction To Python Programming",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/pythonforbeginnersintro/"
+    },
     
     
 
