@@ -670,5 +670,11 @@
         "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
     }
 
+    {
+        "id" : "42",
+        "courseName" : "Fundamentals of Digital Marketing",
+        "platform" : "Google",
+        "courseLink" : "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing/"
+    }
    
 ]
