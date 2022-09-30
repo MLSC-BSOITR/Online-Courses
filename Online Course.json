@@ -32,6 +32,16 @@
         
          
     },
+    
+    
+    {
+        "id" : "240",
+        "courseName" : "UIUX",
+        "platform" : "youtube",
+        "courseLink" : "https://youtu.be/PgROIybhrd4"
+    },
+    
+    
       {
         "id" : "103",
         "courseName" : "ROS",
