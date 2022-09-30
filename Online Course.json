@@ -22,6 +22,12 @@
         "platform" : "",
         "courseLink" : ""
     },
+    {
+        "id" : "4",
+        "courseName" : "Complete Web DEV",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+    },
    {
         "id" : "5",
         "courseName" : "Cybersecurity",
