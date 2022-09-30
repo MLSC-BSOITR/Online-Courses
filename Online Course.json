@@ -10,23 +10,17 @@
     // You can contribute below as mentioned above
     
     {
-        "id" : "",
-        "courseName" : "",
-        "platform" : "",
-        "courseLink" : ""
+        "id" : "4",
+        "courseName" : "python",
+        "platform" : "geeksforgeeks",
+        "courseLink" : "http://www.geeksforgeeks.com"
     },
 
     {
-        "id" : "",
-        "courseName" : "",
-        "platform" : "",
-        "courseLink" : ""
-    },
-    {
-        "id" : "4",
-        "courseName" : "Complete Web DEV",
-        "platform" : "Udemy",
-        "courseLink" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+        "id" : "6",
+        "courseName" : "myMQL",
+        "platform" : "geeksforgeeks",
+        "courseLink" : "http://www.geeksforgeeks.com"
     },
    {
         "id" : "5",
@@ -35,11 +29,18 @@
         "courseLink" : "https://www.simplilearn.com/learn-cyber-security-basics-skillup?term=C"
     },
     {
+        "id" : "6",
+        "courseName" : "Data science with python",
+        "platform" : "Simpli learn",
+        "courseLink" : "https://www.simplilearn.com/getting-started-data-science-with-python-skillup?term=Dat"
+    },
+
         "id" : "10",
         "courseName" : "C++",
         "platform" : "codecademy",
         "courseLink" : "https://www.codecademy.com/learn/learn-c-plus-plus"
     },
+
 
     {
         "id" : "11",
@@ -63,6 +64,14 @@
       "courseLink" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
 
     },
+
+    "id" : "16",
+    "courseName" : "Coding Interview Prep",
+    "platform" : "FreeCodeCamp",
+    "courseLink" : "https://www.freecodecamp.org/learn/coding-interview-prep/",
+},
+
+
     
     
 
