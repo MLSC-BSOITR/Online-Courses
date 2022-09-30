@@ -36,10 +36,18 @@
     },
 
     {
+        "id" : "11",
+        "courseName" : "Introduction To Python Programming",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/pythonforbeginnersintro/"
+        },
+
+    {
       "id" : "4",
       "courseName" : "Amazon Web Services Cloud Practitioner ",
       "platform" : "Amazon",
       "courseLink" : "https://aws.amazon.com/"
+
     },
     
     
