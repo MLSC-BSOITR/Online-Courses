@@ -42,6 +42,14 @@
       "courseLink" : "https://aws.amazon.com/"
     },
     
+    {
+
+    "id" : "16",
+    "courseName" : "Coding Interview Prep",
+    "platform" : "FreeCodeCamp",
+    "courseLink" : "https://www.freecodecamp.org/learn/coding-interview-prep/",
+}
+    
     
 
 ]
