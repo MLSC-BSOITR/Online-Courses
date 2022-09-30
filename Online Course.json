@@ -541,7 +541,15 @@
         "courseLink" :"https://www.geeksforgeeks.org/web-development/"
     },
 {
-    "id" : "2410",
+
+        "id" : "40",
+        "courseName" : "NMIMS Digital Marketing",
+        "platform" : "nmims.edu",
+        "courseLink" : "https://www.nmims.edu/"
+    },
+
+{
+"id" : "2410",
         "courseName" : "Project Managment",
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/course/it-project-management-for-beginners-a-step-by-step-guide/"
@@ -566,7 +574,9 @@
         "courseName" : "Java Programming  + DSA",
         "platform" : "apna college",
         "courseLink" : "https://www.apnacollege.in/course/placement-course-java",
-},
+}
+
+]
     
 
 
