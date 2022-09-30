@@ -210,7 +210,7 @@
         "courseName" : "Data Science And Analytics",
         "platform" : "Upgrad"
         "courseLink" : "https://learn.upgrad.com/course/4401"
-]
+
 
  {
         "id" : "27",
@@ -218,5 +218,7 @@
         "platform" : "Data Flair",
         "courseLink" : "https://data-flair.training/python-course/"
     },
+
+]
 
  
