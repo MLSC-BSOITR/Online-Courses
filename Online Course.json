@@ -67,7 +67,15 @@
     "courseName" : "Coding Interview Prep",
     "platform" : "FreeCodeCamp",
     "courseLink" : "https://www.freecodecamp.org/learn/coding-interview-prep/",
-}
+},
+
+
+    {
+        "id" : "6",
+        "courseName" : "Data science ",
+        "platform" : "Simpli learn",
+        "courseLink" : "https://www.simplilearn.com/getting-started-data-science-with-python-skillup?term=Dat"
+    }
     
     
 
