@@ -65,6 +65,8 @@
 
     },
 
+{
+
     "id" : "16",
     "courseName" : "Coding Interview Prep",
     "platform" : "FreeCodeCamp",
@@ -83,6 +85,12 @@
         "courseName" : "Docker",
         "platform" : "You Tube",
         "courseLink" : "https://youtu.be/3c-iBn73dDE"
+    },
+ {
+        "id" : "55",
+        "courseName" : "AWS Developer Associate Certification Training",
+        "platform" : "Simplelearn",
+        "courseLink" : "https://www.simplilearn.com/cloud-computing/aws-developer-certification-training?tag=online%20web%20development%20course"
     },
 
     
