@@ -155,5 +155,12 @@
         "courseName" : "Machine Learning",
         "platform" : "Skillup"
         "courseLink" : "https://www.simplilearn.com/pgp-machine learning?tag=Gaming%20programming"
+    },
+       {
+      "id" : "26",
+      "courseName" : "Microsoft Azure Cloud Program",
+      "platform" : "Microsoft Azure",
+      "courseLink" : "https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"
+    },
 
 ]
