@@ -150,6 +150,10 @@
         "courseLink" : "https://developer.android.com/courses/android-basics-kotlin/course"
     },
     
-    
+    {
+        "id" : "25",
+        "courseName" : "Machine Learning",
+        "platform" : "Skillup"
+        "courseLink" : "https://www.simplilearn.com/pgp-machine learning?tag=Gaming%20programming"
 
 ]
