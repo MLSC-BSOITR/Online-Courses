@@ -625,6 +625,12 @@
      
       },
 
+    {
+        "id" : "40",
+        "courseName" : "Digital Art",
+        "platform" : "Domestika",
+        "courseLink" : "https://www.domestika.org/"
+    },
     
 
 
