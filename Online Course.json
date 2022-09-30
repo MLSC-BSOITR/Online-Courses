@@ -624,6 +624,13 @@
         "courseLink" : "https://www.youtube.com/watch?v=Iuo9PpGE04Y&list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF"
      
       },
+    {
+        "id" : "445",
+        "courseName" : "Machine Learning",
+        "platform" : "SoloLearn"
+        "courseLink" : "https://www.sololearn.com/learning/1094"
+     
+      },
 
       {
         "id" : "247",
@@ -634,6 +641,12 @@
       },
 
 
+    {
+        "id" : "40",
+        "courseName" : "Digital Art",
+        "platform" : "Domestika",
+        "courseLink" : "https://www.domestika.org/"
+    },
     
 
 
