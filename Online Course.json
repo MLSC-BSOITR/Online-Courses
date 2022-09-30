@@ -488,12 +488,19 @@
         "courseLink" : "https://developer.android.com/courses/android-basics-compose/course"
     },
 
-
+{
         "id" : "38",
         "courseName" : "Machine Learning",
         "platform" : "hARVARD",
         "courseLink" : "https://www.mybib.com/tools/harvard-referencing-generator"
     },
+
+        "id" : "38",
+        "courseName" : "CET Preparation",
+        "platform" : "youtube",
+        "courseLink" : "https://www.youtube.com/results?search_query=matrix+science+academy"
+    },
+
          },
 
 
@@ -510,6 +517,7 @@
         "platform" : "Internshala",
         "courseLink" : "https://trainings.internshala.com/blockchain-course/?tracking_source=trainings-dropdown-programming-sp"
     },
+
 
 
 
