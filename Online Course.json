@@ -164,3 +164,10 @@
         "platform" : "Data Flair",
         "courseLink" : "https://data-flair.training/python-course/"
     },
+
+ {
+        "id" : "27",
+        "courseName" : "Free Python Certification Course",
+        "platform" : "Data Flair",
+        "courseLink" : "https://data-flair.training/python-course/"
+    },
