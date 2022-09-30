@@ -361,5 +361,11 @@
         "courseLink" : "hhttps://www.udemy.com/course/beginning-javascript/"
 
     },
+ {
+        "id" : "1968",
+        "courseName" : "Learn Python: The Complete Python Programming Course",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
+    },
 
 ]
