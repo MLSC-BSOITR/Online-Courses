@@ -532,6 +532,7 @@
         "courseLink" : "https://www.programiz.com/java-programming"
 
 },
+
  {
         "id" : "5000",
         "courseName" : "Flutter Tutorials",
@@ -539,6 +540,12 @@
         "courseLink" : "https://www.youtube.com/playlist?list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV"   },
 
 
+   {
+      "id" : "1001",
+      "courseName" : "Bootstrap in Hindi",
+      "platform" : "Great Learning",
+      "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/bootstrap-in-hindi"
+    
 {
         "id" : "5001",
         "courseName" : "Complte C++ Dsa Placement Course",
