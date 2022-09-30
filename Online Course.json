@@ -251,6 +251,13 @@
         "platform" : "Data Flair",
         "courseLink" : "https://data-flair.training/courses/data-structures-and-algorithms/"
     },
+
+ {
+        "id" : "47",
+        "courseName" : "Big Data Certification Course with Hadoop & Spark",
+        "platform" : "Data Flair",
+        "courseLink" : "https://data-flair.training/hadoop-spark-developer-course/"
+    },
  {
         "id" : "101",
         "courseName" : "Full Stack Java Developer",
