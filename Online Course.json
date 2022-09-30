@@ -647,7 +647,14 @@
         "platform" : "Domestika",
         "courseLink" : "https://www.domestika.org/"
     },
-    
+   
+    {
+        "id" : "5007",
+        "courseName" : "Blockchain Specialization",
+        "platform" : "Coursera",
+        "courseLink" : "https://www.coursera.org/specializations/blockchain"
+    },
+
     {
         "id" : "41",
         "courseName" : "Python Regression Analysis: Statistics & Machine Learning",
@@ -655,6 +662,5 @@
         "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
     }
 
-    
-
+   
 ]
