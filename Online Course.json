@@ -157,3 +157,10 @@
         "courseLink" : "https://www.simplilearn.com/pgp-machine learning?tag=Gaming%20programming"
 
 ]
+
+ {
+        "id" : "26",
+        "courseName" : "Free Python Certification Course",
+        "platform" : "Data Flair",
+        "courseLink" : "https://data-flair.training/python-course/"
+    },
