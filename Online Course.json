@@ -383,5 +383,11 @@
         "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
 
     },
+     {
+        "id" : "124",
+        "courseName" : "The Data Science Course 2022: Complete Data Science Bootcamp",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/"
 
+    },
 ]
