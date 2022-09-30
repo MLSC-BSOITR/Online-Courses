@@ -75,7 +75,14 @@
         "courseName" : "Data science ",
         "platform" : "Simpli learn",
         "courseLink" : "https://www.simplilearn.com/getting-started-data-science-with-python-skillup?term=Dat"
+    },
+  {
+        "id" : "21",
+        "courseName" : "Financial Markets",
+        "platform" : "Coursera",
+        "courseLink" : "https://www.coursera.org/learn/financial-markets-global"
     }
+
     
     
 
