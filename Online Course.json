@@ -532,5 +532,12 @@
         "courseLink" : "https://www.programiz.com/java-programming"
 
 }
+{
+     "id" : "101",
+        "courseName" : "Java Programming  + DSA",
+        "platform" : "apna college",
+        "courseLink" : "https://www.apnacollege.in/course/placement-course-java",
+},
+    
 
 ]
