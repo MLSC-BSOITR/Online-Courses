@@ -540,5 +540,26 @@
         "platform" : "GeeksforGeeks",
         "courseLink" :"https://www.geeksforgeeks.org/web-development/"
     },
+{
+    "id" : "2410",
+        "courseName" : "Project Managment",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/it-project-management-for-beginners-a-step-by-step-guide/"
+},
+
+{
+        "id" : "100",
+        "courseName" : "Java Programming",
+        "platform" : "Google",
+        "courseLink" : "https://www.programiz.com/java-programming"
+
+}
+{
+     "id" : "101",
+        "courseName" : "Java Programming  + DSA",
+        "platform" : "apna college",
+        "courseLink" : "https://www.apnacollege.in/course/placement-course-java",
+},
+    
 
 
