@@ -531,6 +531,13 @@
         "platform" : "Google",
         "courseLink" : "https://www.programiz.com/java-programming"
 
+},
+{
+        "id" : "08",
+        "courseName" : "Introduction to C++ | Data Structures and Algorithms | College Placement Course",
+        "platform" : "YouTube",
+        "courseLink" : "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
+
 }
 
 ]
