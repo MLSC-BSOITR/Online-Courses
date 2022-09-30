@@ -10,23 +10,39 @@
     // You can contribute below as mentioned above
     
     {
-        "id" : "",
-        "courseName" : "",
-        "platform" : "",
-        "courseLink" : ""
+        "id" : "1",
+        "courseName" : "DSA",
+        "platform" : "GFG",
+        "courseLink" : "https://www.geeksforgeeks.org/data-structures/"
+    },
+    {
+        "id" : "4",
+        "courseName" : "python",
+        "platform" : "geeksforgeeks",
+        "courseLink" : "http://www.geeksforgeeks.com"
     },
 
     {
-        "id" : "",
-        "courseName" : "",
-        "platform" : "",
-        "courseLink" : ""
+
+        "id" : "3",
+        "courseName" : "HTML - Introduction to HTML Web Development",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/intro-to-html-web-development/"
     },
     {
         "id" : "4",
         "courseName" : "Complete Web DEV",
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+        
+    },
+
+    {
+        "id" : "6",
+        "courseName" : "myMQL",
+        "platform" : "geeksforgeeks",
+        "courseLink" : "http://www.geeksforgeeks.com"
+
     },
    {
         "id" : "5",
@@ -40,12 +56,13 @@
         "platform" : "Simpli learn",
         "courseLink" : "https://www.simplilearn.com/getting-started-data-science-with-python-skillup?term=Dat"
     },
-
+    {
         "id" : "10",
         "courseName" : "C++",
         "platform" : "codecademy",
         "courseLink" : "https://www.codecademy.com/learn/learn-c-plus-plus"
     },
+
 
     {
         "id" : "11",
@@ -63,11 +80,12 @@
     },
     
     {
+
     "id" : "16",
     "courseName" : "Coding Interview Prep",
     "platform" : "FreeCodeCamp",
     "courseLink" : "https://www.freecodecamp.org/learn/coding-interview-prep/",
-},
+  },
 
 
     {
@@ -76,14 +94,120 @@
         "platform" : "Simpli learn",
         "courseLink" : "https://www.simplilearn.com/getting-started-data-science-with-python-skillup?term=Dat"
     },
-  {
+   {
         "id" : "21",
         "courseName" : "Financial Markets",
         "platform" : "Coursera",
         "courseLink" : "https://www.coursera.org/learn/financial-markets-global"
     }
 
+      "id" : "4",
+      "courseName" : "The Complete 2022 Web Development Bootcamp ",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+
+    },
+   {
+      "id" : "16",
+      "courseName" : "Coding Interview Prep",
+      "platform" : "FreeCodeCamp",
+      "courseLink" : "https://www.freecodecamp.org/learn/coding-interview-prep/",
+   },
+     {
+        "id" : "13",
+        "courseName" : "DSA",
+        "platform" : "GFG",
+        "courseLink" : "https://www.geeksforgeeks.org/data-structures/"
+    },
+
+   {
+        "id" : "19",
+        "courseName" : "DBMS",
+        "platform" : "You Tube",
+        "courseLink" : "https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU"
+    },
+
+    {
+        "id" : "007",
+        "courseName" : "Docker",
+        "platform" : "You Tube",
+        "courseLink" : "https://youtu.be/3c-iBn73dDE"
+    },
+    {
+      "id" : "30",
+      "courseName" : "Python For Beginners",
+      "platform" : "Skillup",
+      "courseLink": "https://www.simplilearn.com/learn-python-basics-free-course-skillup?term=popular%20courses"
     
+    },    
+
+
+    {
+        "id" : "22",
+        "courseName" : "AWS Developer Associate Certification Training",
+        "platform" : "Skillup",
+        "courseLink" : "https://www.simplilearn.com/java-full-stack-developer-certification-training-course?tag=Advance%20java"
+    },
+    
+    {
+        "id" : "23",
+        "courseName" : "Advanced Executive Program In Cybersecurity",
+        "platform" : "Skillup",
+        "courseLink" : "https://www.simplilearn.com/pgp-advanced-executive-program-in-cyber-security?tag=Gaming%20programming"
+    },
+
+    {
+        "id" : "25",
+        "courseName" : "Post Graduate Program In Cloud Computing",
+        "platform" : "Skillup",
+        "courseLink" : "https://www.simplilearn.com/pgp-cloud-computing-certification-training-course?tag=Gaming%20programming"
+    },
+
+    {
+        "id" : "23",
+        "courseName" : "introduction to java",
+        "platform" : "swayam",
+        "courseLink" : "https://swayam.gov.in/nc_details/NPTEL"
+    },
+
+        {
+        "id" : "24",
+        "courseName" : "Learn android kotlin",
+        "platform" : "Skillup",
+        "courseLink" : "https://developer.android.com/courses/android-basics-kotlin/course"
+    },
+
+     {
+        "id" : "29",
+        "courseName" : "Introduction to Computer Science and Programming Using Python",
+        "platform" : "EdX",
+        "courseLink" : "https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2022a/home"=
+
+     {
+        "id" : "28",
+        "courseName" : "Professional Certificate Program in Digital Supply Chain Management",
+        "platform" : "Skillup",
+        "courseLink" : "https://www.simplilearn.com/pgp-digital-supply-chain-management-certification-training-course?tag=time%20management"
+    },
+
     
 
+    {
+        "id" : "25",
+        "courseName" : "Machine Learning",
+        "platform" : "Skillup"
+        "courseLink" : "https://www.simplilearn.com/pgp-machine learning?tag=Gaming%20programming"
+    },
+       {
+      "id" : "26",
+      "courseName" : "Microsoft Azure Cloud Program",
+      "platform" : "Microsoft Azure",
+      "courseLink" : "https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"
+    },
+
+{
+        "id" : "786",
+        "courseName" : "Data Science And Analytics",
+        "platform" : "Upgrad"
+        "courseLink" : "https://learn.upgrad.com/course/4401"
 ]
