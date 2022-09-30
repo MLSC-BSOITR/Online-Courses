@@ -181,7 +181,9 @@
         "id" : "29",
         "courseName" : "Introduction to Computer Science and Programming Using Python",
         "platform" : "EdX",
-        "courseLink" : "https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2022a/home"=
+        "courseLink" : "https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2022a/home"
+         
+     },
 
      {
         "id" : "28",
