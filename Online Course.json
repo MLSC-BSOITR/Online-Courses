@@ -24,6 +24,15 @@
         
     },
     
+      {
+        "id" : "102",
+        "courseName" : "java",
+        "platform" : "W3Schools",
+        "courseLink" : "https://www.w3schools.com/java/default.asp"
+        
+    },
+    
+    
         {
         "id" : "10",
         "courseName" : "DSA",
