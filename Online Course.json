@@ -648,7 +648,12 @@
         "courseLink" : "https://www.domestika.org/"
     },
     
-
+    {
+        "id" : "41",
+        "courseName" : "Python Regression Analysis: Statistics & Machine Learning",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
+    }
 
     
 
