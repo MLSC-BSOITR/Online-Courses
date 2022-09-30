@@ -245,7 +245,12 @@
         "platform" : "Data Flair",
         "courseLink" : "https://data-flair.training/courses/aws-certified-cloud-practitioner/"
     },
-
+ {
+        "id" : "42",
+        "courseName" : "Data Structures and Algorithms Certification Course in C",
+        "platform" : "Data Flair",
+        "courseLink" : "https://data-flair.training/courses/data-structures-and-algorithms/"
+    },
  {
         "id" : "101",
         "courseName" : "Full Stack Java Developer",
