@@ -87,6 +87,7 @@
     
     {
 
+
     "id" : "16",
     "courseName" : "Coding Interview Prep",
     "platform" : "FreeCodeCamp",
@@ -106,7 +107,9 @@
         "platform" : "Coursera",
         "courseLink" : "https://www.coursera.org/learn/financial-markets-global"
     }
+
     {
+
       "id" : "4",
       "courseName" : "The Complete 2022 Web Development Bootcamp ",
       "platform" : "Udemy",
@@ -175,7 +178,7 @@
         "platform" : "swayam",
         "courseLink" : "https://swayam.gov.in/nc_details/NPTEL"
     },
-
+    
         {
         "id" : "24",
         "courseName" : "Learn android kotlin",
@@ -187,9 +190,7 @@
         "id" : "29",
         "courseName" : "Introduction to Computer Science and Programming Using Python",
         "platform" : "EdX",
-        "courseLink" : "https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2022a/home"
-         
-     },
+        "courseLink" : "https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2022a/home"=
 
      {
         "id" : "28",
@@ -198,7 +199,7 @@
         "courseLink" : "https://www.simplilearn.com/pgp-digital-supply-chain-management-certification-training-course?tag=time%20management"
     },
 
-    
+  
 
     {
         "id" : "25",
@@ -213,12 +214,23 @@
       "courseLink" : "https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"
     },
 
-   {
-        "id" : "786",
+{
+        "id" : "27",
         "courseName" : "Data Science And Analytics",
         "platform" : "Upgrad"
         "courseLink" : "https://learn.upgrad.com/course/4401"
-    }
+
+},
+       
+  
+    {
+
+        "id" : "28",
+        "courseName" : "Flutter-Development-Udemy",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/flutter-bootcamp-with-dart/"
+    },
+    
 
  {
         "id" : "27",
@@ -226,13 +238,36 @@
         "platform" : "Data Flair",
         "courseLink" : "https://data-flair.training/python-course/"
     },
+
     {
         "id" : "118",
         "courseName" : "Android Basics: User Interface",
         "platform" : "Udacity",
         "courseLink" : "https://www.udacity.com/course/android-basics-user-interface--ud834"
+
+         {
+        "id" : "28",
+        "courseName" : "Python Certification Course",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
+
     },
 
-]
 
- 
+ {
+        "id" : "29",
+        "courseName" : "Full Stack Java Developer",
+        "platform" : "simplilearn",
+        "courseLink" : "https://www.simplilearn.com/java-full-stack-developer-certification-training-course?utm_source=google&utm_medium=cpc&utm_term=&utm_content=17794206227-139814028875-611092856388&utm_device=c&utm_campaign=Search-TechCluster-SD-FullStack-DSA-IN-Main-AllDevice-JGuarantee-adgroup-DSA-Full-Stack-Java-Developer-master&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbyFVufRKw8qxUrC_WrPxPEN7Q4JC8Qr-g21N9jWgtXW6DsU1seZX6BoC4y0QAvD_BwE"
+    },
+
+
+{
+        "id" : "30",
+        "courseName" : "Full Stack Java Developer",
+        "platform" : "simplilearn"
+        "courseLink" : "https://www.simplilearn.com/java-full-stack-developer-certification-training-course?utm_source=google&utm_medium=cpc&utm_term=&utm_content=17794206227-139814028875-611092856388&utm_device=c&utm_campaign=Search-TechCluster-SD-FullStack-DSA-IN-Main-AllDevice-JGuarantee-adgroup-DSA-Full-Stack-Java-Developer-master&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbyFVufRKw8qxUrC_WrPxPEN7Q4JC8Qr-g21N9jWgtXW6DsU1seZX6BoC4y0QAvD_BwE"
+}
+
+
+]
