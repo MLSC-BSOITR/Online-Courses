@@ -742,4 +742,12 @@
         "platform" : "YouTube",
         "courseLink" : "https://youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW"
     },
+    
+    {
+    "id" : "08",
+        "courseName" : "Excel Basics for Data Analysis",
+        "platform" : "Coursera",
+        "courseLink" : "https://www.coursera.org/learn/excel-basics-data-analysis-ibm/home/week/1"
+    }
+
 ]
