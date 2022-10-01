@@ -713,6 +713,12 @@
         "platform" : "Google",
         "courseLink" : "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing/"
     }
+{
+        "id" : "911",
+        "courseName" : "Introduction to Data Science",
+        "platform" : "Simplilearn",
+        "courseLink" : "https://www.simplilearn.com/data-science-free-course-for-beginners-skillup"
+    },
 
    {
         "id" : "176",
