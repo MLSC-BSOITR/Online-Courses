@@ -726,4 +726,11 @@
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/course/beginning-javascript/"
     },
+
+{
+        "id" : "177",
+        "courseName" : "Selenium",
+        "platform" : "Javatpoint",
+        "courseLink" : "https://www.javatpoint.com/selenium-tutorial"
+    },
 ]
