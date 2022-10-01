@@ -22,6 +22,15 @@
         "platform" : "Infosys Springboard",
         "courseLink" : "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944461471416322737_shared/overview"
     },
+    {
+          "id" :"100",
+        
+        "courseName":"web development with Flask",
+        
+        "platform":"tutorialspoint",
+        
+        "courseLink":"https://www.tutorialspoint.com/flask/index.htm",
+    },
     
      {
         "id" : "101",
