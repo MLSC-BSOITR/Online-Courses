@@ -686,5 +686,11 @@
         "courseLink" : "https://www.freecodecamp.org/news/what-is-go-programming-language/"
     }
 
+    {
+        "id" : "42",
+        "courseName" : "Fundamentals of Digital Marketing",
+        "platform" : "Google",
+        "courseLink" : "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing/"
+    }
    
 ]
