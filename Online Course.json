@@ -694,9 +694,16 @@
 
     {
         "id" : "42",
+        "courseName" : "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/100-days-of-code/"
+    },
+
+{
         "courseName" : "Fundamentals of Digital Marketing",
         "platform" : "Google",
         "courseLink" : "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing/"
     }
+
    
 ]
