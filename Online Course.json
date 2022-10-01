@@ -776,5 +776,11 @@
         "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/watch?v=PkZNo7MFNFg&t=10151s"
     },
+    {
+        "id" : "221",
+        "courseName" : "Free Comptia Cloud Basic Course ",
+        "platform" : "Alison",
+        "courseLink" : "https://alison.com/course/comptia-cloud-basic"
+    },
 
 ]
