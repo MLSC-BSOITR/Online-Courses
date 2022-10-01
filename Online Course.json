@@ -714,5 +714,10 @@
         "courseLink" : "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing/"
     }
 
-   
+   {
+        "id" : "176",
+        "courseName" : "Javascript for Beginners",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/beginning-javascript/"
+    },
 ]
