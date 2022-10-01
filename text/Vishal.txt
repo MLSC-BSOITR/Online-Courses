@@ -1,8 +1,0 @@
-[
-   {
-      "id" : "004",
-      "courseName" : "Free Coding courses for Beginners";
-      "platform" : "MAGIC CODER";
-      "courseLink" : "https://www.Code.com/learn-coding-basics-magiccoder";
-    }
- ]
