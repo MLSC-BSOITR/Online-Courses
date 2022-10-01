@@ -180,14 +180,11 @@
     },
     
     {
-
-
     "id" : "16",
     "courseName" : "Coding Interview Prep",
     "platform" : "FreeCodeCamp",
     "courseLink" : "https://www.freecodecamp.org/learn/coding-interview-prep/",
-  },
-
+    },
 
     {
         "id" : "6",
@@ -299,7 +296,7 @@
     {
         "id" : "25",
         "courseName" : "Machine Learning",
-        "platform" : "Skillup"
+        "platform" : "Skillup",
         "courseLink" : "https://www.simplilearn.com/pgp-machine learning?tag=Gaming%20programming"
     },
        {
@@ -312,7 +309,7 @@
     {
         "id" : "27",
         "courseName" : "Data Science And Analytics",
-        "platform" : "Upgrad"
+        "platform" : "Upgrad",
         "courseLink" : "https://learn.upgrad.com/course/4401"
 
       },
@@ -375,14 +372,14 @@
     {
         "id" : "30",
         "courseName" : "Full Stack Java Developer",
-        "platform" : "simplilearn"
+        "platform" : "simplilearn",
         "courseLink" : "https://www.simplilearn.com/java-full-stack-developer-certification-training-course?utm_source=google&utm_medium=cpc&utm_term=&utm_content=17794206227-139814028875-611092856388&utm_device=c&utm_campaign=Search-TechCluster-SD-FullStack-DSA-IN-Main-AllDevice-JGuarantee-adgroup-DSA-Full-Stack-Java-Developer-master&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbyFVufRKw8qxUrC_WrPxPEN7Q4JC8Qr-g21N9jWgtXW6DsU1seZX6BoC4y0QAvD_BwE"
      },
 
      {
         "id" : "31",
         "courseName" : "Unity 3D",
-        "platform" : "udemy"
+        "platform" : "udemy",
         "courseLink" : "https://www.udemy.com/course/beginner-2d-game-development-in-unity"
      }
 
@@ -438,13 +435,13 @@
         
     
 }
-
+{
         "id" : "38",
         "courseName" : "Building Web applications with Java Spring Boot",
         "platform" : "Alison",
         "courseLink" : "https://alison.com/courses/building-web-applications-with-java-spring-boot/content#event=login"
-
-    {
+    },
+{
         "id" : "1968",
         "courseName" : "Learn Python: The Complete Python Programming Course",
         "platform" : "udemy",
@@ -591,7 +588,7 @@
  {
         "id" : "5000",
         "courseName" : "Flutter Tutorials",
-        "platform" : "youtube"
+        "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/playlist?list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV"   
  },
 
@@ -607,7 +604,7 @@
     {
         "id" : "5001",
         "courseName" : "Complte C++ Dsa Placement Course",
-        "platform" : "youtube"
+        "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"  
      },
 
@@ -615,14 +612,14 @@
 {
         "id" : "5002",
         "courseName" : "Java Tutorials for Beginners",
-        "platform" : "youtube"
+        "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK"  
     },
 
 {
         "id" : "5003",
         "courseName" : "Learn Dart Language in Hindi",
-        "platform" : "youtube"
+        "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/watch?v=YyvWaEwSJ84&list=PLWCLxMult9xeeY5NDx4JIWqEnXnlG3fKc"  
     },
 
@@ -630,27 +627,27 @@
 
         "id" : "5005",
         "courseName" : "Learn Dart Language in Hindi",
-        "platform" : "youtube"
+        "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/watch?v=YyvWaEwSJ84&list=PLWCLxMult9xeeY5NDx4JIWqEnXnlG3fKc"  
      }
       
       {
         "id" : "100",
         "courseName" : "Code With Harry",
-        "platform" : "youtube"
+        "platform" : "youtube",
         "courseLink" : "https://www.codewithharry.com/"  
       }
     {
         "id" : "444",
         "courseName" : "Cpp full course by saurabh shukla",
-        "platform" : "youtube"
+        "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/watch?v=Iuo9PpGE04Y&list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF"
      
       },
     {
         "id" : "445",
         "courseName" : "Machine Learning",
-        "platform" : "SoloLearn"
+        "platform" : "SoloLearn",
         "courseLink" : "https://www.sololearn.com/learning/1094"
      
       },
@@ -658,7 +655,7 @@
       {
         "id" : "247",
         "courseName" : "Machine Learning Course for Beginners",
-        "platform" : "youtube"
+        "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/watch?v=NWONeJKn6kc"
      
       },
@@ -733,6 +730,18 @@
         "platform" : "Javatpoint",
         "courseLink" : "https://www.javatpoint.com/selenium-tutorial"
     },
+    {
+        "id" : "178",
+        "courseName" : "CS50's Introduction to Computer Science",
+        "platform" : "edX",
+        "courseLink" : "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x"
+    },
+    {
+        "id" : "179",
+        "courseName" : "Swift for Beginners ",
+        "platform" : "YouTube",
+        "courseLink" : "https://youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW"
+    },
     
     {
     "id" : "08",
@@ -740,4 +749,5 @@
         "platform" : "Coursera",
         "courseLink" : "https://www.coursera.org/learn/excel-basics-data-analysis-ibm/home/week/1"
     }
+
 ]
