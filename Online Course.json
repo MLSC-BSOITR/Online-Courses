@@ -147,6 +147,12 @@
         "platform" : "codecademy",
         "courseLink" : "https://www.codecademy.com/learn/learn-c-plus-plus"
     },
+ {
+        "id" : "29",
+        "courseName" : "UI/UX",
+        "platform" : "youtube",
+        "courseLink" : "https://www.youtube.com/watch?v=QeTbLkH64kQ"
+    },
 
 
     {
