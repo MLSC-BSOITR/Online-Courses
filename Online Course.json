@@ -733,4 +733,11 @@
         "platform" : "Javatpoint",
         "courseLink" : "https://www.javatpoint.com/selenium-tutorial"
     },
+    
+    {
+    "id" : "08",
+        "courseName" : "Excel Basics for Data Analysis",
+        "platform" : "Coursera",
+        "courseLink" : "https://www.coursera.org/learn/excel-basics-data-analysis-ibm/home/week/1"
+    }
 ]
