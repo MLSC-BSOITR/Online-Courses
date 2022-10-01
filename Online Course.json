@@ -763,6 +763,13 @@
         "platform" : "Skillup",
         "courseLink" : "https://www.simplilearn.com/tutorials/git-tutorial"
     },
-    
+
+    {
+        "id" : "180",
+        "courseName" : "Explore blockchain technology",
+        "platform" : "Chainlink",
+        "courseLink" : "https://chain.link/education"
+    },
+
 
 ]
