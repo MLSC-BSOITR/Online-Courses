@@ -770,6 +770,11 @@
         "platform" : "Chainlink",
         "courseLink" : "https://chain.link/education"
     },
-
+    {
+        "id" : "220",
+        "courseName" : "Learn JavaScript - Full Course for Beginners",
+        "platform" : "youtube",
+        "courseLink" : "https://www.youtube.com/watch?v=PkZNo7MFNFg&t=10151s"
+    },
 
 ]
