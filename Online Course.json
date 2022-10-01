@@ -756,11 +756,20 @@
         "platform" : "CodeBeyond",
         "courseLink" : "https://www.youtube.com/watch?v=8-YDYE2JOS0&list=PLN4aKSfpk8TTD3g83qIK4PiNsImxWK-6x"
     },
+
+    {
+        "id" : "121",
+        "courseName" : "Git Tutorial",
+        "platform" : "Skillup",
+        "courseLink" : "https://www.simplilearn.com/tutorials/git-tutorial"
+    },
+
     {
         "id" : "180",
         "courseName" : "Explore blockchain technology",
         "platform" : "Chainlink",
         "courseLink" : "https://chain.link/education"
     },
+
 
 ]
