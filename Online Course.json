@@ -707,6 +707,12 @@
         "platform" : "Alison",
         "courseLink" : "https://alison.com/course/comptia-cloud-basic"
    },
+{
+        "id": "224",
+        "courseName": "Introduction To Python Programming Language",
+        "platform": "Udemy",
+        "courseLink": "https://www.udemy.com/share/101r1i/"
+    },
 
     {
         "id": "433",
