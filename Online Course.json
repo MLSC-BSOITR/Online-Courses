@@ -231,6 +231,7 @@
         "platform": "swayam",
         "courseLink": "https://swayam.gov.in/nc_details/NPTEL"
     },
+
     {
         "id": "24",
         "courseName": "Learn android kotlin",
@@ -254,6 +255,12 @@
         "courseName": "Machine Learning",
         "platform": "Skillup",
         "courseLink": "https://www.simplilearn.com/pgp-machine learning?tag=Gaming%20programming"
+    },
+    {
+        "id": "67",
+        "courseName": "Amazon Web Service Developer Associate Certification Training",
+        "platform": "Skillup Platform",
+        "courseLink": "https://www.simplilearn.com/java-full-stack-developer-certification-training-course?tag=Advance%20java"
     },
     {
         "id": "26",
