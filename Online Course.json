@@ -781,6 +781,11 @@
         "courseName" : "Free Comptia Cloud Basic Course ",
         "platform" : "Alison",
         "courseLink" : "https://alison.com/course/comptia-cloud-basic"
+   },
+   {     "id" : 222"
+        "courseName" : "Golang Tutorial for Beginners | Full Go Course",
+        "platform" : "Youtube",
+        "courseLink" : "https://www.youtube.com/watch?v=yyUHQIec83I"
     },
 
 ]
