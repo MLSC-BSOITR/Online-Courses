@@ -457,6 +457,12 @@
         "platform": "hARVARD",
         "courseLink": "https://www.mybib.com/tools/harvard-referencing-generator"
     },
+   {
+        "id": "332",
+        "courseName": "Web development with Flask",
+        "platform": "tutorialspoint.com",
+        "courseLink": "https://www.tutorialspoint.com/flask/index.html",
+    },
     {
         "id": "333",
         "courseName": "CET Preparation",
