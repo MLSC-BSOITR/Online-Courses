@@ -14,6 +14,12 @@
         "courseLink": "https://www.geeksforgeeks.org/data-structures/"
     },
     {
+        "id": "304",
+        "courseName": "JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)",
+        "platform": "Youtube",
+        "courseLink": "https://www.youtube.com/watch?v=lI1ae4REbFM"
+    },
+    {
         "id": "05",
         "courseName": "The Full Stack Web Development",
         "platform": "Infosys Springboard",
