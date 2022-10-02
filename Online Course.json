@@ -713,6 +713,12 @@
         "platform": "Udemy",
         "courseLink": "https://www.udemy.com/share/101r1i/"
     },
+{
+        "id": "90",
+        "courseName": "Python",
+        "platform": "W3Schools",
+        "courseLink": "https://www.w3schools.com/python/default.asp"
+    },
 
     {
         "id": "433",
