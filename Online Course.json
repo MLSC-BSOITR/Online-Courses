@@ -668,8 +668,13 @@
         "platform": "Udemy",
         "courseLink": "https://www.udemy.com/course/web-developer-course-on-creating-a-business-website/"
     },
-    
 
+{
+        "id": "689",
+        "courseName": "Python 3 For Offensive PenTest: A Complete Practical Course",
+        "platform": "Udemy",
+        "courseLink": "https://www.udemy.com/course/python-for-offensive-security-practical-course/"
+    },
   
    {    
          "id" : 222"
