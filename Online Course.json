@@ -662,9 +662,27 @@
         "courseLink": "https://www.youtube.com/watch?v=PkZNo7MFNFg&t=10151s"
     },
     {
+
         "id": "221",
         "courseName": "Learn Web Development For Free",
         "platform": "Udemy",
         "courseLink": "https://www.udemy.com/course/web-developer-course-on-creating-a-business-website/"
     },
+    
+
+  
+   {    
+         "id" : 222"
+        "courseName" : "Golang Tutorial for Beginners | Full Go Course",
+        "platform" : "Youtube",
+        "courseLink" : "https://www.youtube.com/watch?v=yyUHQIec83I"
+    },
+    {
+        "id" : "223",
+        "courseName" : "Free Comptia Cloud Basic Course ",
+        "platform" : "Alison",
+        "courseLink" : "https://alison.com/course/comptia-cloud-basic"
+   },
+
 ]
+
