@@ -684,5 +684,12 @@
         "courseLink" : "https://alison.com/course/comptia-cloud-basic"
    },
 
+    {
+        "id": "433",
+        "courseName": "GATE CSE 2023 Live",
+        "platform": "geeksforgeeks",
+        "courseLink": "https://practice.geeksforgeeks.org/courses/gate-live-course"
+    },
+
 ]
 
