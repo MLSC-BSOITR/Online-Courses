@@ -732,6 +732,12 @@
         "platform": "scrimba",
         "courseLink": "https://scrimba.com/learn/learnreact"
     },
+    {
+        "id":"435",
+        "courseName":"AWS Cloud Practitioner",
+        "platform":"youtube",
+        "courseLink":"https://www.youtube.com/watch?v=3hLmDS179YE"
+    },
 
 ]
 
