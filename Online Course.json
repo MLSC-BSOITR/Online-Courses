@@ -726,6 +726,12 @@
         "platform": "geeksforgeeks",
         "courseLink": "https://practice.geeksforgeeks.org/courses/gate-live-course"
     },
+    {
+        "id": "434",
+        "courseName": "Learn React",
+        "platform": "scrimba",
+        "courseLink": "https://scrimba.com/learn/learnreact"
+    },
 
 ]
 
