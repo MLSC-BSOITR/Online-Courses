@@ -738,6 +738,18 @@
         "platform":"youtube",
         "courseLink":"https://www.youtube.com/watch?v=3hLmDS179YE"
     },
+    {
+        "id": "225",
+        "courseName": "Introduction to AWS",
+        "platform": "Amazon Web Services",
+        "courseLink": "https://aws.amazon.com/"
+    },
+	{
+        "id": "226",
+        "courseName": "Web Development Course",
+        "platform": "youtube",
+        "courseLink": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+    },
 
 ]
 
