@@ -765,13 +765,18 @@
         "platform": "youtube",
         "courseLink": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
     },
-	
     {
         "id": "227",
         "courseName": "Product Retouching - By PiXimperfect",
         "platform": "YouTube",
         "courseLink": "https://www.youtube.com/playlist?list=PLLlSBGLVsEPL79S7O30F_Jdjq_EN4Jj6M"
     }
+	{
+        "id": "227",
+        "courseName": "Android Architecture Components & Jetpack",
+        "platform": "youtube",
+        "courseLink": "https://www.youtube.com/playlist?list=PLRKyZvuMYSIO0jLgj8g6sADnD0IBaWaw2"
+    },
 
 ]
 
