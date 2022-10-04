@@ -738,6 +738,11 @@
         "platform":"youtube",
         "courseLink":"https://www.youtube.com/watch?v=3hLmDS179YE"
     },
-
+    {
+        "id":"436",
+        "courseName":"SQL and Databases - A Full Course for Beginners",
+        "platform":"freeCodeCamp",
+        "courseLink":"https://www.freecodecamp.org/news/sql-and-databases-full-course/"
+    },
 ]
 
