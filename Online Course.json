@@ -738,6 +738,11 @@
         "platform":"youtube",
         "courseLink":"https://www.youtube.com/watch?v=3hLmDS179YE"
     },
-
+    {
+        "id":"412",
+        "courseName":"DevOps Bootcamp",
+        "platform":"youtube",
+        "courseLink":"https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak"
+    }
 ]
 
