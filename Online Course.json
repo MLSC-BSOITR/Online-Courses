@@ -777,6 +777,12 @@
         "platform": "youtube",
         "courseLink": "https://www.youtube.com/playlist?list=PLRKyZvuMYSIO0jLgj8g6sADnD0IBaWaw2"
     },
+    {
+	"id" : "228",
+	"courseName" : "Learn SQL / MySQL database basics FOR FREE",
+	"platform" : "UDEMY",
+	"courseLink" : "https://www.udemy.com/course/learn-sqlmysql-database-basics-for-free/"
+    },
 
 ]
 
