@@ -828,3 +828,11 @@
       "courseLink" : "https://youtu.be/gwWKnnCMQ5c"
     }
  ]
+ [
+   {
+      "id" : "235",
+      "courseName" : "Introduction to SQL",
+      "platform" : "w3schools",
+      "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
+    }
+ ]
