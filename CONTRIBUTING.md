@@ -17,3 +17,13 @@ EX :-
           "courseLink" : "https://www.simplilearn.com/learn-java-basics-skillup"
         }
      ]
+
+
+[
+       {
+          "id" : "1",
+          "courseName" : "Python tutorial",
+          "platform" : "w3schools",
+          "courseLink" : "https://www.w3schools.com/python/default.asp"
+        }
+     ]
