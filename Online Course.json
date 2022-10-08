@@ -38,6 +38,12 @@
         "courseLink": "https://dphi.tech/learn/supervised-learning-classification/introduction-to-supervised-learning"
     },
 	
+	 {
+        "id": "526",
+        "courseName": "introduction-to-exploratory-data-analysis",
+        "platform": "dphi",
+        "courseLink": "https://dphi.tech/courses/introduction-to-exploratory-data-analysis"
+    },
 	
     {
         "id": "101",
