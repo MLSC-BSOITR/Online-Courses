@@ -31,6 +31,14 @@
         "platform": "tutorialspoint",
         "courseLink": "https://www.tutorialspoint.com/flask/index.htm",
     },
+	 {
+        "id": "521",
+        "courseName": "introduction-to-supervised-learning",
+        "platform": "dphi",
+        "courseLink": "https://dphi.tech/learn/supervised-learning-classification/introduction-to-supervised-learning"
+    },
+	
+	
     {
         "id": "101",
         "courseName": "C++",
