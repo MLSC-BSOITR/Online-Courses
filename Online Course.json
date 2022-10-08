@@ -44,6 +44,12 @@
         "platform": "dphi",
         "courseLink": "https://dphi.tech/courses/introduction-to-exploratory-data-analysis"
     },
+	 {
+        "id": "527",
+        "courseName": "pre-requisites_for_deep_learning_bootcamp",
+        "platform": "dphi",
+        "courseLink": "https://dphi.tech/courses/pre-requisites_for_deep_learning_bootcamp"
+    },
 	
     {
         "id": "101",
