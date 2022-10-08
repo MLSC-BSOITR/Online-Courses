@@ -57,6 +57,21 @@
         "platform": "dphi",
         "courseLink": "https://dphi.tech/courses/introduction-to-data-visualization"
     },
+	
+	{
+        "id": "529",
+        "courseName": "introduction-to-python-basics-for-data-science",
+        "platform": "dphi",
+        "courseLink": "https://dphi.tech/learn/introduction-to-python-basics-for-data-science/introduction-to-python"
+    },
+	
+	{
+        "id": "530",
+        "courseName": "introduction-to-pandas",
+        "platform": "dphi",
+        "courseLink": "https://dphi.tech/courses/introduction-to-pandas"
+    },
+	
     {
         "id": "101",
         "courseName": "C++",
