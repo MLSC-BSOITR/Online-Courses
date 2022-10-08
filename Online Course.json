@@ -883,3 +883,9 @@
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     }
  ]
+     {
+      "id" : "236",
+      "courseName" : "Python Certification Course",
+      "platform" : "Intellipaat",
+      "courseLink" : "https://intellipaat.com/python-certification-training-online"
+    }
