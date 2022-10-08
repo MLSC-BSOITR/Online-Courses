@@ -78,6 +78,12 @@
         "platform": "Google",
         "courseLink": "https://developers.google.com/machine-learning/crash-course"
     },
+	{
+        "id": "532",
+        "courseName": "big-data",
+        "platform": "cognitiveclass.ai",
+        "courseLink": "https://cognitiveclass.ai/learn/big-data"
+    },
 	
     {
         "id": "101",
