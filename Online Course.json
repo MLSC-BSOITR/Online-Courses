@@ -883,3 +883,12 @@
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     }
  ]
+[
+   {
+      "id" : "236",
+      "courseName" : "Learn HTML5 and CSS3 from Scratch",
+      "platform" : "Youtube",
+      "courseLink" : "https://youtu.be/mU6anWqZJcc"
+    }
+ ]
+
