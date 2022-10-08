@@ -17,13 +17,4 @@ The Links provided will directly take you to the course you are looking for.
     },
 
 
-{
-        "id": "55",
-        
-        "courseName": "Data Structures Course for Beginners",
-        
-        "platform": "Javatpoint",
-        
-        "courseLink": "https://www.javatpoint.com/data-structure-tutorial"
-        
-    },
+
