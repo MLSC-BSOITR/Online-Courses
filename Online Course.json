@@ -72,6 +72,13 @@
         "courseLink": "https://dphi.tech/courses/introduction-to-pandas"
     },
 	
+	{
+        "id": "531",
+        "courseName": "machine-learning/crash-course",
+        "platform": "Google",
+        "courseLink": "https://developers.google.com/machine-learning/crash-course"
+    },
+	
     {
         "id": "101",
         "courseName": "C++",
