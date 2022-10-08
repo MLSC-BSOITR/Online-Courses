@@ -31,6 +31,32 @@
         "platform": "tutorialspoint",
         "courseLink": "https://www.tutorialspoint.com/flask/index.htm",
     },
+	 {
+        "id": "521",
+        "courseName": "introduction-to-supervised-learning",
+        "platform": "dphi",
+        "courseLink": "https://dphi.tech/learn/supervised-learning-classification/introduction-to-supervised-learning"
+    },
+	
+	 {
+        "id": "526",
+        "courseName": "introduction-to-exploratory-data-analysis",
+        "platform": "dphi",
+        "courseLink": "https://dphi.tech/courses/introduction-to-exploratory-data-analysis"
+    },
+	 {
+        "id": "527",
+        "courseName": "pre-requisites_for_deep_learning_bootcamp",
+        "platform": "dphi",
+        "courseLink": "https://dphi.tech/courses/pre-requisites_for_deep_learning_bootcamp"
+    },
+	
+	 {
+        "id": "528",
+        "courseName": "introduction-to-data-visualization",
+        "platform": "dphi",
+        "courseLink": "https://dphi.tech/courses/introduction-to-data-visualization"
+    },
     {
         "id": "101",
         "courseName": "C++",
