@@ -96,6 +96,13 @@
         "platform": "ros.orgwiki",
         "courseLink": "https://www.ros.org"
     },
+	
+    {
+        "id": "1167",
+        "courseName": "Introduction to CSS",
+        "platform": "Simplilearn",
+        "courseLink": "https://www.simplilearn.com/learn-css-basics-free-training-course-skillup"
+    },
     {
         "id": "696969",
         "courseName": "Android",
