@@ -870,16 +870,23 @@
     },
     {
       "id" : "235",
-      "courseName" : "Free Web-Development Course",
+      "courseName" : "C++ Tutorial for beginners in hindi",
       "platform" : "YouTube",
-      "courseLink" : "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
+      "courseLink" : "https://youtu.be/Umm1ZQ5ltZw"
     }
  ]
  [
    {
-      "id" : "235",
+      "id" : "236",
       "courseName" : "Introduction to SQL",
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
+    }
+   {
+      "id" : "237",
+      "courseName" : "Introduction to SQL",
+      "platform" : "Youtube",
+      "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
+
     }
  ]
