@@ -668,6 +668,12 @@
         "courseName" : "Python Regression Analysis: Statistics & Machine Learning",
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
+    },
+    {
+        "id" : "42",
+        "courseName" : "Python for beginners",
+        "platform" : "youtube",
+        "courseLink" : "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3"
     }
 
    
