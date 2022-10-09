@@ -31,6 +31,26 @@
         "platform": "tutorialspoint",
         "courseLink": "https://www.tutorialspoint.com/flask/index.htm",
     },
+    {
+        "id": "591",
+        "courseName": "My SQL Basics",
+        "platform": "Great Learning",
+        "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics",
+    },
+    {
+        "id": "592",
+        "courseName": "Android Application Development",
+        "platform": "Great Learning",
+        "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/android-application-development",
+    },
+    {
+        "id": "593",
+        "courseName": "Data Science Foundations",
+        "platform": "Great Learning",
+        "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations",
+    },
+
+
 	 {
         "id": "521",
         "courseName": "introduction-to-supervised-learning",
