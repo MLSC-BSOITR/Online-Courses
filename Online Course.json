@@ -861,7 +861,7 @@
         "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial"
        },
 ]
- [
+[
    {
       "id" : "234",
       "courseName" : "Git and Github tutorial for begineer in hindi",
@@ -874,8 +874,8 @@
       "platform" : "YouTube",
       "courseLink" : "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
     }
- ]
- [
+]
+[
    {
       "id" : "235",
       "courseName" : "Introduction to SQL",
@@ -883,3 +883,17 @@
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     }
  ]
+ [
+    {
+       "id" : "236",
+       "courseName" : "Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer",
+       "platform" : "Youtube",
+       "courseLink" : "https://www.youtube.com/watch?v=RBSGKlAvoiM"
+     },
+     {
+       "id" : "237",
+       "courseName" : "APIs for Beginners - How to use an API (Full Course / Tutorial)",
+       "platform" : "YouTube",
+       "courseLink" : "https://www.youtube.com/watch?v=GZvSYJDk-us"
+     }
+  ]
