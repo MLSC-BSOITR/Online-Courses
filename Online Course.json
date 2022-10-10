@@ -986,9 +986,17 @@
      {
 
       "id" : "234",
-      "courseName" : "PNPT"
+      "courseName" : "Practical Ethical Hacking - The Complete Course"
       "platform" : "TCM Security",
-      "courseLink" : "https://academy.tcm-sec.com/p/pnpt-live"
+      "courseLink" : "https://academy.tcm-sec.com/courses/enrolled/1152300"
+      },
+
+      {
+       "id" : "234",
+       "courseName" : "PNPT"
+       "platform" : "TCM Security",
+       "courseLink" : "https://academy.tcm-sec.com/p/pnpt-live"
+
      },
      {
         "id" : "235",
@@ -1007,6 +1015,14 @@
      },
     
    {
+      "id" : "236",
+      "courseName" : "Git and Github tutorial for begineer in hindi",
+      "platform" : "Youtube",
+      "courseLink" : "https://youtu.be/gwWKnnCMQ5c"
+    },
+    {
+      "id" : "237",
+
 	      "id" : "236",
 	      "courseName" : "Dynamic Programming playlist by take U forward (Striver)",
 	      "platform" : "Youtube",
@@ -1040,7 +1056,8 @@
       "courseLink" : "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
     },
    {
-      "id" : "237",
+
+      "id" : "238",
       "courseName" : "Introduction to SQL",
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
@@ -1119,8 +1136,9 @@
       "id" : "236",
       "courseName" : "Introduction to XML",
       "platform" : "w3schools",
-      "courseLink" : "https://www.w3schools.com/xml/xml_whatis.asp"
-
+      "courseLink" : "https://www.w3schools.com/xml/xml_whatis.asp",
+      },
+      {
       "id" : "999",
       "courseName" : "Machine Learning A-Z™: Hands-On Python & R In Data Science",
       "platform" : "Udemy",
@@ -1140,8 +1158,7 @@
        "platform": "dphi",
        "courseLink": "https://dphi.tech/courses/introduction-to-data-visualization"
     },
- ]
-
+ 
    {
       "id" : "237",
       "courseName" : "Introduction to SQL",
