@@ -954,6 +954,15 @@
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/xml/xml_whatis.asp"
     }
+	 
+ ]
+ [
+   {
+      "id" : "236",
+      "courseName" : "Getting Started with Angular 2+",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/getting-started-with-angular-2/"
+    }
  ]
 
      {
