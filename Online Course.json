@@ -874,6 +874,12 @@
       "platform" : "Youtube",
       "courseLink" : "https://youtu.be/gwWKnnCMQ5c"
     },
+   {
+      "id" : "235",
+      "courseName" : "Linux Shell Scripting: A Project-Based Approach to Learning",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/linux-shell-scripting-projects/"
+    },
     {
       "id" : "235",
       "courseName" : "Free Web-Development Course",
