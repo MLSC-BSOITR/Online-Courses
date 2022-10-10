@@ -984,7 +984,14 @@
       "courseLink" : "https://www.udemy.com/course/introduction-to-bootstrap-3/"
      },
      {
-        "id" : "234",
+
+      "id" : "234",
+      "courseName" : "PNPT"
+      "platform" : "TCM Security",
+      "courseLink" : "https://academy.tcm-sec.com/p/pnpt-live"
+     },
+     {
+        "id" : "235",
         "courseName" : "Mongodb Tutorial"
         "platform" : "Great Learning Academy",
         "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial"
@@ -1005,23 +1012,23 @@
 	      "platform" : "Youtube",
       	"courseLink" : "https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY"
       }
-
-]
-[
    {
-      "id" : "234",
 
-      "courseName" : "Git and Github tutorial for begineer in hindi",
+      "id" : "236",
+       "courseName" : "Git and Github tutorial for begineer in hindi",
       "platform" : "Youtube",
       "courseLink" : "https://youtu.be/gwWKnnCMQ5c"
     },
+
    {
       "id" : "235",
-
       "courseName" : "C++ Tutorial for beginners in hindi",
       "platform" : "YouTube",
       "courseLink" : "https://youtu.be/Umm1ZQ5ltZw"
-
+      },
+      
+      { 
+      "id" : "234",
       "courseName" : "Linux Shell Scripting: A Project-Based Approach to Learning",
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/linux-shell-scripting-projects/"
@@ -1072,14 +1079,10 @@
        "platform": "Infosys Springboard",
        "courseLink": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944461471416322737_shared/overview"
     },
-   {
-
-      "id" : "236",
-      "courseName" : "Introduction to SQL",
-
+   
+     {
       "id" : "237",
       "courseName" : "Introduction to programming",
-
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     },
