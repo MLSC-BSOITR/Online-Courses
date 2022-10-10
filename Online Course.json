@@ -1071,6 +1071,13 @@
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     },
+
+    {
+      "id" : "236",
+      "courseName" : "Information Security",
+      "platform" : "freecodecamp",
+      "courseLink" : "https://www.freecodecamp.org/learn/information-security/"
+
 	 {
       "id" : "236",
       "courseName" : "Python for Data Science and Machine Learning",
@@ -1084,6 +1091,7 @@
       "courseName" : "Introduction to XML",
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/xml/xml_whatis.asp"
+
     }
 	 
  ]
