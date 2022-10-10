@@ -780,6 +780,12 @@
         "courseLink":"https://www.youtube.com/watch?v=3hLmDS179YE"
     },
     {
+        "id": "1968",
+        "courseName": "Learn Python: The Complete Python Programming Course",
+        "platform": "udemy",
+        "courseLink": "https://www.udemy.com/course/pythonforbeginners/"
+    },
+    {
 
         "id":"436",
         "courseName":"SQL and Databases - A Full Course for Beginners",
