@@ -959,6 +959,11 @@
     },
    {
       "id" : "235",
+
+      "courseName" : "C++ Tutorial for beginners in hindi",
+      "platform" : "YouTube",
+      "courseLink" : "https://youtu.be/Umm1ZQ5ltZw"
+
       "courseName" : "Linux Shell Scripting: A Project-Based Approach to Learning",
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/linux-shell-scripting-projects/"
@@ -1003,14 +1008,20 @@
       "platform" : "web.dev",
       "courseLink" : "https://web.dev/learn/design"
 
+
     }
 
  ]
 
  [
    {
+
+      "id" : "236",
+      "courseName" : "Introduction to SQL",
+
       "id" : "237",
       "courseName" : "Introduction to programming",
+
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     },
@@ -1036,6 +1047,13 @@
       "courseName" : "Getting Started with Angular 2+",
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/getting-started-with-angular-2/"
+    }
+   {
+      "id" : "237",
+      "courseName" : "Introduction to SQL",
+      "platform" : "Youtube",
+      "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
+
     }
  ]
 
