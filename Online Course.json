@@ -797,11 +797,29 @@
         "courseLink": "https://www.freecodecamp.org/news/sql-and-databases-full-course/"
     },
     {
+
+
+        "id" : "41",
+        "courseName" : "Python Regression Analysis: Statistics & Machine Learning",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
+    },
+   ,{
+
+	"id":"412",
+        "courseName":"DevOps Bootcamp",
+        "platform":"youtube",
+        "courseLink":"https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak"
+
+    }
+,
+
         "id": "412",
         "courseName": "DevOps Bootcamp",
         "platform": "youtube",
         "courseLink": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak"
     },
+
     {
         "id": "225",
         "courseName": "Introduction to AWS",
@@ -1054,7 +1072,17 @@
       "platform" : "Youtube",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
 
+    },
+     {
+        "id" : "42",
+        "courseName" : "Python for beginners",
+        "platform" : "youtube",
+        "courseLink" : "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3"
+        }
+
+
     }
+
  ]
 
      {
