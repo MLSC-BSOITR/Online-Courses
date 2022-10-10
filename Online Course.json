@@ -881,8 +881,15 @@
       "courseName" : "Introduction to SQL",
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
+    },
+  {
+      "id" : "236",
+      "courseName" : "Learn Responsive Design",
+      "platform" : "web.dev",
+      "courseLink" : "https://web.dev/learn/design"
     }
  ]
+
 [
    {
       "id" : "236",
@@ -890,5 +897,13 @@
       "platform" : "Youtube",
       "courseLink" : "https://youtu.be/mU6anWqZJcc"
     }
- ]
+   {
+      "id": "55",
+      "courseName": "Data structures Course for Beginners",
+      "platform": "Javatpoint",
+      "courseLink": "https://www.javatpoint.com/data-structure-tutorial"
+    },
+    
+    
+    ]
 
