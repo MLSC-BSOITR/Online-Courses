@@ -13,6 +13,12 @@
         "courseLink": "https://www.geeksforgeeks.org/data-structures/"
     },
 	{
+        "id": "201",
+        "courseName": "Rust Tutorial",
+        "platform": "Youtube",
+        "courseLink": "https://youtu.be/U1EFgCNLDB8"
+    },
+	{
         "id": "238",
         "courseName": "SQL tutorial for everyone by Sumit Sir - Trendytech",
         "platform": "Youtube",
