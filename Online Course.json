@@ -1214,6 +1214,13 @@
       "courseLink" : "https://intellipaat.com/python-certification-training-online"
     }
 
+	 {
+      "id" : "236",
+      "courseName" : "Google Project Management: Professional Certificate",
+      "platform" : "Coursera",
+      "courseLink" : "https://www.coursera.org/professional-certificates/google-project-management"
+    }
+
    {
       "id" : "236",
       "courseName" : "Learn HTML5 and CSS3 from Scratch",
@@ -1229,3 +1236,4 @@
     
     
     ]
+
