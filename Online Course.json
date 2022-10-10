@@ -883,3 +883,11 @@
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     }
  ]
+ [
+   {
+      "id" : "999",
+      "courseName" : "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/share/101Wci3@9Vsm4iWEj8qyQ1SgmYbZiOnul7kh-dfAyr9sTtEZ-aH02JmedcU7-nVinOSyegWWog==/"
+    }
+ ]
