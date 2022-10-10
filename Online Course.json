@@ -915,6 +915,13 @@
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     },
+    {
+        "id": "236",
+        "courseName": "Coding Interview Prep",
+        "platform": "FreeCodeCamp",
+        "courseLink": "https://www.freecodecamp.org/learn/coding-interview-prep/",
+    },
+
 
 	 {
       "id" : "236",
@@ -929,6 +936,7 @@
       "courseLink" : "https://web.dev/learn/design"
 
     }
+
  ]
 
 [
