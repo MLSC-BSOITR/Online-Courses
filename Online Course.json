@@ -860,6 +860,12 @@
         "platform" : "Great Learning Academy",
         "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial"
        },
+    {
+        "id": "236",
+        "courseName": "Introduction to AWS",
+        "platform": "Amazon Web Services",
+        "courseLink": "https://aws.amazon.com/"
+    },
 ]
  [
    {
