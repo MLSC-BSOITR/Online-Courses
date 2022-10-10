@@ -919,10 +919,15 @@
       "courseLink" : "https://www.udemy.com/course/introduction-to-bootstrap-3/"
      },
      {
-        "id" : "235",
+        "id" : "234",
         "courseName" : "Mongodb Tutorial"
         "platform" : "Great Learning Academy",
         "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial"
+
+     },
+     {
+      "id" : "235",
+
        },
      {
 	"id" : "236",
@@ -934,6 +939,7 @@
  [
    {
       "id" : "234",
+
       "courseName" : "Git and Github tutorial for begineer in hindi",
       "platform" : "Youtube",
       "courseLink" : "https://youtu.be/gwWKnnCMQ5c"
@@ -945,20 +951,26 @@
       "courseLink" : "https://www.udemy.com/course/linux-shell-scripting-projects/"
     },
     {
-      "id" : "235",
+      "id" : "236",
       "courseName" : "Free Web-Development Course",
       "platform" : "YouTube",
       "courseLink" : "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
-    }
- ]
- [
+    },
    {
-      "id" : "235",
+      "id" : "237",
       "courseName" : "Introduction to SQL",
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     },
-    {
+
+      "id" : "238",
+      "courseName" : "Windows Powershell in Hindi",
+      "platform" : "Youtube",
+      "courseLink" : "https://youtube.com/playlist?list=PLRu7mEBdW7fDlf80vMmEJ4Vw9uf2Gbyc_"
+    }
+	 
+	 
+
         "id": "236",
         "courseName": "Coding Interview Prep",
         "platform": "FreeCodeCamp",
