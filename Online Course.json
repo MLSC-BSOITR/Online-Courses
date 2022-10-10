@@ -221,6 +221,12 @@
         "courseLink": "https://www.simplilearn.com/getting-started-data-science-with-python-skillup?term=Dat"
     },
     {
+        "id": "20",
+        "courseName": "Linux bas (shell scripting)",
+        "platform": "Swayam",
+        "courseLink": "https://onlinecourses.swayam2.ac.in/aic20_sp05/preview"
+    },
+    {
         "id": "21",
         "courseName": "Financial Markets",
         "platform": "Coursera",
