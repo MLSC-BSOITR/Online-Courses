@@ -883,3 +883,13 @@
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     }
  ]
+
+
+
+
+   {
+      "id": "55",
+      "courseName": "Data structures Course for Beginners",
+      "platform": "Javatpoint",
+      "courseLink": "https://www.javatpoint.com/data-structure-tutorial"
+    },
