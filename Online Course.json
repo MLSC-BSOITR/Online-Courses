@@ -1130,6 +1130,15 @@
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/getting-started-with-angular-2/"
     }
+	 
+    {
+       "id": "236",
+       "courseName": "introduction-to-data-visualization",
+       "platform": "dphi",
+       "courseLink": "https://dphi.tech/courses/introduction-to-data-visualization"
+    },
+ ]
+
    {
       "id" : "237",
       "courseName" : "Introduction to SQL",
@@ -1169,9 +1178,6 @@
       "platform" : "Intellipaat",
       "courseLink" : "https://intellipaat.com/python-certification-training-online"
     }
-
-
-
 
    {
       "id" : "236",
