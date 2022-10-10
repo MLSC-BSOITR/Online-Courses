@@ -881,5 +881,11 @@
       "courseName" : "Introduction to SQL",
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
+    },
+	 {
+        "id": "4",
+        "courseName": "Microsoft Excel - Excel from Beginner to Advanced ",
+        "platform": "Udemy",
+        "courseLink": "https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/"
     }
  ]
