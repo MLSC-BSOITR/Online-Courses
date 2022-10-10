@@ -894,7 +894,7 @@
         "courseLink": "https://www.youtube.com/watch?v=Ke90Tje7VS0"
     }
 
-]
+
     {
 	      "id" : "228",
 	      "courseName" : "Learn SQL / MySQL database basics FOR FREE",
@@ -1013,6 +1013,12 @@
       "courseName" : "Introduction to programming",
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
+    },
+	 {
+      "id" : "236",
+      "courseName" : "Python for Data Science and Machine Learning",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5760236#overview"
     }
 ]
  [
