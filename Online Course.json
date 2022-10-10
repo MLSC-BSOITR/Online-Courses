@@ -1077,6 +1077,14 @@
 
     {
       "id" : "236",
+      "courseName" : "Python Course",
+      "platform" : "Youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=gfDE2a7MKjA"
+
+    },
+    
+    {
+      "id" : "236",
       "courseName" : "Information Security",
       "platform" : "freecodecamp",
       "courseLink" : "https://www.freecodecamp.org/learn/information-security/"
