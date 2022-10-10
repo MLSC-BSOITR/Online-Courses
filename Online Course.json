@@ -1075,6 +1075,13 @@
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     },
 
+     {
+      "id" : "236",
+      "courseName" : "Django-Course Full",
+      "platform" : "YouTube",
+      "courseLink" : "https://www.youtube.com/watch?v=5BDgKJFZMl8&list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9"
+     }
+
     {
       "id" : "236",
       "courseName" : "Python Course",
