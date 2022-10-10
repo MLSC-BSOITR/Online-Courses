@@ -66,6 +66,28 @@
         "platform": "dphi",
         "courseLink": "https://dphi.tech/courses/introduction-to-pandas"
     },
+
+	{
+        "id": "531",
+        "courseName": "machine-learning/crash-course",
+        "platform": "Google",
+        "courseLink": "https://developers.google.com/machine-learning/crash-course"
+    },
+	{
+        "id": "532",
+        "courseName": "introduction-to-pandas",
+        "platform": "dphi",
+        "courseLink": "https://dphi.tech/courses/introduction-to-pandas"
+    },
+	
+	
+	{
+        "id": "533",
+        "courseName": "big-data",
+        "platform": "cognitiveclass.ai",
+        "courseLink": "https://cognitiveclass.ai/learn/big-data"
+    },
+
     {
         "id": "101",
         "courseName": "C++",
@@ -792,6 +814,7 @@
         "courseLink": "https://www.youtube.com/playlist?list=PLRKyZvuMYSIO0jLgj8g6sADnD0IBaWaw2"
     },
     {
+
         "id": "228",
         "courseName": "Learn SQL / MySQL database basics FOR FREE",
         "platform": "UDEMY",
@@ -859,3 +882,155 @@
     }
 
 ]
+    {
+	      "id" : "228",
+	      "courseName" : "Learn SQL / MySQL database basics FOR FREE",
+	      "platform" : "UDEMY",
+	      "courseLink" : "https://www.udemy.com/course/learn-sqlmysql-database-basics-for-free/"
+    },
+   {
+      "id" : "229",
+      "courseName" : "Get a Business Online",
+      "platform" : "Google Digital Garage",
+      "courseLink" : "https://learndigital.withgoogle.com/digitalgarage/course/business-online"
+    },
+   {
+      "id" : "230",
+      "courseName" : "Fundamentals of Digital Marketing",
+      "platform" : "Google Digital Garage",
+      "courseLink" : "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing"   
+    },
+   {
+      "id" : "231",
+      "courseName" : "Getting Started with Angular 2+",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/getting-started-with-angular-2/"
+    },
+   {
+      "id" : "232",
+      "courseName" : "JSP (Java server pages) and servlet basics
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/jsp-servlet-free/"
+     },
+   {
+      "id" : "233",
+      "courseName" : "Introduction to Bootstrap 3"
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/introduction-to-bootstrap-3/"
+     },
+     {
+        "id" : "235",
+        "courseName" : "Mongodb Tutorial"
+        "platform" : "Great Learning Academy",
+        "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial"
+       },
+     {
+	"id" : "236",
+	"courseName" : "Dynamic Programming playlist by take U forward (Striver)",
+	"platform" : "Youtube",
+	"courseLink" : "https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY"
+      }
+]
+ [
+   {
+      "id" : "234",
+      "courseName" : "Git and Github tutorial for begineer in hindi",
+      "platform" : "Youtube",
+      "courseLink" : "https://youtu.be/gwWKnnCMQ5c"
+    },
+   {
+      "id" : "235",
+      "courseName" : "Linux Shell Scripting: A Project-Based Approach to Learning",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/linux-shell-scripting-projects/"
+    },
+    {
+      "id" : "235",
+      "courseName" : "Free Web-Development Course",
+      "platform" : "YouTube",
+      "courseLink" : "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
+    }
+ ]
+ [
+   {
+      "id" : "235",
+      "courseName" : "Introduction to SQL",
+      "platform" : "w3schools",
+      "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
+    },
+    {
+        "id": "236",
+        "courseName": "Coding Interview Prep",
+        "platform": "FreeCodeCamp",
+        "courseLink": "https://www.freecodecamp.org/learn/coding-interview-prep/",
+    },
+
+
+	 {
+      "id" : "236",
+      "courseName" : "Introduction to UI/UX",
+      "platform" : "Coursera",
+      "courseLink" : "https://bit.ly/3rDQaXR"
+
+  {
+      "id" : "236",
+      "courseName" : "Learn Responsive Design",
+      "platform" : "web.dev",
+      "courseLink" : "https://web.dev/learn/design"
+
+    }
+
+ ]
+
+ [
+   {
+      "id" : "237",
+      "courseName" : "Introduction to programming",
+      "platform" : "w3schools",
+      "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
+    }
+]
+ [
+    {
+      "id" : "236",
+      "courseName" : "Introduction to XML",
+      "platform" : "w3schools",
+      "courseLink" : "https://www.w3schools.com/xml/xml_whatis.asp"
+    }
+	 
+ ]
+ [
+   {
+      "id" : "236",
+      "courseName" : "Getting Started with Angular 2+",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/getting-started-with-angular-2/"
+    }
+ ]
+
+     {
+      "id" : "236",
+      "courseName" : "Python Certification Course",
+      "platform" : "Intellipaat",
+      "courseLink" : "https://intellipaat.com/python-certification-training-online"
+    }
+
+
+
+[
+   {
+      "id" : "236",
+      "courseName" : "Learn HTML5 and CSS3 from Scratch",
+      "platform" : "Youtube",
+      "courseLink" : "https://youtu.be/mU6anWqZJcc"
+    }
+   {
+      "id": "55",
+      "courseName": "Data structures Course for Beginners",
+      "platform": "Javatpoint",
+      "courseLink": "https://www.javatpoint.com/data-structure-tutorial"
+    },
+    
+    
+    ]
+
