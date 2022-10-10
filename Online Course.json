@@ -72,6 +72,27 @@
         "courseLink": "https://dphi.tech/courses/introduction-to-pandas"
     },
 	
+	{
+        "id": "531",
+        "courseName": "machine-learning/crash-course",
+        "platform": "Google",
+        "courseLink": "https://developers.google.com/machine-learning/crash-course"
+    },
+	{
+        "id": "532",
+        "courseName": "introduction-to-pandas",
+        "platform": "dphi",
+        "courseLink": "https://dphi.tech/courses/introduction-to-pandas"
+    },
+	
+	
+	{
+        "id": "533",
+        "courseName": "big-data",
+        "platform": "cognitiveclass.ai",
+        "courseLink": "https://cognitiveclass.ai/learn/big-data"
+    },
+	
     {
         "id": "101",
         "courseName": "C++",
