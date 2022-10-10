@@ -984,15 +984,12 @@
         "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial"
 
      },
-     {
-      "id" : "235",
-
-       },
-     {
-	"id" : "236",
-	"courseName" : "Dynamic Programming playlist by take U forward (Striver)",
-	"platform" : "Youtube",
-	"courseLink" : "https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY"
+    
+   {
+	      "id" : "236",
+	      "courseName" : "Dynamic Programming playlist by take U forward (Striver)",
+	      "platform" : "Youtube",
+      	"courseLink" : "https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY"
       }
 ]
 [
@@ -1083,21 +1080,22 @@
       "courseName" : "Python for Data Science and Machine Learning",
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5760236#overview"
-    }
-]
- [
+    },
+    
     {
       "id" : "236",
       "courseName" : "Introduction to XML",
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/xml/xml_whatis.asp"
 
-    }
-	 
- ]
- [
-   {
-      "id" : "236",
+      "id" : "999",
+      "courseName" : "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/share/101Wci3@9Vsm4iWEj8qyQ1SgmYbZiOnul7kh-dfAyr9sTtEZ-aH02JmedcU7-nVinOSyegWWog==/"
+    },
+ 
+    {
+       "id" : "236",
       "courseName" : "Getting Started with Angular 2+",
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/getting-started-with-angular-2/"
