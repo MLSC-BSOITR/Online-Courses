@@ -12,6 +12,12 @@
         "platform": "GFG",
         "courseLink": "https://www.geeksforgeeks.org/data-structures/"
     },
+	{
+        "id": "238",
+        "courseName": "SQL tutorial for everyone by Sumit Sir - Trendytech",
+        "platform": "Youtube",
+        "courseLink": "https://www.youtube.com/playlist?list=PLtgiThe4j67rAoPmnCQmcgLS4iIc5ungg"
+    },
     {
         "id": "304",
         "courseName": "JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)",
