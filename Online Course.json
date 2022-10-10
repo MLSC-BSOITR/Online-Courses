@@ -995,7 +995,7 @@
 	"courseLink" : "https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY"
       }
 ]
- [
+[
    {
       "id" : "234",
 
@@ -1026,15 +1026,14 @@
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     },
-
+{
       "id" : "238",
       "courseName" : "Windows Powershell in Hindi",
       "platform" : "Youtube",
       "courseLink" : "https://youtube.com/playlist?list=PLRu7mEBdW7fDlf80vMmEJ4Vw9uf2Gbyc_"
-    }
-	 
-	 
-
+    },
+    
+    {
         "id": "236",
         "courseName": "Coding Interview Prep",
         "platform": "FreeCodeCamp",
@@ -1060,6 +1059,7 @@
  ]
 
  [
+
    {
 
       "id" : "236",
@@ -1115,13 +1115,19 @@
         "platform" : "youtube",
         "courseLink" : "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3"
         }
-
-
-    }
-
- ]
-
- [
+    {
+       "id" : "236",
+       "courseName" : "Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer",
+       "platform" : "Youtube",
+       "courseLink" : "https://www.youtube.com/watch?v=RBSGKlAvoiM"
+     },
+     {
+       "id" : "237",
+       "courseName" : "APIs for Beginners - How to use an API (Full Course / Tutorial)",
+       "platform" : "YouTube",
+       "courseLink" : "https://www.youtube.com/watch?v=GZvSYJDk-us"
+     }
+ 
    {
       "id" : "236",
       "courseName" : "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
@@ -1154,4 +1160,5 @@
     
     
     ]
+
 
