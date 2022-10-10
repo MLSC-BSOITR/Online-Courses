@@ -874,6 +874,12 @@
       "platform" : "YouTube",
       "courseLink" : "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
     }
+    {
+       "id": "236",
+       "courseName": "The Full Stack Web Development",
+       "platform": "Infosys Springboard",
+       "courseLink": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944461471416322737_shared/overview"
+    },
  ]
  [
    {
