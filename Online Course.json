@@ -1293,4 +1293,9 @@
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
     
-
+    {
+        "id": "58",
+        "courseName": "Complte C++ Dsa Placement Course",
+        "platform": "youtube",
+        "courseLink": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
+    },
