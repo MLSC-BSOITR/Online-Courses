@@ -1280,5 +1280,11 @@
       "platform": "educba",
       "courseLink": "https://www.educba.com/data-science/courses/"
     },
+     {
+      "id": "57",
+      "courseName": "Java Programming",
+      "platform": "coursera",
+      "courseLink": "https://www.coursera.org/specializations/java-programming"
+    },
     
 
