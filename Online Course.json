@@ -1292,5 +1292,68 @@
       "platform": "coursera",
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
+    {
+      "id": "58",
+      "courseName": "Free Flutter Course by Vandad Nahavandipoor",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
+      "type": "free"
+   },
+   {
+      "id": "59",
+      "courseName": "Fundamentals of digital marketing",
+      "platform": "Google",
+      "courseLink": "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing",
+      "type": "free"
+   },
+   {
+      "id": "60",
+      "courseName": "Google Cloud Computing Foundations",
+      "platform": "Google",
+      "courseLink": "https://learndigital.withgoogle.com/digitalgarage/course/gcloud-computing-foundations",
+      "type": "free"
+   },
+   {
+      "id": "61",
+      "courseName": "Building Web Applications with Java Spring Boot",
+      "platform": "Alison",
+      "courseLink": "https://alison.com/course/building-web-applications-with-java-spring-boot",
+      "type": "free"
+   },
+   {
+      "id": "62",
+      "courseName": "Python for everybody",
+      "platform": "Google",
+      "courseLink": "https://www.py4e.com/lessons",
+      "type": "free"
+   },
+   {
+      "id": "63",
+      "courseName": " Python for Beginners",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
+      "type": "free"
+   },
+   {
+      "id": "64",
+      "courseName": " Introduction to JavaScript:First Steps",
+      "platform": "Google",
+      "courseLink": "https://www.educative.io/courses/introduction-to-javascript-first-steps?affiliate_id=5073518643380224",
+      "type": "free"
+   }
+{
+      "id": "65",
+      "courseName": " Machine Learning for All",
+      "platform": "Coursera",
+      "courseLink": "https://www.coursera.org/learn/uol-machine-learning-for-all",
+      "type": "free"
+   },
+   {
+      "id": "66",
+      "courseName": " IBM Data Science Professional Certificate",
+      "platform": "Coursera",
+      "courseLink": "https://www.coursera.org/professional-certificates/ibm-data-science?irclickid=SZT3S3wElxyNUfJ1ajTOLyNMUkDQIDw3F2fwQ80&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359419&utm_content=b2c",
+      "type": "free"
+   },
     
 
