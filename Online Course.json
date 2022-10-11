@@ -996,7 +996,7 @@
     },
    {
       "id" : "232",
-      "courseName" : "JSP (Java server pages) and servlet basics
+      "courseName" : "JSP (Java server pages) and servlet basics"
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/jsp-servlet-free/"
      },
@@ -1035,8 +1035,6 @@
         "courseLink": "https://aws.amazon.com/"
     },
 
-     },
-    
    {
       "id" : "236",
       "courseName" : "Git and Github tutorial for begineer in hindi",
@@ -1299,6 +1297,5 @@
       "platform": "takeuforward",
       "courseLink": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
     },
-]
-    
+
 
