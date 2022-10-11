@@ -1292,5 +1292,11 @@
       "platform": "coursera",
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
+    {
+        "id": "59",
+        "courseName": "Rut Tutorial",
+        "platform": "Youtub",
+        "courseLink": "https://youtu.be/U1EFgCNLDB8"
+    },
     
 
