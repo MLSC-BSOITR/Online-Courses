@@ -1292,5 +1292,10 @@
       "platform": "coursera",
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
-    
+    {
+        "id": "58",
+        "courseName": "web development with Flask",
+        "platform": "tutorialspoint",
+        "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
+    },
 
