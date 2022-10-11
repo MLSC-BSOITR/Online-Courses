@@ -30,6 +30,12 @@
         "platform": "Youtube",
         "courseLink": "https://www.youtube.com/watch?v=lI1ae4REbFM"
     },
+	{
+        "id": "400",
+        "courseName": "Google Data Analytics Professional Certificate",
+        "platform": "Coursera",
+        "courseLink": "https://www.coursera.org/professional-certificates/google-data-analytics"
+    },
     {
         "id": "05",
         "courseName": "The Full Stack Web Development",
