@@ -1,5 +1,11 @@
 
 [
+	{
+        "id": "11719",
+        "courseName": "Complete DSA - Placement course",
+        "platform": "Youtube",
+        "courseLink": "https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
+    },
     {
         "id": "3",
         "courseName": "Free Java Basic Course for Beginners",
