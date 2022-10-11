@@ -1270,7 +1270,13 @@
       "courseName": "M001 Basics(MongoDB)",
       "platform": "MongoDb University",
       "courseLink": "https://university.mongodb.com/courses/M001/about"
-    }
+    },
+    {
+        "id": "502",
+        "courseName": "Go (or Golang) is an open source programming language",
+        "platform": "codecademy",
+        "courseLink": "https://www.codecademy.com/learn/learn-go"
+    },
 
    {
       "id": "56",
