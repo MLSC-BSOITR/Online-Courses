@@ -1292,5 +1292,20 @@
       "platform": "coursera",
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
+    {
+        "id":"59",
+        "courseName":"web Development Course by Apna College",
+        "platform":"YouTube",
+        "courseLink":"https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+    },
+    {
+        "id":"58",
+        "courseName":"Java + DSA + Interview Preparation Course",
+        "platform":"YouTube",
+        "courseLink":"https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
+    },
+
+    
+    
     
 
