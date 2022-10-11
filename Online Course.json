@@ -850,16 +850,15 @@
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
     },
-   ,{
+    {
 
-	"id":"412",
+	      "id":"412",
         "courseName":"DevOps Bootcamp",
         "platform":"youtube",
         "courseLink":"https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak"
 
     }
-,
-
+    {
         "id": "412",
         "courseName": "DevOps Bootcamp",
         "platform": "youtube",
@@ -1150,6 +1149,8 @@
       "courseName" : "Information Security",
       "platform" : "freecodecamp",
       "courseLink" : "https://www.freecodecamp.org/learn/information-security/"
+      
+      }
 
 	 {
       "id" : "236",
@@ -1164,7 +1165,7 @@
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/xml/xml_whatis.asp",
       },
-      {
+   {
       "id" : "999",
       "courseName" : "Machine Learning A-Z™: Hands-On Python & R In Data Science",
       "platform" : "Udemy",
@@ -1251,12 +1252,21 @@
       "platform": "Javatpoint",
       "courseLink": "https://www.javatpoint.com/data-structure-tutorial"
     },
+
+    {
+      "id": "501",
+      "courseName": "M001 Basics(MongoDB)",
+      "platform": "MongoDb University",
+      "courseLink": "https://university.mongodb.com/courses/M001/about"
+    }
+
    {
       "id": "56",
       "courseName": "Data Scientist with R",
       "platform": "DataCamp",
       "courseLink": "https://www.datacamp.com/onboarding/learn?technology=r"
     },
+
     
     
     ]
