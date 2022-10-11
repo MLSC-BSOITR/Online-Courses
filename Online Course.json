@@ -1293,4 +1293,9 @@
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
     
-
+    {
+       "id": "546",
+       "courseName": "Javascript",
+       "platform": "W3Schools",
+       "courseLink": "https://www.w3schools.com/js/default.asp"
+    },
