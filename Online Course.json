@@ -1293,4 +1293,9 @@
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
     
-
+    {
+        "id" : "58",
+        "courseName" : "Python Regression Analysis: Statistics & Machine Learning",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
+    },
