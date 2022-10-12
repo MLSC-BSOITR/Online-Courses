@@ -1292,5 +1292,10 @@
       "platform": "coursera",
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
-    
+   {
+      "id" : "58",
+      "courseName" : "C++ Tutorial for Complete Beginners",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/free-learn-c-tutorial-beginners/"
+    } 
 
