@@ -1298,5 +1298,10 @@
       "platform": "coursera",
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
-    
+     {
+      "id": "405",
+      "courseName": "Python Fundamentals for Beginners",
+      "platform": "Great Learning",
+      "courseLink": "https://www.mygreatlearning.com/academy/courses/3017002/12682#?utm_source=share_with_friends"
+    },
 
