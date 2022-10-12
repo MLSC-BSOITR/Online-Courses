@@ -1,5 +1,11 @@
 
 [
+	{
+        "id": "11719",
+        "courseName": "Complete DSA - Placement course",
+        "platform": "Youtube",
+        "courseLink": "https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
+    },
     {
         "id": "3",
         "courseName": "Free Java Basic Course for Beginners",
@@ -13,6 +19,12 @@
         "courseLink": "https://www.geeksforgeeks.org/data-structures/"
     },
 	{
+        "id": "201",
+        "courseName": "Rust Tutorial",
+        "platform": "Youtube",
+        "courseLink": "https://youtu.be/U1EFgCNLDB8"
+    },
+	{
         "id": "238",
         "courseName": "SQL tutorial for everyone by Sumit Sir - Trendytech",
         "platform": "Youtube",
@@ -23,6 +35,12 @@
         "courseName": "JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)",
         "platform": "Youtube",
         "courseLink": "https://www.youtube.com/watch?v=lI1ae4REbFM"
+    },
+	{
+        "id": "400",
+        "courseName": "Google Data Analytics Professional Certificate",
+        "platform": "Coursera",
+        "courseLink": "https://www.coursera.org/professional-certificates/google-data-analytics"
     },
     {
         "id": "05",
@@ -54,6 +72,12 @@
         "courseName": "Data Science Foundations",
         "platform": "Great Learning",
         "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations",
+    },
+    {
+        "id": "594",
+        "courseName": "Preventing Dementia",
+        "platform": "Class Central",
+        "courseLink": "https://www.classcentral.com/course/independent-preventing-dementia-6565"
     },
 
 
@@ -838,16 +862,15 @@
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
     },
-   ,{
+    {
 
-	"id":"412",
+	      "id":"412",
         "courseName":"DevOps Bootcamp",
         "platform":"youtube",
         "courseLink":"https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak"
 
     }
-,
-
+    {
         "id": "412",
         "courseName": "DevOps Bootcamp",
         "platform": "youtube",
@@ -984,7 +1007,22 @@
       "courseLink" : "https://www.udemy.com/course/introduction-to-bootstrap-3/"
      },
      {
-        "id" : "234",
+
+      "id" : "234",
+      "courseName" : "Practical Ethical Hacking - The Complete Course"
+      "platform" : "TCM Security",
+      "courseLink" : "https://academy.tcm-sec.com/courses/enrolled/1152300"
+      },
+
+      {
+       "id" : "234",
+       "courseName" : "PNPT"
+       "platform" : "TCM Security",
+       "courseLink" : "https://academy.tcm-sec.com/p/pnpt-live"
+
+     },
+     {
+        "id" : "235",
         "courseName" : "Mongodb Tutorial"
         "platform" : "Great Learning Academy",
         "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial"
@@ -1000,28 +1038,36 @@
      },
     
    {
+      "id" : "236",
+      "courseName" : "Git and Github tutorial for begineer in hindi",
+      "platform" : "Youtube",
+      "courseLink" : "https://youtu.be/gwWKnnCMQ5c"
+    },
+    {
+      "id" : "237",
+
 	      "id" : "236",
 	      "courseName" : "Dynamic Programming playlist by take U forward (Striver)",
 	      "platform" : "Youtube",
       	"courseLink" : "https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY"
       }
-
-]
-[
    {
-      "id" : "234",
 
-      "courseName" : "Git and Github tutorial for begineer in hindi",
+      "id" : "236",
+       "courseName" : "Git and Github tutorial for begineer in hindi",
       "platform" : "Youtube",
       "courseLink" : "https://youtu.be/gwWKnnCMQ5c"
     },
+
    {
       "id" : "235",
-
       "courseName" : "C++ Tutorial for beginners in hindi",
       "platform" : "YouTube",
       "courseLink" : "https://youtu.be/Umm1ZQ5ltZw"
-
+      },
+      
+      { 
+      "id" : "234",
       "courseName" : "Linux Shell Scripting: A Project-Based Approach to Learning",
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/linux-shell-scripting-projects/"
@@ -1033,12 +1079,27 @@
       "courseLink" : "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
     },
    {
-      "id" : "237",
+
+      "id" : "238",
       "courseName" : "Introduction to SQL",
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     },
-{
+
+	 {
+        "id": "4",
+        "courseName": "Microsoft Excel - Excel from Beginner to Advanced ",
+        "platform": "Udemy",
+        "courseLink": "https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/"
+        },
+        {
+            "id": "291",
+            "courseName": "NodeJs Tutorial in Hindi 2020 ",
+            "platform": "Youtube",
+            "courseLink": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8"
+            },
+
+    {
       "id" : "238",
       "courseName" : "Windows Powershell in Hindi",
       "platform" : "Youtube",
@@ -1072,14 +1133,10 @@
        "platform": "Infosys Springboard",
        "courseLink": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944461471416322737_shared/overview"
     },
-   {
-
-      "id" : "236",
-      "courseName" : "Introduction to SQL",
-
+   
+     {
       "id" : "237",
       "courseName" : "Introduction to programming",
-
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     },
@@ -1104,6 +1161,8 @@
       "courseName" : "Information Security",
       "platform" : "freecodecamp",
       "courseLink" : "https://www.freecodecamp.org/learn/information-security/"
+      
+      }
 
 	 {
       "id" : "236",
@@ -1116,8 +1175,9 @@
       "id" : "236",
       "courseName" : "Introduction to XML",
       "platform" : "w3schools",
-      "courseLink" : "https://www.w3schools.com/xml/xml_whatis.asp"
-
+      "courseLink" : "https://www.w3schools.com/xml/xml_whatis.asp",
+      },
+   {
       "id" : "999",
       "courseName" : "Machine Learning A-Z™: Hands-On Python & R In Data Science",
       "platform" : "Udemy",
@@ -1129,6 +1189,13 @@
       "courseName" : "Getting Started with Angular 2+",
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/getting-started-with-angular-2/"
+
+    }
+    {
+        "id" : "236",
+        "courseName" : "Introduction to unity ",
+        "platform" : "unity",
+        "courseLink" : "https://unity.com/learn"
     }
 	 
     {
@@ -1137,8 +1204,7 @@
        "platform": "dphi",
        "courseLink": "https://dphi.tech/courses/introduction-to-data-visualization"
     },
- ]
-
+ 
    {
       "id" : "237",
       "courseName" : "Introduction to SQL",
@@ -1179,6 +1245,13 @@
       "courseLink" : "https://intellipaat.com/python-certification-training-online"
     }
 
+	 {
+      "id" : "236",
+      "courseName" : "Google Project Management: Professional Certificate",
+      "platform" : "Coursera",
+      "courseLink" : "https://www.coursera.org/professional-certificates/google-project-management"
+    }
+
    {
       "id" : "236",
       "courseName" : "Learn HTML5 and CSS3 from Scratch",
@@ -1191,13 +1264,41 @@
       "platform": "Javatpoint",
       "courseLink": "https://www.javatpoint.com/data-structure-tutorial"
     },
+ 
     {
         "id": "57",
         "courseName": "Blockchain Specialization",
         "platform": "Coursera",
         "courseLink": "https://www.coursera.org/specializations/blockchain"
+ 
+
+    {
+      "id": "501",
+      "courseName": "M001 Basics(MongoDB)",
+      "platform": "MongoDb University",
+      "courseLink": "https://university.mongodb.com/courses/M001/about"
+    }
+
+   {
+      "id": "56",
+      "courseName": "Data Scientist with R",
+      "platform": "DataCamp",
+      "courseLink": "https://www.datacamp.com/onboarding/learn?technology=r"
+    },
+
+    
+    {
+      "id": "56",
+      "courseName": "Data science",
+      "platform": "educba",
+      "courseLink": "https://www.educba.com/data-science/courses/"
+    },
+     {
+      "id": "57",
+      "courseName": "Java Programming",
+      "platform": "coursera",
+      "courseLink": "https://www.coursera.org/specializations/java-programming"
+ 
     },
     
-    ]
-
 
