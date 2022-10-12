@@ -1292,5 +1292,11 @@
       "platform": "coursera",
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
+    {
+      "id": "222",
+      "courseName": "Advanced Learning Algorithms",
+      "platform": "coursera",
+      "courseLink": "https://www.coursera.org/learn/advanced-learning-algorithms/home/week/1"
+    },
     
 
