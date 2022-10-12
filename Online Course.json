@@ -444,4 +444,12 @@
         "platform" : "udemy",
         "courseLink" : "https://www.udemy.com/share/101r1i/"
 },
+
+{
+        "id" : "71",
+        "courseName" : "HTML in web development",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/html-in-web-development-new/"
+},
+
 ]
