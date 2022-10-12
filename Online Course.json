@@ -1292,5 +1292,10 @@
       "platform": "coursera",
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
-    
+    {
+      "id": "58",
+      "courseName": "Intro to Golang",
+      "platform": "freecodecampe",
+      "courseLink": "https://www.freecodecamp.org/news/what-is-go-programming-language/"
+    },
 
