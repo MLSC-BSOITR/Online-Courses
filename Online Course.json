@@ -24,6 +24,12 @@
         "platform": "Youtube",
         "courseLink": "https://youtu.be/U1EFgCNLDB8"
     },
+    {
+        "id" : "12",
+        "courseName" : "Python for non programmers",
+        "platform" : "Great Learning",
+        "courseLink" : "https://www.simplilearn.com/learn-java-basics-skillup"
+      },
 	{
         "id": "238",
         "courseName": "SQL tutorial for everyone by Sumit Sir - Trendytech",
@@ -1023,7 +1029,7 @@
      },
      {
         "id" : "235",
-        "courseName" : "Mongodb Tutorial"
+        "courseName" : "Mongodb Tutorial",
         "platform" : "Great Learning Academy",
         "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial"
 
@@ -1035,7 +1041,7 @@
         "courseLink": "https://aws.amazon.com/"
     },
 
-     },
+
     
    {
       "id" : "236",
@@ -1298,4 +1304,5 @@
         "platform": "tutorialspoint",
         "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
     },
-
+    
+]
