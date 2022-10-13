@@ -1293,4 +1293,10 @@
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
     
+    {
+        "id": "888",
+        "courseName": "Introduction to Microservices",
+        "platform": "Edyoda",
+        "courseLink": "https://www.edyoda.com/course/1556?episode_id=3355"
+      },
 
