@@ -1501,6 +1501,12 @@
       "platform": "freecodecampe",
       "courseLink": "https://www.freecodecamp.org/news/what-is-go-programming-language/"
     },
+    {
+      "id": "58",
+      "courseName": "Social Media Management",
+      "platform": "coursera",
+      "courseLink": "https://www.coursera.org/learn/social-media-management"
+    },
     { 
       "id": "940",
       "courseName": "Full Stack Development",
@@ -1581,4 +1587,5 @@
     },
 
 ]
+
 
