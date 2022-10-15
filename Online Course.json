@@ -1233,6 +1233,18 @@
       "courseLink": "https://university.mongodb.com/courses/M001/about"
     },
     {
+        "id": "502",
+        "courseName": "Go (or Golang) is an open source programming language",
+        "platform": "codecademy",
+        "courseLink": "https://www.codecademy.com/learn/learn-go"
+    },
+    {
+        "id": "503",
+        "courseName": "DevOps Engineering",
+        "platform": "freecodecamp",
+        "courseLink": "https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/"
+    },
+    {
       "id": "56",
       "courseName": "Data Scientist with R",
       "platform": "DataCamp",
