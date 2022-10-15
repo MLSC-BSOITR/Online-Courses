@@ -1006,15 +1006,50 @@
        "courseName" : "Practical Ethical Hacking - The Complete Course"
        "platform" : "TCM Security",
        "courseLink" : "https://academy.tcm-sec.com/courses/enrolled/1152300"
+     },
+     {
+      "id" : "229",
+      "courseName" : "Get a Business Online",
+      "platform" : "Google Digital Garage",
+      "courseLink" : "https://learndigital.withgoogle.com/digitalgarage/course/business-online"
+    },
+    {
+      "id" : "230",
+      "courseName" : "Fundamentals of Digital Marketing",
+      "platform" : "Google Digital Garage",
+      "courseLink" : "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing"   
+    },
+    {
+      "id" : "231",
+      "courseName" : "Getting Started with Angular 2+",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/getting-started-with-angular-2/"
+    },
+    {
+      "id" : "232",
+      "courseName" : "JSP (Java server pages) and servlet basics
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/jsp-servlet-free/"
+    },
+    {
+      "id" : "233",
+      "courseName" : "Introduction to Bootstrap 3"
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/introduction-to-bootstrap-3/"
+    },
+    {
+     "id" : "234",
+      "courseName" : "Practical Ethical Hacking - The Complete Course"
+      "platform" : "TCM Security",
+      "courseLink" : "https://academy.tcm-sec.com/courses/enrolled/1152300"
     },
     {
        "id" : "234",
        "courseName" : "PNPT"
        "platform" : "TCM Security",
        "courseLink" : "https://academy.tcm-sec.com/p/pnpt-live"
-   },
-   {
-       "id" : "235",
+    },
+    {       "id" : "235",
        "courseName" : "Mongodb Tutorial"
        "platform" : "Great Learning Academy",
        "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial"
@@ -1068,6 +1103,66 @@
        "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     },
     {
+       "id": "236",
+       "courseName": "Introduction to AWS",
+       "platform": "Amazon Web Services",
+       "courseLink": "https://aws.amazon.com/"
+   },
+   {
+      "id" : "236",
+      "courseName" : "Git and Github tutorial for begineer in hindi",
+      "platform" : "Youtube",
+      "courseLink" : "https://youtu.be/gwWKnnCMQ5c"
+   },
+   {
+	     "id" : "236",
+	     "courseName" : "Dynamic Programming playlist by take U forward (Striver)",
+	     "platform" : "Youtube",
+      "courseLink" : "https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY"
+   },
+   {
+      "id" : "236",
+      "courseName" : "Git and Github tutorial for begineer in hindi",
+      "platform" : "Youtube",
+      "courseLink" : "https://youtu.be/gwWKnnCMQ5c"
+   },
+   {
+      "id" : "235",
+      "courseName" : "C++ Tutorial for beginners in hindi",
+      "platform" : "YouTube",
+      "courseLink" : "https://youtu.be/Umm1ZQ5ltZw"
+   }, 
+   { 
+     "id" : "234",
+     "courseName" : "Linux Shell Scripting: A Project-Based Approach to Learning",
+     "platform" : "Udemy",
+     "courseLink" : "https://www.udemy.com/course/linux-shell-scripting-projects/"
+  },
+  {
+     "id" : "236",
+     "courseName" : "Free Web-Development Course",
+     "platform" : "YouTube",
+     "courseLink" : "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
+  },
+  {
+      "id" : "238",
+      "courseName" : "Introduction to SQL",
+      "platform" : "w3schools",
+      "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
+    },
+	 {
+      "id": "4",
+       "courseName": "Microsoft Excel - Excel from Beginner to Advanced ",
+       "platform": "Udemy",
+       "courseLink": "https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/"
+    },
+    {
+       "id": "291",
+       "courseName": "NodeJs Tutorial in Hindi 2020 ",
+       "platform": "Youtube",
+       "courseLink": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8"
+    },
+    {
        "id": "4",
        "courseName": "Microsoft Excel - Excel from Beginner to Advanced ",
        "platform": "Udemy",
@@ -1105,6 +1200,24 @@
     },
     {
       "id": "236",
+       "courseName": "Coding Interview Prep",
+       "platform": "FreeCodeCamp",
+       "courseLink": "https://www.freecodecamp.org/learn/coding-interview-prep/",
+    },
+	  {
+      "id" : "236",
+      "courseName" : "Introduction to UI/UX",
+      "platform" : "Coursera",
+      "courseLink" : "https://bit.ly/3rDQaXR"
+    },
+    {
+      "id" : "236",
+      "courseName" : "Learn Responsive Design",
+      "platform" : "web.dev",
+      "courseLink" : "https://web.dev/learn/design"
+    },
+    {
+      "id": "236",
       "courseName": "The Full Stack Web Development",
       "platform": "Infosys Springboard",
       "courseLink": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944461471416322737_shared/overview"
@@ -1133,7 +1246,7 @@
       "platform" : "freecodecamp",
       "courseLink" : "https://www.freecodecamp.org/learn/information-security/"
     },
-    {
+	  {
       "id" : "236",
       "courseName" : "Python for Data Science and Machine Learning",
       "platform" : "Udemy",
@@ -1152,10 +1265,10 @@
       "courseLink" : "https://www.udemy.com/share/101Wci3@9Vsm4iWEj8qyQ1SgmYbZiOnul7kh-dfAyr9sTtEZ-aH02JmedcU7-nVinOSyegWWog==/"
     },
     {
-       "id" : "236",
-       "courseName" : "Getting Started with Angular 2+",
-       "platform" : "Udemy",
-       "courseLink" : "https://www.udemy.com/course/getting-started-with-angular-2/"
+      "id" : "236",
+      "courseName" : "Getting Started with Angular 2+",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/getting-started-with-angular-2/"
     },
     {
        "id" : "236",
@@ -1163,6 +1276,18 @@
        "platform" : "unity",
        "courseLink" : "https://unity.com/learn"
     }, 
+    {
+      "id" : "236",
+      "courseName" : "Getting Started with Angular 2+",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/getting-started-with-angular-2/"
+    },
+    {
+        "id" : "236",
+        "courseName" : "Introduction to unity ",
+        "platform" : "unity",
+        "courseLink" : "https://unity.com/learn"
+    },
     {
        "id": "236",
        "courseName": "introduction-to-data-visualization",
@@ -1174,6 +1299,18 @@
       "courseName" : "Introduction to SQL",
       "platform" : "Youtube",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
+    },
+    {
+       "id" : "42",
+       "courseName" : "Python for beginners",
+       "platform" : "youtube",
+       "courseLink" : "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3"
+    },
+    { 
+       "id" : "237",
+       "courseName" : "Introduction to SQL",
+       "platform" : "Youtube",
+       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     },
     {
        "id" : "42",
@@ -1207,11 +1344,23 @@
     },
     {
       "id" : "236",
+      "courseName" : "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/nodejs-the-complete-guide/"
+    },
+    {
+      "id" : "236",
+      "courseName" : "Python Certification Course",
+      "platform" : "Intellipaat",
+      "courseLink" : "https://intellipaat.com/python-certification-training-online"
+    },
+    {
+      "id" : "236",
       "courseName" : "Google Project Management: Professional Certificate",
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.org/professional-certificates/google-project-management"
-   },
-   {
+    },
+    {
       "id" : "236",
       "courseName" : "Learn HTML5 and CSS3 from Scratch",
       "platform" : "Youtube",
@@ -1228,6 +1377,18 @@
       "courseName": "M001 Basics(MongoDB)",
       "platform": "MongoDb University",
       "courseLink": "https://university.mongodb.com/courses/M001/about"
+    },
+    {
+       "id": "502",
+       "courseName": "Go (or Golang) is an open source programming language",
+       "platform": "codecademy",
+       "courseLink": "https://www.codecademy.com/learn/learn-go"
+    },
+    {
+        "id": "503",
+        "courseName": "DevOps Engineering",
+        "platform": "freecodecamp",
+        "courseLink": "https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/"
     },
     {
       "id": "56",
@@ -1253,7 +1414,51 @@
       "platform": "takeuforward",
       "courseLink": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
     },
-    
- ]
+    {
+       "id": "58",
+       "courseName": "DBMS",
+       "platform": "You Tube",
+       "courseLink": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU"
+    },
+    {
+       "id": "445",
+       "courseName": "The Full Stack Web Development",
+       "platform": "Infosys Springboard",
+       "courseLink": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944461471416322737_shared/overview"
+    },
+    {
+       "id": "546",
+       "courseName": "Javascript",
+       "platform": "W3Schools",
+       "courseLink": "https://www.w3schools.com/js/default.asp"
+    },
+    {
+      "id": "58",
+      "courseName": "Data science",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/playlist?list=PLvMRWNpDTNwQ0wzQYY_lk2sedyzgHaZm3"
+    },
+    {
+        "id":"59",
+        "courseName":"web Development Course by Apna College",
+        "platform":"YouTube",
+        "courseLink":"https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+    },
+    {
+        "id":"58",
+        "courseName":"Java + DSA + Interview Preparation Course",
+        "platform":"YouTube",
+        "courseLink":"https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
+    },
+    {
+        "id": "58",
+        "courseName": "web development with Flask",
+        "platform": "tutorialspoint",
+        "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
+    },
+
+]
+
+
 
 
