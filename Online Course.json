@@ -1478,6 +1478,12 @@
        "courseLink": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
     },
     {
+      "id": "58",
+      "courseName": "Full Stack Development",
+      "platform": "upgradcampus",
+      "courseLink": "https://upgradcampus.com/full-stack-development-ads-lp/"
+    },
+    {
         "id": "59",
         "courseName": "Rut Tutorial",
         "platform": "Youtub",
@@ -1518,7 +1524,6 @@
       "courseName": "PHP",
       "platform": "Udemy",
       "courseLink": "https://www.udemy.com/topic/php/free/".
-
     },
     {
       "id": "58",
