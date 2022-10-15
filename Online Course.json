@@ -1498,16 +1498,16 @@
       "type": "free"
    },
    {
-       "id": "58",
-       "courseName": "Complte C++ Dsa Placement Course",
-       "platform": "youtube",
-       "courseLink": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
+        "id": "58",
+        "courseName": "Complte C++ Dsa Placement Course",
+        "platform": "youtube",
+        "courseLink": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
    },
    {
-      "id": "58",
-      "courseName": "Python",
-      "platform": "Youtube",
-      "courseLink": "https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB"
+        "id": "58",
+        "courseName": "Python",
+        "platform": "Youtube",
+        "courseLink": "https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB"
    },
    {
         "id" : "58",
@@ -1515,29 +1515,29 @@
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
    },
-   {
-      "id" : "58",
-      "courseName" : "C++ Tutorial for Complete Beginners",
-      "platform" : "Udemy",
-      "courseLink" : "https://www.udemy.com/course/free-learn-c-tutorial-beginners/"
+   { 
+        "id" : "58",
+        "courseName" : "C++ Tutorial for Complete Beginners",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/free-learn-c-tutorial-beginners/"
    } ,
    {
-      "id": "58",
-      "courseName": "Intro to Golang",
-      "platform": "freecodecampe",
-      "courseLink": "https://www.freecodecamp.org/news/what-is-go-programming-language/"
-   },
-   {
-      "id": "58",
-      "courseName": "Social Media Management",
-      "platform": "coursera",
-      "courseLink": "https://www.coursera.org/learn/social-media-management"
+        "id": "58",
+        "courseName": "Intro to Golang",
+        "platform": "freecodecampe",
+        "courseLink": "https://www.freecodecamp.org/news/what-is-go-programming-language/"
    },
    { 
-      "id": "940",
-      "courseName": "Full Stack Development",
-      "platform": "upgradcampus",
-      "courseLink": "https://upgradcampus.com/full-stack-development-ads-lp/"
+        "id": "58",
+        "courseName": "Social Media Management",
+        "platform": "coursera",
+        "courseLink": "https://www.coursera.org/learn/social-media-management"
+   },
+   { 
+        "id": "940",
+        "courseName": "Full Stack Development",
+        "platform": "upgradcampus",
+        "courseLink": "https://upgradcampus.com/full-stack-development-ads-lp/"
    },
    {
         "id": "59",
@@ -1546,16 +1546,16 @@
         "courseLink": "https://youtu.be/U1EFgCNLDB8"
    },
    {
-      "id": "1010",
-      "courseName": "Strivers A2Z DSA Course",
-      "platform": "takeuforward",
-      "courseLink": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+       "id": "1010",
+       "courseName": "Strivers A2Z DSA Course",
+       "platform": "takeuforward",
+       "courseLink": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
    },
    {
-     "id" : "313",
-     "courseName": "Amazon Web Services (AWS) - Zero to Hero",
-     "platform": "Udemy",
-     "courselink": "https://www.udemy.com/course/amazon-web-services-aws-v/",
+       "id" : "313",
+       "courseName": "Amazon Web Services (AWS) - Zero to Hero",
+       "platform": "Udemy",
+       "courselink": "https://www.udemy.com/course/amazon-web-services-aws-v/",
     },
     {
        "id": "58",
@@ -1570,52 +1570,58 @@
         "courseLink": "https://www.edyoda.com/course/1556?episode_id=3355"
     },
     {
-       "id": "445",
-       "courseName": "The Full Stack Web Development",
-       "platform": "Infosys Springboard",
-       "courseLink": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944461471416322737_shared/overview"
+        "id": "445",
+        "courseName": "The Full Stack Web Development",
+        "platform": "Infosys Springboard",
+        "courseLink": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944461471416322737_shared/overview"
     },
     {
-       "id": "546",
-       "courseName": "Javascript",
-       "platform": "W3Schools",
-       "courseLink": "https://www.w3schools.com/js/default.asp"
+        "id": "546",
+        "courseName": "Javascript",
+        "platform": "W3Schools",
+        "courseLink": "https://www.w3schools.com/js/default.asp"
    },
    {
-      "id": "1972",
-      "courseName": "PHP",
-      "platform": "Udemy",
-      "courseLink": "https://www.udemy.com/topic/php/free/".
-    },
-    {
-      "id": "58",
-      "courseName": "Data science",
-      "platform": "youtube",
-      "courseLink": "https://www.youtube.com/playlist?list=PLvMRWNpDTNwQ0wzQYY_lk2sedyzgHaZm3"
-    },
-    {
+        "id": "1972",
+        "courseName": "PHP",
+        "platform": "Udemy",
+        "courseLink": "https://www.udemy.com/topic/php/free/".
+   },
+   { 
+        "id": "58",
+        "courseName": "Data science",
+        "platform": "youtube",
+        "courseLink": "https://www.youtube.com/playlist?list=PLvMRWNpDTNwQ0wzQYY_lk2sedyzgHaZm3"
+   },
+   {
         "id":"59",
         "courseName":"web Development Course by Apna College",
         "platform":"YouTube",
         "courseLink":"https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
-    },
-    {
+   },
+   {
         "id":"58",
         "courseName":"Java + DSA + Interview Preparation Course",
         "platform":"YouTube",
         "courseLink":"https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
-    },
-    {
-      "id": "60",
-      "courseName": "Advanced Learning Algorithms",
-      "platform": "coursera",
-      "courseLink": "https://www.coursera.org/learn/advanced-learning-algorithms/home/week/1"
-    },
-    {
+   },
+   {
+       "id": "60",
+       "courseName": "Advanced Learning Algorithms",
+       "platform": "coursera",
+       "courseLink": "https://www.coursera.org/learn/advanced-learning-algorithms/home/week/1"
+   },
+   {
         "id": "58",
         "courseName": "web development with Flask",
         "platform": "tutorialspoint",
         "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
+   },
+   {
+        "id": "59",
+        "courseName": "web development ",
+        "platform": "unschool",
+        "courseLink": "https://learn.unschool.in/learn/home/Web-Development/"
     },
     {
 
@@ -1674,4 +1680,5 @@
     },
   
   ]
+
 
