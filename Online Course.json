@@ -1691,5 +1691,12 @@
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/Algorithm-Tool-Kit"
     },
+    {
+      "id" : "29138",
+      "courseName" : "Data Science Foundations",
+      "platform" : "Great Learning",
+      "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations"
+    },
+    
     
     ]
