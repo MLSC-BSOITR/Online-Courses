@@ -1293,10 +1293,15 @@
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
     {
-      "id": "222",
+      "id": "60",
       "courseName": "Advanced Learning Algorithms",
       "platform": "coursera",
       "courseLink": "https://www.coursera.org/learn/advanced-learning-algorithms/home/week/1"
     },
-    
+    {
+        "id": "58",
+        "courseName": "web development with Flask",
+        "platform": "tutorialspoint",
+        "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
+    },
 
