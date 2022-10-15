@@ -1585,6 +1585,36 @@
         "platform": "tutorialspoint",
         "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
     },
+    {
+        "id" : "3241",
+        "courseName" : "Learn C: The Complete C Programming Course",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
+    }
+    {
+        "id" : "124",
+        "courseName" : "The Data Science Course 2022: Complete Data Science Bootcamp",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/"
+    },
+    {
+        "id" : "69",
+        "courseName" : "Basics of c++",
+        "platform" : "Simply Learn",
+        "courseLink" : "https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup"
+    },
+    {
+        "id" : "70",
+        "courseName" : "Introduction To Python Programming",
+        "platform" : "udemy",
+        "courseLink" : "https://www.udemy.com/share/101r1i/"
+    },
+    {
+        "id" : "71",
+        "courseName" : "HTML in web development",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/html-in-web-development-new/"
+    },
 
 ]
 
