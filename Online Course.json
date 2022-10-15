@@ -1488,6 +1488,12 @@
       "courseName": "Strivers A2Z DSA Course",
       "platform": "takeuforward",
       "courseLink": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+   },
+   {
+     "id" : "313",
+     "courseName": "Amazon Web Services (AWS) - Zero to Hero",
+     "platform": "Udemy",
+     "courselink": "https://www.udemy.com/course/amazon-web-services-aws-v/",
     },
     {
        "id": "58",
@@ -1533,5 +1539,6 @@
     },
 
 ]
+
 
 
