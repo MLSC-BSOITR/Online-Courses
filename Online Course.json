@@ -1409,6 +1409,12 @@
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
     {
+        "id": "59",
+        "courseName": "Rut Tutorial",
+        "platform": "Youtub",
+        "courseLink": "https://youtu.be/U1EFgCNLDB8"
+    },
+    {
       "id": "1010",
       "courseName": "Strivers A2Z DSA Course",
       "platform": "takeuforward",
@@ -1458,7 +1464,5 @@
     },
 
 ]
-
-
 
 
