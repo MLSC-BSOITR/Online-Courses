@@ -1512,6 +1512,13 @@
        "courseName": "Javascript",
        "platform": "W3Schools",
        "courseLink": "https://www.w3schools.com/js/default.asp"
+   },
+   {
+      "id": "1972",
+      "courseName": "PHP",
+      "platform": "Udemy",
+      "courseLink": "https://www.udemy.com/topic/php/free/".
+
     },
     {
       "id": "58",
@@ -1542,3 +1549,6 @@
 
 
 
+
+        
+    
