@@ -1618,6 +1618,13 @@
         "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
     },
     {
+
+        "id": "19252",
+        "courseName": "Computer Science",
+        "platform": "Saylor Academy",
+        "courseLink": "https://learn.saylor.org/course/index.php?categoryid=9"
+    },
+    {
       "id" : "59",
       "courseName" : "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
       "platform" : "Udemy",
