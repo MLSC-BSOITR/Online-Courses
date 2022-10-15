@@ -1546,6 +1546,12 @@
        "courseLink": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU"
     },
     {
+        "id": "888",
+        "courseName": "Introduction to Microservices",
+        "platform": "Edyoda",
+        "courseLink": "https://www.edyoda.com/course/1556?episode_id=3355"
+    },
+    {
        "id": "445",
        "courseName": "The Full Stack Web Development",
        "platform": "Infosys Springboard",
@@ -1625,5 +1631,4 @@
     },
 
 ]
-
 
