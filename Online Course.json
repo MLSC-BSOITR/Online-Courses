@@ -1401,8 +1401,16 @@
       "courseName": "Data Scientist with R",
       "platform": "DataCamp",
       "courseLink": "https://www.datacamp.com/onboarding/learn?technology=r"
+
    },
    {
+      "id": "555",
+      "courseName": "Python fundamentals for beginners",
+      "platform": "Great Learning",
+      "courseLink": "https://www.mygreatlearning.com/academy/courses/3017002/12682#?utm_source=share_with_friends"
+   },
+   {
+
       "id": "56",
       "courseName": "Data science",
       "platform": "educba",
