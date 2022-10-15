@@ -1642,12 +1642,13 @@
         "platform": "Udemy",
         "courseLink": "https://www.udemy.com/course/datastructurescncpp/?src=sac&kw=mastering+data+structure",
     },
+    
     {
         "id" : "3241",
         "courseName" : "Learn C: The Complete C Programming Course",
         "platform" : "udemy",
         "courseLink" : "https://www.udemy.com/course/pythonforbeginners/"
-    }
+    },
     {
         "id" : "124",
         "courseName" : "The Data Science Course 2022: Complete Data Science Bootcamp",
@@ -1686,6 +1687,13 @@
     },
 
   
-  ]
+  
 
-
+    {
+      "id" : "29131",
+      "courseName" : "Algorithm Tool Kit",
+      "platform" : "Coursera",
+      "courseLink" : "https://www.coursera.com/Algorithm-Tool-Kit"
+    },
+    
+    ]
