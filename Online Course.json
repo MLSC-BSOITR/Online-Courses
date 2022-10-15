@@ -1251,6 +1251,13 @@
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
     {
+      "id": "58",
+      "courseName": "Data science",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/playlist?list=PLvMRWNpDTNwQ0wzQYY_lk2sedyzgHaZm3"
+    },
+
+    {
         "id":"59",
         "courseName":"web Development Course by Apna College",
         "platform":"YouTube",
@@ -1270,4 +1277,5 @@
     },
 
 ]
+
 
