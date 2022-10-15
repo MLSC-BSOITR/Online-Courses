@@ -1618,6 +1618,12 @@
         "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
     },
     {
+      "id" : "59",
+      "courseName" : "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/nodejs-the-complete-guide/"
+    },
+    {
         "id": "236",
         "courseName": "Mastering Data Structures & Algorithms using C and C++",
         "platform": "Udemy",
@@ -1653,13 +1659,12 @@
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/course/html-in-web-development-new/"
     },
-
-]
-
-{
+    {
         "id": "59",
         "courseName": "Front End Development Libraries",
         "platform": "free code camp",
         "courseLink": "https://www.freecodecamp.org/learn/front-end-development-libraries/"
-    }
+    },
+  
+  ]
 
