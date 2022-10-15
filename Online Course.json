@@ -1298,4 +1298,10 @@
         "platform": "tutorialspoint",
         "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
     },
+ {
+        "id": "59",
+        "courseName": "web development ",
+        "platform": "unschool",
+        "courseLink": "https://learn.unschool.in/learn/home/Web-Development/"
+    },
 
