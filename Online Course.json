@@ -1618,6 +1618,12 @@
         "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
     },
     {
+        "id": "236",
+        "courseName": "Mastering Data Structures & Algorithms using C and C++",
+        "platform": "Udemy",
+        "courseLink": "https://www.udemy.com/course/datastructurescncpp/?src=sac&kw=mastering+data+structure",
+    },
+    {
         "id" : "3241",
         "courseName" : "Learn C: The Complete C Programming Course",
         "platform" : "udemy",
