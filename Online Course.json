@@ -1263,12 +1263,17 @@
       "courseLink": "https://www.coursera.org/specializations/java-programming"
     },
     {
+       "id": "546",
+       "courseName": "Javascript",
+       "platform": "W3Schools",
+       "courseLink": "https://www.w3schools.com/js/default.asp"
+    },
+    {
       "id": "58",
       "courseName": "Data science",
       "platform": "youtube",
       "courseLink": "https://www.youtube.com/playlist?list=PLvMRWNpDTNwQ0wzQYY_lk2sedyzgHaZm3"
     },
-
     {
         "id":"59",
         "courseName":"web Development Course by Apna College",
@@ -1289,5 +1294,4 @@
     },
 
 ]
-
 
