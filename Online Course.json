@@ -1,4 +1,3 @@
-
 [
     {
         "id": "11719",
@@ -1624,7 +1623,12 @@
         "courseLink": "https://learn.unschool.in/learn/home/Web-Development/"
     },
     {
-
+        "id": "5889",
+        "courseName": "Blockchain",
+        "platform": "Coursera",
+        "courseLink": "https://www.coursera.com/blockchain"
+    },
+    {
         "id": "19252",
         "courseName": "Computer Science",
         "platform": "Saylor Academy",
@@ -1690,12 +1694,44 @@
       "courseName" : "Algorithm Tool Kit",
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/Algorithm-Tool-Kit"
-    },
-	{
+   },
+	 {
         "id": "66",
         "courseName": "css",
         "platform": "W3Schools",
         "courseLink": "https://www.w3schools.com/css/default.asp"
     },
+    {
+      "id" : "29132",
+      "courseName" : "Python full tutorial for begineers",
+      "platform" : "Youtube",
+      "courseLink" : "https://youtu.be/_uQrJ0TkZlc"
+    },
+    {
+      "id" : "659",
+      "courseName" : "Data Analysis with Python",
+      "platform" : "freecodecamp.org",
+      "courseLink" : "https://www.freecodecamp.org/learn/data-analysis-with-python/"
+    },
+	 {
+        "id": "2033",
+        "courseName": "Python",
+        "platform": "W3Schools",
+        "courseLink": "https://www.w3schools.com/python/default.asp"
+    },
+    {
+      "id" : "29138",
+      "courseName" : "Data Science Foundations",
+      "platform" : "Great Learning",
+      "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations"
+    },	
+    {
+      "id" : "29200",
+      "courseName" : "Data Structure Using Python",
+      "platform" : "Coursera",
+      "courseLink" : "https://www.coursera.com/data-structure-using-python"
+    },
+
     
     ]
+
