@@ -1624,7 +1624,12 @@
         "courseLink": "https://learn.unschool.in/learn/home/Web-Development/"
     },
     {
-
+        "id": "5889",
+        "courseName": "Blockchain",
+        "platform": "Coursera",
+        "courseLink": "https://www.coursera.com/blockchain"
+    },
+    {
         "id": "19252",
         "courseName": "Computer Science",
         "platform": "Saylor Academy",
@@ -1700,3 +1705,4 @@
     },
     
     ]
+
