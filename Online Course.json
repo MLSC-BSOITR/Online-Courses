@@ -1691,5 +1691,10 @@
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/Algorithm-Tool-Kit"
     },
-    
+    {
+      "id" : "659",
+      "courseName" : "Data Analysis with Python",
+      "platform" : "freecodecamp.org",
+      "courseLink" : "https://www.freecodecamp.org/learn/data-analysis-with-python/"
+    },
     ]
