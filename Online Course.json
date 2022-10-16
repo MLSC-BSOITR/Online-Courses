@@ -99,12 +99,7 @@
         "platform": "dphi",
         "courseLink": "https://dphi.tech/courses/introduction-to-exploratory-data-analysis"
     },
-    {
-        "id": "527",
-        "courseName": "pre-requisites_for_deep_learning_bootcamp",
-        "platform": "dphi",
-        "courseLink": "https://dphi.tech/courses/pre-requisites_for_deep_learning_bootcamp"
-    },
+   
     {
         "id": "528",
         "courseName": "introduction-to-data-visualization",
@@ -1732,6 +1727,11 @@
       "courseLink" : "https://www.coursera.com/data-structure-using-python"
     },
 
-    
+     {
+        "id": "29201",
+        "courseName": "pre-requisites_for_deep_learning_bootcamp",
+        "platform": "dphi",
+        "courseLink": "https://dphi.tech/courses/pre-requisites_for_deep_learning_bootcamp"
+    },
     ]
 
