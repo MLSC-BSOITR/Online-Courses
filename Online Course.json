@@ -1,4 +1,4 @@
-
+⁷
 [
     {
         "id": "11719",
@@ -1691,5 +1691,12 @@
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/Algorithm-Tool-Kit"
     },
+    {
+      "id" : "29132",
+      "courseName" : "Python full tutorial for begineers",
+      "platform" : "Youtube",
+      "courseLink" : "https://youtu.be/_uQrJ0TkZlc"
+    },
+
     
     ]
