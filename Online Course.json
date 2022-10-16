@@ -1731,7 +1731,14 @@
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/data-structure-using-python"
     },
-
+    
+    {
+      "id": "615",
+      "courseName": " Machine Learning for All",
+      "platform": "Coursera",
+      "courseLink": "https://www.coursera.org/learn/uol-machine-learning-for-all",
+      "type": "free"
+   },
     
     ]
 
