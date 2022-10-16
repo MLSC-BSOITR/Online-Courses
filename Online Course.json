@@ -1694,6 +1694,12 @@
       "courseName" : "Algorithm Tool Kit",
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/Algorithm-Tool-Kit"
+   },
+	 {
+        "id": "66",
+        "courseName": "css",
+        "platform": "W3Schools",
+        "courseLink": "https://www.w3schools.com/css/default.asp"
     },
     {
       "id" : "29132",
@@ -1725,7 +1731,7 @@
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/data-structure-using-python"
     },
-    
+
     
     ]
 
