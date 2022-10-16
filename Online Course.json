@@ -1,4 +1,3 @@
-
 [
     {
         "id": "11719",
@@ -1695,6 +1694,18 @@
       "courseName" : "Algorithm Tool Kit",
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/Algorithm-Tool-Kit"
+   },
+	 {
+        "id": "66",
+        "courseName": "css",
+        "platform": "W3Schools",
+        "courseLink": "https://www.w3schools.com/css/default.asp"
+    },
+    {
+      "id" : "29132",
+      "courseName" : "Python full tutorial for begineers",
+      "platform" : "Youtube",
+      "courseLink" : "https://youtu.be/_uQrJ0TkZlc"
     },
     {
       "id" : "659",
@@ -1720,6 +1731,7 @@
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/data-structure-using-python"
     },
+
     {
       "id" : "670",
       "courseName" : "Introduction to Cybersecurity",
@@ -1727,5 +1739,7 @@
       "courseLink" : "https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html#~introduction-to-cybersecurity"
     },
 
+
+   
     ]
 
