@@ -1731,6 +1731,13 @@
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/data-structure-using-python"
     },
+ {
+      "id" : "9087",
+      "courseName" : "Advanced JavaScript",
+      "platform" : "udemy",
+      "courseLink" : "https://www.udemy.com/Adavnced-javascript"
+    },
+	
 
     
     ]
