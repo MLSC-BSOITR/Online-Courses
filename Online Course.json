@@ -1720,5 +1720,12 @@
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/data-structure-using-python"
     },
+    {
+      "id" : "670",
+      "courseName" : "Introduction to Cybersecurity",
+      "platform" : "Cisco",
+      "courseLink" : "https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html#~introduction-to-cybersecurity"
+    },
+
     ]
 
