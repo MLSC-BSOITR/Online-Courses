@@ -1731,7 +1731,12 @@
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/data-structure-using-python"
     },
-
+ {
+        "id" : "29201",
+        "courseName" : "Python for non programmers",
+        "platform" : "Great Learning",
+        "courseLink" : "https://www.simplilearn.com/learn-java-basics-skillup"
+      },
     
     ]
 
