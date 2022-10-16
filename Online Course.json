@@ -1624,7 +1624,12 @@
         "courseLink": "https://learn.unschool.in/learn/home/Web-Development/"
     },
     {
-
+        "id": "5889",
+        "courseName": "Blockchain",
+        "platform": "Coursera",
+        "courseLink": "https://www.coursera.com/blockchain"
+    },
+    {
         "id": "19252",
         "courseName": "Computer Science",
         "platform": "Saylor Academy",
@@ -1696,7 +1701,14 @@
       "courseName" : "Data Science Foundations",
       "platform" : "Great Learning",
       "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations"
+    },	
+    {
+      "id" : "29200",
+      "courseName" : "Data Structure Using Python",
+      "platform" : "Coursera",
+      "courseLink" : "https://www.coursera.com/data-structure-using-python"
     },
-    
+
     
     ]
+
