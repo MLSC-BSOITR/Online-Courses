@@ -139,6 +139,13 @@
         "platform": "Youtube",
         "courseLink": "https://youtu.be/U1EFgCNLDB8"
     },
+	
+	   {
+        "id": "1009",
+        "courseName": "java",
+        "platform": "www.onlinelearningcenter",
+        "courseLink": "https://www.onlinelearningcenter.in/course-details/corejava2weeks"
+    },
     {
         "id" : "12",
         "courseName" : "Python for non programmers",
