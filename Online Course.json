@@ -2967,12 +2967,19 @@
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/data-structure-using-python"
     },
- {
+    {
+      "id": "615",
+      "courseName": " Machine Learning for All",
+      "platform": "Coursera",
+      "courseLink": "https://www.coursera.org/learn/uol-machine-learning-for-all",
+      "type": "free"
+   },   
+   {
         "id" : "29201",
         "courseName" : "Python for non programmers",
         "platform" : "Great Learning",
         "courseLink" : "https://www.simplilearn.com/learn-java-basics-skillup"
-      },
+    },
     {
       "id" : "670",
       "courseName" : "Introduction to Cybersecurity",
@@ -2985,7 +2992,7 @@
       "platform" : "Youtube",
       "courseLink" : "https://youtu.be/GhQdlIFylQ8"
     },
-     {
+    {
         "id": "29201",
         "courseName": "pre-requisites_for_deep_learning_bootcamp",
         "platform": "dphi",
@@ -3010,5 +3017,6 @@
       "courseLink": "https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=1&t=0s"
     }
 ]
+
 
 
