@@ -2961,6 +2961,12 @@
       "courseLink" : "https://www.coursera.com/data-structure-using-python"
     },
     {
+      "id" : "670",
+      "courseName" : "Introduction to Cybersecurity",
+      "platform" : "Cisco",
+      "courseLink" : "https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html#~introduction-to-cybersecurity"
+    },
+    {
       "id" : "29201",
       "courseName" : "C# Tutorial - Full Course for Beginners",
       "platform" : "Youtube",
@@ -2991,4 +2997,5 @@
       "courseLink": "https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=1&t=0s"
     }
 ]
+
 
