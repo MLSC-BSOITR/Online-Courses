@@ -2859,6 +2859,12 @@
         "courseLink": "https://learn.unschool.in/learn/home/Web-Development/"
     },
     {
+       "id": "5809",
+       "courseName": "python Django",
+       "platform": "Coursera",
+       "courseLink": "https://www.Coursera.com/"
+    },
+    {
         "id": "5889",
         "courseName": "Blockchain",
         "platform": "Coursera",
@@ -3017,6 +3023,7 @@
       "courseLink": "https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=1&t=0s"
     }
 ]
+
 
 
 
