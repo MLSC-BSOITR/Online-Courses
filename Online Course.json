@@ -3033,6 +3033,12 @@
       "courseName": "Love Babbar DSA",
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=1&t=0s"
+    },
+    {
+      "id": "027",
+      "courseName": "Classification Models",
+      "platform": "Udacity",
+      "courseLink": "https://www.udacity.com/course/classification-models--ud978"
     }
 ]
 
