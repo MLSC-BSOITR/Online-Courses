@@ -2973,6 +2973,12 @@
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/data-structure-using-python"
     },
+   {
+      "id" : "29265",
+      "courseName" : "Python For Everybody",
+      "platform" : "Coursera",
+      "courseLink" : "https://www.coursera.com/python-for -everybody"
+    },
     {
       "id": "615",
       "courseName": " Machine Learning for All",
@@ -3023,6 +3029,7 @@
       "courseLink": "https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=1&t=0s"
     }
 ]
+
 
 
 
