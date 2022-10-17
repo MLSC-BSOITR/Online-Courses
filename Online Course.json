@@ -180,19 +180,19 @@
         "id": "591",
         "courseName": "My SQL Basics",
         "platform": "Great Learning",
-        "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics",
+        "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics"
     },
     {
         "id": "592",
         "courseName": "Android Application Development",
         "platform": "Great Learning",
-        "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/android-application-development",
+        "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/android-application-development"
     },
     {
         "id": "593",
         "courseName": "Data Science Foundations",
         "platform": "Great Learning",
-        "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations",
+        "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations"
     },
     {
         "id": "594",
@@ -688,6 +688,14 @@
         "platform": "Officially By Google",
         "courseLink": "https://developer.android.com/courses/android-basics-compose/course"
     },
+
+    {
+        "id" : "248",
+        "courseName" : "Introduction to Computer Science and Programming in Python",
+        "platform" : "MITOPENCOURSEWARE",
+        "courseLink" : "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/"
+      },
+
     {
         "id": "38",
         "courseName": "Machine Learning",
@@ -2217,19 +2225,19 @@
     },
     {
         "id" : "232",
-        "courseName" : "JSP (Java server pages) and servlet basics"
+        "courseName" : "JSP (Java server pages) and servlet basics",
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/course/jsp-servlet-free/"
     },
     {
        "id" : "233",
-       "courseName" : "Introduction to Bootstrap 3"
+       "courseName" : "Introduction to Bootstrap 3",
        "platform" : "Udemy",
        "courseLink" : "https://www.udemy.com/course/introduction-to-bootstrap-3/"
     },
     {
        "id" : "234",
-       "courseName" : "Practical Ethical Hacking - The Complete Course"
+       "courseName" : "Practical Ethical Hacking - The Complete Course",
        "platform" : "TCM Security",
        "courseLink" : "https://academy.tcm-sec.com/courses/enrolled/1152300"
      },
@@ -2259,19 +2267,19 @@
     },
     {
       "id" : "233",
-      "courseName" : "Introduction to Bootstrap 3"
+      "courseName" : "Introduction to Bootstrap 3",
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/introduction-to-bootstrap-3/"
     },
     {
      "id" : "234",
-      "courseName" : "Practical Ethical Hacking - The Complete Course"
+      "courseName" : "Practical Ethical Hacking - The Complete Course",
       "platform" : "TCM Security",
       "courseLink" : "https://academy.tcm-sec.com/courses/enrolled/1152300"
     },
     {
        "id" : "234",
-       "courseName" : "PNPT"
+       "courseName" : "PNPT",
        "platform" : "TCM Security",
        "courseLink" : "https://academy.tcm-sec.com/p/pnpt-live"
     },
@@ -2282,7 +2290,7 @@
         "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial"
     },
     {       "id" : "235",
-       "courseName" : "Mongodb Tutorial"
+       "courseName" : "Mongodb Tutorial",
        "platform" : "Great Learning Academy",
        "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial"
    },
@@ -2416,7 +2424,7 @@
        "id": "236",
        "courseName": "Coding Interview Prep",
        "platform": "FreeCodeCamp",
-       "courseLink": "https://www.freecodecamp.org/learn/coding-interview-prep/",
+       "courseLink": "https://www.freecodecamp.org/learn/coding-interview-prep/"
    },
    {
        "id" : "236",
@@ -2434,7 +2442,7 @@
       "id": "236",
        "courseName": "Coding Interview Prep",
        "platform": "FreeCodeCamp",
-       "courseLink": "https://www.freecodecamp.org/learn/coding-interview-prep/",
+       "courseLink": "https://www.freecodecamp.org/learn/coding-interview-prep/"
     },
 	  {
       "id" : "236",
@@ -2488,7 +2496,7 @@
       "id" : "236",
       "courseName" : "Introduction to XML",
       "platform" : "w3schools",
-      "courseLink" : "https://www.w3schools.com/xml/xml_whatis.asp",
+      "courseLink" : "https://www.w3schools.com/xml/xml_whatis.asp"
     },
     {
       "id" : "999",
@@ -2775,7 +2783,7 @@
        "id" : "313",
        "courseName": "Amazon Web Services (AWS) - Zero to Hero",
        "platform": "Udemy",
-       "courselink": "https://www.udemy.com/course/amazon-web-services-aws-v/",
+       "courselink": "https://www.udemy.com/course/amazon-web-services-aws-v/"
     },
     {
        "id": "58",
@@ -2865,7 +2873,7 @@
         "id": "236",
         "courseName": "Mastering Data Structures & Algorithms using C and C++",
         "platform": "Udemy",
-        "courseLink": "https://www.udemy.com/course/datastructurescncpp/?src=sac&kw=mastering+data+structure",
+        "courseLink": "https://www.udemy.com/course/datastructurescncpp/?src=sac&kw=mastering+data+structure"
     },
     
     {
@@ -2983,3 +2991,4 @@
       "courseLink": "https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=1&t=0s"
     }
 ]
+
