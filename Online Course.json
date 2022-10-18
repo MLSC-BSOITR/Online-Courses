@@ -3042,6 +3042,11 @@
     }
 ]
 
-
+{
+        "id": "630555",
+        "courseName": "Statistics",
+        "platform": "edx",
+        "courseLink": "https://www.edx.org/learn/statistics"
+    },
 
 
