@@ -3039,7 +3039,13 @@
       "courseName": "Classification Models",
       "platform": "Udacity",
       "courseLink": "https://www.udacity.com/course/classification-models--ud978"
-    }
+    },
+    {
+      "id": "303",
+      "courseName": "Microsoft Azure Essentials",
+      "platform": "Great Learning",
+      "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/microsoft-azure-essentials"
+    } 
 ]
 
 
