@@ -3040,6 +3040,18 @@
       "platform": "Udacity",
       "courseLink": "https://www.udacity.com/course/classification-models--ud978"
     }
+    {
+      "id": "118",
+      "courseName": "MongoDB Basics",
+      "platform": "MongoDB University",
+      "courseLink": "https://university.mongodb.com/courses/M001/about"
+    }
+    {
+      "id": "119",
+      "courseName": "MongoDB for SQL Pros",
+      "platform": "MongoDB University",
+      "courseLink": "https://university.mongodb.com/courses/M100/about"
+    }
 ]
 
 
