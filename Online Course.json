@@ -3041,6 +3041,12 @@
       "courseLink": "https://www.udacity.com/course/classification-models--ud978"
     },
     {
+      "id": "303",
+      "courseName": "Microsoft Azure Essentials",
+      "platform": "Great Learning",
+      "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/microsoft-azure-essentials"
+    } 
+    {
       "id": "028",
       "courseName": "Android Development Tutorial For Beginners In Hindi (With Notes)",
       "platform": "Youtube",
@@ -3057,21 +3063,20 @@
       "courseName" : "Data Structure Using Java",
       "platform" : "Coursera",
       "courseLink" : "https://www.coursera.com/data-structure-using-java"
-    },
-    {
+     },
+     {
       "id": "9001",
       "courseName": "Freecodecamp.org",
       "platform": "Youtube",
       "courseLink": "https://youtu.be/gyMwXuJrbJQ"
-    },
-    {
+     },
+     {
       "id": "1237",
       "courseName": "Python Crash Course",
       "platform": "Coursera",
       "courseLink": "https://www.coursera.com/course/python-crash-course"
-
-    }
-    {
+     }
+     {
       "id": "028",
       "courseName": "Data Structures and Algorithms Specialization",
       "platform": "coursera",
@@ -3101,6 +3106,7 @@
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
+
 
 
 ]
