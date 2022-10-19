@@ -3065,6 +3065,12 @@
       "courseLink": "https://www.coursera.com/course/python-crash-course"
     }
     {
+      "id": "028",
+      "courseName": "Data Structures and Algorithms Specialization",
+      "platform": "coursera",
+      "courseLink": "https://www.coursera.org/specializations/data-structures-algorithms"
+    }
+    {
       "id": "118",
       "courseName": "MongoDB Basics",
       "platform": "MongoDB University",
@@ -3088,6 +3094,7 @@
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
+
 
 ]
 
