@@ -3045,9 +3045,64 @@
       "courseName": "Android Development Tutorial For Beginners In Hindi (With Notes)",
       "platform": "Youtube",
       "courseLink": "https://youtu.be/mXjZQX3UzOs"
+     }
+     {
+      "id": "999",
+      "courseName": "Web Design for Web Developers: Build Beautiful Websites!",
+      "platform": "Udemy",
+      "courseLink": "https://www.udemy.com/course/web-design-secrets/"
+     },
+     {
+      "id" : "2001",
+      "courseName" : "Data Structure Using Java",
+      "platform" : "Coursera",
+      "courseLink" : "https://www.coursera.com/data-structure-using-java"
+    },
+    {
+      "id": "9001",
+      "courseName": "Freecodecamp.org",
+      "platform": "Youtube",
+      "courseLink": "https://youtu.be/gyMwXuJrbJQ"
+    },
+    {
+      "id": "1237",
+      "courseName": "Python Crash Course",
+      "platform": "Coursera",
+      "courseLink": "https://www.coursera.com/course/python-crash-course"
+
     }
+    {
+      "id": "028",
+      "courseName": "Data Structures and Algorithms Specialization",
+      "platform": "coursera",
+      "courseLink": "https://www.coursera.org/specializations/data-structures-algorithms"
+    }
+    {
+      "id": "118",
+      "courseName": "MongoDB Basics",
+      "platform": "MongoDB University",
+      "courseLink": "https://university.mongodb.com/courses/M001/about"
+    }
+    {
+      "id": "119",
+      "courseName": "MongoDB for SQL Pros",
+      "platform": "MongoDB University",
+      "courseLink": "https://university.mongodb.com/courses/M100/about"
+    }
+    {
+      "id": "5111",
+      "courseName": "CodewithPrashu",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/watch-codewithprashu"
+    }
+    {
+        "id": "630555",
+        "courseName": "Statistics",
+        "platform": "edx",
+        "courseLink": "https://www.edx.org/learn/statistics"
+    },
+
+
 ]
-
-
 
 
