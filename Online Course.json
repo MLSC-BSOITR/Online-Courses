@@ -3040,13 +3040,13 @@
       "platform": "Udacity",
       "courseLink": "https://www.udacity.com/course/classification-models--ud978"
     }
-]
-
-{
+    {
         "id": "630555",
         "courseName": "Statistics",
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
+    
+]
 
 
