@@ -3118,8 +3118,13 @@
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
-
-
+    {
+        "id": "930550",
+        "courseName": "Python for Everybody Specialization",
+        "platform": "Coursera",
+        "courseLink": https://in.coursera.org/specializations/python"
+    },
+     
 
 ]
 
