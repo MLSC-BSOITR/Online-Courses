@@ -3041,6 +3041,12 @@
       "courseLink": "https://www.udacity.com/course/classification-models--ud978"
     },
     {
+      "id": "9001",
+      "courseName": "Freecodecamp.org",
+      "platform": "Youtube",
+      "courseLink": "https://youtu.be/gyMwXuJrbJQ"
+    },
+    {
       "id": "1237",
       "courseName": "Python Crash Course",
       "platform": "Coursera",
@@ -3052,6 +3058,7 @@
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/watch-codewithprashu"
     }
+
 ]
 
 
