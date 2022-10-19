@@ -3064,8 +3064,13 @@
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/watch-codewithprashu"
     }
+    {
+        "id": "630555",
+        "courseName": "Statistics",
+        "platform": "edx",
+        "courseLink": "https://www.edx.org/learn/statistics"
+    },
+    
 ]
-
-
 
 
