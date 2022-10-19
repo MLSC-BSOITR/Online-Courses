@@ -3046,6 +3046,19 @@
       "platform": "Youtube",
       "courseLink": "https://youtu.be/gyMwXuJrbJQ"
     },
+    {
+      "id": "1237",
+      "courseName": "Python Crash Course",
+      "platform": "Coursera",
+      "courseLink": "https://www.coursera.com/course/python-crash-course"
+    }
+    {
+      "id": "5111",
+      "courseName": "CodewithPrashu",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/watch-codewithprashu"
+    }
+
 ]
 
 
