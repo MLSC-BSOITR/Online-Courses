@@ -3041,6 +3041,12 @@
       "courseLink": "https://www.udacity.com/course/classification-models--ud978"
     },
     {
+      "id" : "2001",
+      "courseName" : "Data Structure Using Java",
+      "platform" : "Coursera",
+      "courseLink" : "https://www.coursera.com/data-structure-using-java"
+    },
+    {
       "id": "9001",
       "courseName": "Freecodecamp.org",
       "platform": "Youtube",
@@ -3058,7 +3064,6 @@
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/watch-codewithprashu"
     }
-
 ]
 
 
