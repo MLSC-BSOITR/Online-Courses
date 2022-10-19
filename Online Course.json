@@ -3065,6 +3065,18 @@
       "courseLink": "https://www.coursera.com/course/python-crash-course"
     }
     {
+      "id": "118",
+      "courseName": "MongoDB Basics",
+      "platform": "MongoDB University",
+      "courseLink": "https://university.mongodb.com/courses/M001/about"
+    }
+    {
+      "id": "119",
+      "courseName": "MongoDB for SQL Pros",
+      "platform": "MongoDB University",
+      "courseLink": "https://university.mongodb.com/courses/M100/about"
+    }
+    {
       "id": "5111",
       "courseName": "CodewithPrashu",
       "platform": "Youtube",
@@ -3076,7 +3088,7 @@
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
-    
+
 ]
 
 
