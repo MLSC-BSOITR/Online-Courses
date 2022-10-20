@@ -3118,7 +3118,12 @@
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
-
+    {
+        "id": "303224",
+        "courseName": "DSA",
+        "platform": "Coursera",
+        "courseLink": "https://www.coursera.org/learn/algorithms-part2?irclickid=XwoSPK0VwxyNWqUQodwnHxJuUkDVAMSLWUXDUQ0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c"
+    },
 
 
 ]
