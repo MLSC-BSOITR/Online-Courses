@@ -3118,6 +3118,12 @@
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
+    {
+        "id": "63069",
+        "courseName": "Introduction to User Experience Design",
+        "platform": "Coursera",
+        "courseLink": "https://www.coursera.org/learn/user-experience-design"
+    },
 
 
 
