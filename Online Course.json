@@ -3118,6 +3118,13 @@
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
+	
+    {
+        "id": "59090",
+        "courseName": "Python Programming with Hands on Practicals in English",
+        "platform": "lernvern",
+        "courseLink": "https://www.learnvern.com/course/core-python-programming-tutorial"
+    }
 
 
 
