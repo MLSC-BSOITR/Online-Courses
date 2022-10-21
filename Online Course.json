@@ -3119,6 +3119,12 @@
         "courseLink": "https://www.edx.org/learn/statistics"
     },
     {
+        "id": "696969",
+        "courseName": "C-Language",
+        "platform": "platform",
+        "courseLink": "https://www.youtube.com/watch?v=ZSPZob_1TOk"
+    },
+    {
         "id": "930550",
         "courseName": "Python for Everybody Specialization",
         "platform": "Coursera",
