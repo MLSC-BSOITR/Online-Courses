@@ -3124,12 +3124,17 @@
         "courseLink": "https://www.edx.org/learn/statistics"
     },
     {
+        "id": "63069",
+        "courseName": "Introduction to User Experience Design",
+        "platform": "Coursera",
+        "courseLink": "https://www.coursera.org/learn/user-experience-design"
+    },
+    {
         "id": "2905",
         "courseName": "Graphic Design Elements for non-designers ",
         "platform": "Coursera",
         "courseLink": "https://www.coursera.org/learn/fonts-typography-spacing/home/week/1"
     },
-
     {
         "id": "696969",
         "courseName": "C-Language",
