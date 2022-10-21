@@ -3164,9 +3164,19 @@
        "courseName": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
        "platform": "Udemy",
        "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
-  },
-
-
+    },
+    {
+       "id": "299",
+       "courseName": "Ethical Hacking Course for beginner to pro",
+       "platform": "YouTube",
+       "courseLink": "https://www.youtube.com/playlist?list=PLaPnjQHQDW0Z_d_p4rJzvZYqK2Muo21Ye"
+    },
+	{
+       "id": "300",
+       "courseName": "Docker Full Course",
+       "platform": "YouTube",
+       "courseLink": "https://www.youtube.com/watch?v=0SS6bJczlgs"
+    }
 ]
 
 
