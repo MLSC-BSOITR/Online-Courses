@@ -3165,6 +3165,12 @@
        "platform": "Udemy",
        "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
   },
+{
+       "id": "5897",
+       "courseName": "Data Analysis With Python",
+       "platform": "freecodecamp",
+       "courseLink": "https://www.freecodecamp.org/learn/data-analysis-with-python/"
+  },
 
 
 ]
