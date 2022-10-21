@@ -3165,7 +3165,24 @@
        "platform": "Udemy",
        "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
   },
-
+    {
+       "id": "599",
+       "courseName": "Salesforce Lightning",
+       "platform": "Trailhead",
+       "courseLink": "https://trailhead.salesforce.com/content/learn/modules/lex_implementation_basics"
+    }
+{
+       "id": "699",
+       "courseName": "Service Cloud for Lightning Experience",
+       "platform": "Trailhead",
+       "courseLink": "https://trailhead.salesforce.com/content/learn/modules/service_lex"
+    }
+{
+       "id": "799",
+       "courseName": "Git and GitHub Basics",
+       "platform": "Trailhead",
+       "courseLink": "https://trailhead.salesforce.com/content/learn/modules/git-and-git-hub-basics"
+    }
 
 ]
 
