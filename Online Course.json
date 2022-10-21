@@ -1,5 +1,10 @@
 [
-
+  {
+    "id" :"201022",
+    "courseName":"Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course",
+    "platform" : "Youtube",
+    "courseLink" : "https://youtu.be/gyMwXuJrbJQ"
+  },
   {
     "id": "11719",
     "courseName": "Complete DSA - Placement course",
