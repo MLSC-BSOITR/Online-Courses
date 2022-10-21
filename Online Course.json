@@ -3118,6 +3118,12 @@
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
+    {
+        "id": "930550",
+        "courseName": "Python for Everybody Specialization",
+        "platform": "Coursera",
+        "courseLink": "https://in.coursera.org/specializations/python"
+    },
    {
         "id": "378",
         "courseName": "Full Stack Java Developer",
@@ -3130,7 +3136,6 @@
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
   },
-
 
 ]
 
