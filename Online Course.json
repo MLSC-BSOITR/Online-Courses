@@ -3119,6 +3119,14 @@
         "courseLink": "https://www.edx.org/learn/statistics"
     },
 
+     {
+      "id" : "234",
+      "courseName" : "Free Flutter Course by Vandad Nahavandipoor",
+      "platform" : "Youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
+      "type":"free"
+    }
+
 
 
 ]
