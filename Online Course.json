@@ -3118,8 +3118,12 @@
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
-
-
+    {
+      "id": "525",
+      "courseName": "Learn to Program in Javascript: Beginner to Pro",
+      "platform": "Udemy",
+      "courseLink": "https://www.udemy.com/course/programming-in-javascript/"
+  }
 
 ]
 
