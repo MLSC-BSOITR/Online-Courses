@@ -3124,6 +3124,13 @@
         "courseLink": "https://www.edx.org/learn/statistics"
     },
     {
+        "id": "2905",
+        "courseName": "Graphic Design Elements for non-designers ",
+        "platform": "Coursera",
+        "courseLink": "https://www.coursera.org/learn/fonts-typography-spacing/home/week/1"
+    },
+
+    {
         "id": "696969",
         "courseName": "C-Language",
         "platform": "platform",
@@ -3135,18 +3142,19 @@
         "platform": "Coursera",
         "courseLink": "https://in.coursera.org/specializations/python"
     },
-   {
+    {
         "id": "378",
         "courseName": "Full Stack Java Developer",
         "platform": "simplilearn",
         "courseLink": "https://www.simplilearn.com/java-full-stack-developer-certification-training-course?utm_source=google&utm_medium=cpc&utm_term=&utm_content=17794206227-139814028875-611092856388&utm_device=c&utm_campaign=Search-TechCluster-SD-FullStack-DSA-IN-Main-AllDevice-JGuarantee-adgroup-DSA-Full-Stack-Java-Developer-master&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbyFVufRKw8qxUrC_WrPxPEN7Q4JC8Qr-g21N9jWgtXW6DsU1seZX6BoC4y0QAvD_BwE"
     },
-   {
-    "id": "298",
-    "courseName": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
-    "platform": "Udemy",
-    "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
+    {
+       "id": "298",
+       "courseName": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+       "platform": "Udemy",
+       "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
   },
+
 
 ]
 
