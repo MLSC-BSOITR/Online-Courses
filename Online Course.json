@@ -3123,6 +3123,12 @@
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
+   	{
+      	"id": "630556",
+       	"courseName": "The Science of Well-Being",
+      	"platform": "Coursera",
+      	"courseLink": "https://www.coursera.org/learn/the-science-of-well-being"
+    },
     {
         "id": "303224",
         "courseName": "DSA",
@@ -3183,6 +3189,7 @@
        "platform": "YouTube",
        "courseLink": "https://www.youtube.com/watch?v=0SS6bJczlgs"
     }
+
 ]
 
 
