@@ -2007,7 +2007,12 @@
     "platform": "w3schools",
     "courseLink": "https://www.w3schools.com/sql/sql_intro.asp"
   },
-
+  {
+    "id": "23733",
+    "courseName": "Join the Waiting List - Job Readiness Platform",
+    "platform": "GL",
+    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/join-the-waiting-list-job-readiness-platform"
+  },
   {
     "id": "236",
     "courseName": "Django-Course Full",
