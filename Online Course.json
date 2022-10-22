@@ -4096,6 +4096,12 @@
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
+     {
+        "id": "630556",
+        "courseName": "Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial",
+        "platform": "Youtube",
+        "courseLink": "https://youtu.be/VPvVD8t02U8"
+    },
     {
         "id": "630589",
         "courseName": "Chrome Extension Development",
@@ -4174,4 +4180,5 @@
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
     }
+
 ]
