@@ -1,5 +1,10 @@
 [
-
+  {
+    "id" :"201022",
+    "courseName":"Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course",
+    "platform" : "Youtube",
+    "courseLink" : "https://youtu.be/gyMwXuJrbJQ"
+  },
   {
     "id": "11719",
     "courseName": "Complete DSA - Placement course",
@@ -3118,14 +3123,72 @@
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
-	{
-	"id": "630556",
-	"courseName": "The Science of Well-Being",
-	"platform": "Coursera",
-	"courseLink": "https://www.coursera.org/learn/the-science-of-well-being"
+   	{
+      	"id": "630556",
+       	"courseName": "The Science of Well-Being",
+      	"platform": "Coursera",
+      	"courseLink": "https://www.coursera.org/learn/the-science-of-well-being"
     },
-
-
+    {
+        "id": "303224",
+        "courseName": "DSA",
+        "platform": "Coursera",
+        "courseLink": "https://www.coursera.org/learn/algorithms-part2?irclickid=XwoSPK0VwxyNWqUQodwnHxJuUkDVAMSLWUXDUQ0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c"
+    },
+    {
+        "id": "59090",
+        "courseName": "Python Programming with Hands on Practicals in English",
+        "platform": "lernvern",
+        "courseLink": "https://www.learnvern.com/course/core-python-programming-tutorial"
+    },
+    {
+        "id": "63069",
+        "courseName": "Introduction to User Experience Design",
+        "platform": "Coursera",
+        "courseLink": "https://www.coursera.org/learn/user-experience-design"
+    },
+    {
+        "id": "2905",
+        "courseName": "Graphic Design Elements for non-designers ",
+        "platform": "Coursera",
+        "courseLink": "https://www.coursera.org/learn/fonts-typography-spacing/home/week/1"
+    },
+    {
+        "id": "696969",
+        "courseName": "C-Language",
+        "platform": "platform",
+        "courseLink": "https://www.youtube.com/watch?v=ZSPZob_1TOk"
+    },
+    {
+        "id": "930550",
+        "courseName": "Python for Everybody Specialization",
+        "platform": "Coursera",
+        "courseLink": "https://in.coursera.org/specializations/python"
+    },
+    {
+        "id": "378",
+        "courseName": "Full Stack Java Developer",
+        "platform": "simplilearn",
+        "courseLink": "https://www.simplilearn.com/java-full-stack-developer-certification-training-course?utm_source=google&utm_medium=cpc&utm_term=&utm_content=17794206227-139814028875-611092856388&utm_device=c&utm_campaign=Search-TechCluster-SD-FullStack-DSA-IN-Main-AllDevice-JGuarantee-adgroup-DSA-Full-Stack-Java-Developer-master&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbyFVufRKw8qxUrC_WrPxPEN7Q4JC8Qr-g21N9jWgtXW6DsU1seZX6BoC4y0QAvD_BwE"
+    },
+    {
+       "id": "298",
+       "courseName": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+       "platform": "Udemy",
+       "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
+    },
+    {
+       "id": "299",
+       "courseName": "Ethical Hacking Course for beginner to pro",
+       "platform": "YouTube",
+       "courseLink": "https://www.youtube.com/playlist?list=PLaPnjQHQDW0Z_d_p4rJzvZYqK2Muo21Ye"
+    },
+	{
+       "id": "300",
+       "courseName": "Docker Full Course",
+       "platform": "YouTube",
+       "courseLink": "https://www.youtube.com/watch?v=0SS6bJczlgs"
+    }
 
 ]
 
