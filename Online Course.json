@@ -4174,20 +4174,38 @@
        "courseName": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
        "platform": "Udemy",
        "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
-  },
-{
+   },
+   {
+       "id": "599",
+       "courseName": "Salesforce Lightning",
+       "platform": "Trailhead",
+       "courseLink": "https://trailhead.salesforce.com/content/learn/modules/lex_implementation_basics"
+    },
+    {
+       "id": "699",
+       "courseName": "Service Cloud for Lightning Experience",
+       "platform": "Trailhead",
+       "courseLink": "https://trailhead.salesforce.com/content/learn/modules/service_lex"
+    },
+    {
+       "id": "799",
+       "courseName": "Git and GitHub Basics",
+       "platform": "Trailhead",
+       "courseLink": "https://trailhead.salesforce.com/content/learn/modules/git-and-git-hub-basics"
+    },
+    {
        "id": "5897",
        "courseName": "Data Analysis With Python",
        "platform": "freecodecamp",
        "courseLink": "https://www.freecodecamp.org/learn/data-analysis-with-python/"
-  },
-  {
+    },
+    {
     "id": "299",
     "courseName": "Java + DSA + Interview Preparation Course",
     "platform": "Youtube",
     "courseLink": "https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
-    },
-    {
+     },
+     {
         "id": "3456",
         "courseName": "Data Science Foundations",
         "platform": "Great Learning",
@@ -4217,7 +4235,6 @@
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
     }
-
 
 
 ]
