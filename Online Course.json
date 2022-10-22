@@ -3165,7 +3165,12 @@
        "platform": "Udemy",
        "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
   },
-
+{
+       "id": "299",
+       "courseName": "Introduction to Psychology",
+       "platform": "Coursera",
+       "courseLink": "https://www.coursera.org/learn/introduction-psychology"
+  },
 
 ]
 
