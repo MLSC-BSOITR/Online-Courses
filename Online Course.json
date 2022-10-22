@@ -4175,12 +4175,17 @@
        "platform": "Udemy",
        "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
   },
+{
+       "id": "5897",
+       "courseName": "Data Analysis With Python",
+       "platform": "freecodecamp",
+       "courseLink": "https://www.freecodecamp.org/learn/data-analysis-with-python/"
+  },
   {
     "id": "299",
     "courseName": "Java + DSA + Interview Preparation Course",
     "platform": "Youtube",
     "courseLink": "https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
-
     },
     {
         "id": "3456",
