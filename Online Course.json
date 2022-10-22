@@ -4176,7 +4176,12 @@
        "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
     },
     {
-
+        "id": "3456",
+        "courseName": "Data Science Foundations",
+        "platform": "Great Learning",
+        "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations"
+    },
+    {
         "id": "26789",
         "courseName": "Introduction to Cyber Security",
         "platform": "Skillup",
