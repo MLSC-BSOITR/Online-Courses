@@ -4174,7 +4174,13 @@
        "courseName": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
        "platform": "Udemy",
        "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
-   },
+  },
+  {
+    "id" :"1456",
+    "courseName":"Python Begginers",
+    "platform" : "Youtube",
+    "courseLink" : "https://www.youtube.com/watch?v=rfscVS0vtbw&t=4740s"
+  },
    {
        "id": "599",
        "courseName": "Salesforce Lightning",
@@ -4235,6 +4241,7 @@
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
     }
+
 
 
 ]
