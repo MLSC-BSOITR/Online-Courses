@@ -4176,6 +4176,12 @@
        "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
   },
   {
+       "id": "299",
+       "courseName": "Introduction to Psychology",
+       "platform": "Coursera",
+       "courseLink": "https://www.coursera.org/learn/introduction-psychology"
+  },
+  {
     "id" :"1456",
     "courseName":"Python Begginers",
     "platform" : "Youtube",
@@ -4241,6 +4247,7 @@
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
     }
+
 
 
 
