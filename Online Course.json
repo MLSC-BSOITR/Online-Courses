@@ -4176,6 +4176,13 @@
        "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
     },
     {
+
+        "id": "26789",
+        "courseName": "Introduction to Cyber Security",
+        "platform": "Skillup",
+        "courseLink": "https://www.simplilearn.com/learn-cyber-security-basics-skillup"
+    },
+    {
        "id": "299",
        "courseName": "Ethical Hacking Course for beginner to pro",
        "platform": "YouTube",
@@ -4193,7 +4200,6 @@
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
     }
-    
 
 
 ]
