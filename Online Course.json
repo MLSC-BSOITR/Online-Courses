@@ -3123,6 +3123,12 @@
         "platform": "edx",
         "courseLink": "https://www.edx.org/learn/statistics"
     },
+    {
+        "id": "630589",
+        "courseName": "Chrome Extension Development",
+        "platform": "YouTube",
+        "courseLink": "https://www.youtube.com/watch?v=0n809nd4Zu4&t=285s"
+    },
    	{
       	"id": "630556",
        	"courseName": "The Science of Well-Being",
@@ -3189,6 +3195,7 @@
        "platform": "YouTube",
        "courseLink": "https://www.youtube.com/watch?v=0SS6bJczlgs"
     }
+
 
 ]
 
