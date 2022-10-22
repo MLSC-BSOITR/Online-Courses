@@ -3165,6 +3165,12 @@
        "platform": "Udemy",
        "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
   },
+  {
+    "id" :"1456",
+    "courseName":"Python Begginers,
+    "platform" : "Youtube",
+    "courseLink" : "https://www.youtube.com/watch?v=rfscVS0vtbw&t=4740s"
+  },
 
 
 ]
