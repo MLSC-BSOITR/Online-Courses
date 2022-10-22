@@ -4174,6 +4174,13 @@
        "courseName": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
        "platform": "Udemy",
        "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
+  },
+  {
+    "id": "299",
+    "courseName": "Java + DSA + Interview Preparation Course",
+    "platform": "Youtube",
+    "courseLink": "https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
+
     },
     {
         "id": "3456",
@@ -4205,6 +4212,7 @@
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
     }
+
 
 
 ]
