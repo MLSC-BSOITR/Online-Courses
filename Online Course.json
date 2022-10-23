@@ -4248,6 +4248,13 @@
        "courseLink": "https://www.youtube.com/watch?v=0SS6bJczlgs"
     },
     {
+      "id": "301",
+      "courseName": "Docker desktop extension",
+      "platform": "YouTube",
+      "courseLink": "https://www.youtube.com/watch?v=Yv7OG-EGJsg"
+
+    },
+    {
     "id": "3000",
     "courseName": "Free Java Basic Course for Beginners",
     "platform": "Skillup",
