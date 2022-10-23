@@ -1,0 +1,14 @@
+ [
+   {
+      "id" : "109",
+      "courseName" : "Python Developer Master Course",
+      "platform" : "Coding Blocks",
+      "courseLink" : "https://online.codingblocks.com/app/"
+    },
+  {
+      "id" : "108",
+      "courseName" : "Streamlit Tutorials",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/streamlit/default.asp"
+    }
+]
