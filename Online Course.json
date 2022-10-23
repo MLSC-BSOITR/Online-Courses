@@ -4254,8 +4254,10 @@
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
     }
 
-
-
-
-
-]
+    {
+      "id" : "28",
+      "courseName" : "Operating Systems for Placements",
+      "platform" : "YouTube(CodeHelp-by Babbar)",
+      "courseLink" : "https://www.youtube.com/watch?v=_TpOHMCODXo&list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG"
+    },
+ ]
