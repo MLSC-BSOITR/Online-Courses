@@ -4253,7 +4253,12 @@
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
     }
-
+    {
+    "id": "3789",
+    "courseName": "React JS Tutorial",
+    "platform": "Great Learning",
+    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial"
+    },
 
 
 
