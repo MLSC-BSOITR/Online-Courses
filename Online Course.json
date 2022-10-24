@@ -4301,7 +4301,12 @@
     "courseName": "Front End Development - HTML",
     "platform": "Great Learning",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-html"
-
+    },
+    {
+      "id" : "28",
+      "courseName" : "Operating Systems for Placements",
+      "platform" : "YouTube(CodeHelp-by Babbar)",
+      "courseLink" : "https://www.youtube.com/watch?v=_TpOHMCODXo&list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG"
     },
 
 
