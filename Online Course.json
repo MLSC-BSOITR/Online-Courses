@@ -13,6 +13,12 @@
     "courseLink": "https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
   },
   {
+    "id": "19719",
+    "courseName": "Ethical Hacking - Mobile Platforms and Network Architecture",
+    "platform": "GL",
+    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture"
+  },
+  {
     "id": "3",
     "courseName": "Free Java Basic Course for Beginners",
     "platform": "Skillup",
@@ -53,6 +59,12 @@
     "courseName": "The Full Stack Web Development",
     "platform": "Infosys Springboard",
     "courseLink": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944461471416322737_shared/overview"
+  },
+  {
+    "id": "9562",
+    "courseName": "Data Analysis using PySpark",
+    "platform": "GL",
+    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-analysis-using-pyspark"
   },
   {
     "id": "100",
@@ -2007,7 +2019,12 @@
     "platform": "w3schools",
     "courseLink": "https://www.w3schools.com/sql/sql_intro.asp"
   },
-
+  {
+    "id": "23733",
+    "courseName": "Join the Waiting List - Job Readiness Platform",
+    "platform": "GL",
+    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/join-the-waiting-list-job-readiness-platform"
+  },
   {
     "id": "236",
     "courseName": "Django-Course Full",
@@ -3556,6 +3573,12 @@
        "courseLink" : "https://www.youtube.com/watch?v=GZvSYJDk-us"
     },
     {
+       "id" : "23744",
+       "courseName" : "Firewall",
+       "platform" : "GL",
+       "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/firewall"
+    },
+    {
        "id" : "236",
        "courseName" : "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
        "platform" : "Udemy",
@@ -4248,16 +4271,45 @@
        "courseLink": "https://www.youtube.com/watch?v=0SS6bJczlgs"
     },
     {
+      "id": "26790",
+      "courseName": "Docker desktop extension",
+      "platform": "YouTube",
+      "courseLink": "https://www.youtube.com/watch?v=Yv7OG-EGJsg"
+
+    },
+    {
+      "id": "26791",
+      "courseName": "GitOps",
+      "platform": "YouTube",
+      "courseLink": "https://www.youtube.com/watch?v=f5EpcWp0THw"
+
+    },
+    {
     "id": "3000",
     "courseName": "Free Java Basic Course for Beginners",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
     }
-
+    {
+    "id": "3789",
+    "courseName": "React JS Tutorial",
+    "platform": "Great Learning",
+    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial"
+    },
+    {
+    "id": "2345",
+    "courseName": "Front End Development - HTML",
+    "platform": "Great Learning",
+    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-html"
+    },
     {
       "id" : "28",
       "courseName" : "Operating Systems for Placements",
       "platform" : "YouTube(CodeHelp-by Babbar)",
       "courseLink" : "https://www.youtube.com/watch?v=_TpOHMCODXo&list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG"
     },
- ]
+
+
+
+
+]
