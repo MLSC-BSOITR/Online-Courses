@@ -4275,12 +4275,19 @@
     "courseName": "Free Java Basic Course for Beginners",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
+    }
+    {
+    "id": "3789",
+    "courseName": "React JS Tutorial",
+    "platform": "Great Learning",
+    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial"
     },
     {
     "id": "2345",
     "courseName": "Front End Development - HTML",
     "platform": "Great Learning",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-html"
+
     },
 
 
