@@ -1,0 +1,74 @@
+[
+   {
+      "id": "1",
+      "courseName": " Build a Website with HTML,CSS, and Github pages",
+      "platform": "Codecademy",
+      "courseLink": "https://www.codecademy.com/learn/paths/learn-how-to-build-websites",
+      "type": "free"
+   },
+   {
+      "id": "2",
+      "courseName": " Analyze Data with SQL",
+      "platform": "Codecademy",
+      "courseLink": "https://www.codecademy.com/learn/paths/analyze-data-with-sql",
+      "type": "free"
+   },
+   {
+      "id": "3",
+      "courseName": " Analyze Data with Python",
+      "platform": "Codecademy",
+      "courseLink": "https://www.codecademy.com/learn/paths/analyze-data-with-python",
+      "type": "free"
+   },
+   {
+      "id": "4",
+      "courseName": " Introduction to SQL:Querying and Managing",
+      "platform": "Khan Academy",
+      "courseLink": "https://www.khanacademy.org/computing/computer-programming/sql",
+      "type": "free"
+   },
+   {
+      "id": "5",
+      "courseName": " Making Web pages interactive with John Resig",
+      "platform": "Khan Academy",
+      "courseLink": "https://www.khanacademy.org/computing/computer-programming/html-js-jquery",
+      "type": "free"
+   },
+   {
+      "id": "6",
+      "courseName": " C++ from Begning",
+      "platform": "W3 Schools",
+      "courseLink": "https://www.w3schools.com/cpp/default.asp",
+      "type": "free"
+   },
+   {
+       "id": "7",
+      "courseName": " CSS Tutorial",
+      "platform": "W3 Schools",
+      "courseLink": "https://www.w3schools.com/w3css/default.asp",
+      "type": "free"
+   },
+    {
+      "id": "8",
+      "courseName": " Build Your own Chatbot",
+      "platform": "IBM SkillsBuild",
+      "courseLink": "https://cognitiveclass.ai/courses/chatbot-course",
+      "type": "free"
+   },
+     {
+      "id": "9",
+      "courseName": " AWS Auto Scaling",
+      "platform": "AWS Skill Builder",
+      "courseLink": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/124/introduction-to-aws-auto-scaling",
+      "type": "free"
+   },
+
+    {
+      "id": "10",
+      "courseName": " PHP Fundamentals with Jeremy McPeak",
+      "platform": "Codetuts+",
+      "courseLink": "https://code.tutsplus.com/courses/php-fundamentals?_ga=2.226619103.390153738.1666549879-380649365.1666549879",
+      "type": "free"
+   }
+    
+ ] 
