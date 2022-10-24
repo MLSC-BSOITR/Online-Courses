@@ -13,6 +13,12 @@
     "courseLink": "https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
   },
   {
+    "id": "19719",
+    "courseName": "Ethical Hacking - Mobile Platforms and Network Architecture",
+    "platform": "GL",
+    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture"
+  },
+  {
     "id": "3",
     "courseName": "Free Java Basic Course for Beginners",
     "platform": "Skillup",
@@ -56,9 +62,9 @@
   },
   {
     "id": "10",
-    "courseName": "web development with Flask",
-    "platform": "tutorialspoint",
-    "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
+    "courseName": "Data Analysis using PySpark",
+    "platform": "GL",
+    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-analysis-using-pyspark"
   },
   {
     "id": "11",
@@ -2009,7 +2015,12 @@
     "platform": "w3schools",
     "courseLink": "https://www.w3schools.com/sql/sql_intro.asp"
   },
-
+  {
+    "id": "23733",
+    "courseName": "Join the Waiting List - Job Readiness Platform",
+    "platform": "GL",
+    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/join-the-waiting-list-job-readiness-platform"
+  },
   {
     "id": "332",
     "courseName": "Django-Course Full",
@@ -3560,9 +3571,9 @@
     },
     {
        "id" : "586",
-       "courseName" : "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
-       "platform" : "Udemy",
-       "courseLink" : "https://www.udemy.com/course/nodejs-the-complete-guide/"
+       "courseName" : "Firewall",
+       "platform" : "GL",
+       "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/firewall"
     },
     {
        "id" : "587",
@@ -4251,12 +4262,55 @@
        "courseLink": "https://www.youtube.com/watch?v=0SS6bJczlgs"
     },
     {
-    "id": "699",
+      "id": "699",
+      "courseName": "Docker desktop extension",
+      "platform": "YouTube",
+      "courseLink": "https://www.youtube.com/watch?v=Yv7OG-EGJsg"
+
+    },
+    {
+      "id": "700",
+      "courseName": "GitOps",
+      "platform": "YouTube",
+      "courseLink": "https://www.youtube.com/watch?v=f5EpcWp0THw"
+
+    },
+    {
+    "id": "701",
     "courseName": "Free Java Basic Course for Beginners",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
     }
-
+    {
+    "id": "702",
+    "courseName": "React JS Tutorial",
+    "platform": "Great Learning",
+    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial"
+    },
+    {
+    "id": "703",
+    "courseName": "Front End Development - HTML",
+    "platform": "Great Learning",
+    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-html"
+    },
+    {
+      "id" : "704",
+      "courseName" : "Operating Systems for Placements",
+      "platform" : "YouTube(CodeHelp-by Babbar)",
+      "courseLink" : "https://www.youtube.com/watch?v=_TpOHMCODXo&list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG"
+    },
+    {
+      "id": "705",
+      "courseName": "web development with Flask",
+      "platform": "tutorialspoint",
+      "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
+    },
+    {
+      "id" : "706"
+      "courseName" : "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/nodejs-the-complete-guide/"
+    },
 
 
 
