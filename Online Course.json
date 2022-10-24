@@ -13,12 +13,6 @@
     "courseLink": "https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
   },
   {
-    "id": "19719",
-    "courseName": "Ethical Hacking - Mobile Platforms and Network Architecture",
-    "platform": "GL",
-    "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture"
-  },
-  {
     "id": "3",
     "courseName": "Free Java Basic Course for Beginners",
     "platform": "Skillup",
@@ -4282,12 +4276,6 @@
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
     },
     {
-    "id": "3001",
-    "courseName": "Mongodb Tutorial",
-    "platform": "Great Learning",
-    "courseLink": "https://olympus.mygreatlearning.com/courses/46345"
-    },
-    {
     "id": "700",
     "courseName": "Data Visualization",
     "platform": "freecodecamp",
@@ -4322,6 +4310,18 @@
       "courseName" : "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/nodejs-the-complete-guide/"
+    },
+    {
+     "id": "707",
+     "courseName": "Ethical Hacking - Mobile Platforms and Network Architecture",
+     "platform": "GL",
+     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture"
+    },
+    {
+     "id": "708",
+     "courseName": "Mongodb Tutorial",
+     "platform": "Great Learning",
+     "courseLink": "https://olympus.mygreatlearning.com/courses/46345"
     },
 
 
