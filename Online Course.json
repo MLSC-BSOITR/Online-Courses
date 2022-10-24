@@ -4340,6 +4340,12 @@
       "courseName": "Introduction to Node.js Development",
       "platform": "Udemy",
       "courseLink": "https://www.udemy.com/course/refactoru-intro-nodejs/"
+     },
+     {
+      "id": "712",
+      "courseName": "Introduction to Vue Js framework",
+      "platform": "Udemy",
+      "courseLink": "https://www.udemy.com/course/introduction-to-vue-js-framework-s/"
      }
      
 ]
