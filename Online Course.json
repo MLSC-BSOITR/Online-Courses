@@ -3573,6 +3573,12 @@
        "courseLink" : "https://www.youtube.com/watch?v=GZvSYJDk-us"
     },
     {
+       "id" : "23744",
+       "courseName" : "Firewall",
+       "platform" : "GL",
+       "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/firewall"
+    },
+    {
        "id" : "236",
        "courseName" : "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
        "platform" : "Udemy",
