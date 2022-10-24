@@ -4280,6 +4280,12 @@
     "courseName": "Free Java Basic Course for Beginners",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
+    },
+{
+    "id": "700",
+    "courseName": "Data Visualization",
+    "platform": "freecodecamp",
+    "courseLink": "https://www.freecodecamp.org/learn/data-visualization/"
     }
     {
     "id": "702",
