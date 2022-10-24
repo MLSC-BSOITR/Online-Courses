@@ -4271,6 +4271,20 @@
        "courseLink": "https://www.youtube.com/watch?v=0SS6bJczlgs"
     },
     {
+      "id": "26790",
+      "courseName": "Docker desktop extension",
+      "platform": "YouTube",
+      "courseLink": "https://www.youtube.com/watch?v=Yv7OG-EGJsg"
+
+    },
+    {
+      "id": "26791",
+      "courseName": "GitOps",
+      "platform": "YouTube",
+      "courseLink": "https://www.youtube.com/watch?v=f5EpcWp0THw"
+
+    },
+    {
     "id": "3000",
     "courseName": "Free Java Basic Course for Beginners",
     "platform": "Skillup",
