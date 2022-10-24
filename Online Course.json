@@ -4116,7 +4116,7 @@
       "platform" : "Youtube",
       "courseLink" : "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
       "type":"free"
-    }
+    },
      {
         "id": "676",
         "courseName": "Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial",
@@ -4280,7 +4280,7 @@
     "courseName": "Data Visualization",
     "platform": "freecodecamp",
     "courseLink": "https://www.freecodecamp.org/learn/data-visualization/"
-    }
+    },
     {
     "id": "702",
     "courseName": "React JS Tutorial",
@@ -4306,7 +4306,7 @@
       "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
     },
     {
-      "id" : "706"
+      "id" : "706",
       "courseName" : "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/nodejs-the-complete-guide/"
@@ -4323,9 +4323,11 @@
      "platform": "Great Learning",
      "courseLink": "https://olympus.mygreatlearning.com/courses/46345"
     },
-
-
-
-
+    {
+      "id": "709",
+      "courseName": "React For Beginners 2022",
+      "platform": "Udemy",
+      "courseLink": "https://www.udemy.com/course/react-for-beginners-2022/"
+     }
 
 ]
