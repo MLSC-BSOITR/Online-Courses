@@ -4281,7 +4281,13 @@
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
     },
-{
+    {
+    "id": "3001",
+    "courseName": "Mongodb Tutorial",
+    "platform": "Great Learning",
+    "courseLink": "https://olympus.mygreatlearning.com/courses/46345"
+    },
+    {
     "id": "700",
     "courseName": "Data Visualization",
     "platform": "freecodecamp",
@@ -4317,6 +4323,7 @@
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/nodejs-the-complete-guide/"
     },
+
 
 
 
