@@ -4346,6 +4346,12 @@
       "courseName": "Introduction to Vue Js framework",
       "platform": "Udemy",
       "courseLink": "https://www.udemy.com/course/introduction-to-vue-js-framework-s/"
+     },
+     {
+      "id": "713",
+      "courseName": "SpringBoot Basics",
+      "platform": "Baeldung",
+      "courseLink": "https://www.baeldung.com/spring-boot"
      }
      
 ]
