@@ -4341,11 +4341,19 @@
       "platform": "Udemy",
       "courseLink": "https://www.udemy.com/course/refactoru-intro-nodejs/"
      },
+	
+     {
+    "id": "713",
+    "courseName": "Introduction to JAVA",
+    "platform": "Udemy",
+    "courseLink": "https://www.udemy.com/course/java-programming-tutorial-for-beginners"
+     },
+
      {
       "id": "712",
       "courseName": "Introduction to Vue Js framework",
       "platform": "Udemy",
       "courseLink": "https://www.udemy.com/course/introduction-to-vue-js-framework-s/"
      }
-     
+	
 ]
