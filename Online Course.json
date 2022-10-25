@@ -4347,5 +4347,11 @@
       "platform": "Udemy",
       "courseLink": "https://www.udemy.com/course/introduction-to-vue-js-framework-s/"
      }
+	{
+      "id": "713",
+      "courseName": "Network Defense Essentials (NDE)",
+      "platform": "Code Red",
+      "courseLink": "https://codered.eccouncil.org/course/network-defense-essentials?logged=true"
+     }
      
 ]
