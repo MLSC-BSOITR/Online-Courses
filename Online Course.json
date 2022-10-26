@@ -4347,5 +4347,12 @@
       "platform": "Udemy",
       "courseLink": "https://www.udemy.com/course/introduction-to-vue-js-framework-s/"
      }
+	{
+      "id": "713",	
+      "courseName": "C++ programming language",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb"
+     }
+	
      
 ]
