@@ -4432,6 +4432,12 @@
      "platform": "WsCubetech",
      "courseLink": "https://www.wscubetech.com/online-seo-course-india.html"
    },
+ {
+     "id": "75521",
+     "courseName": "Querying Data with Transact-SQL",
+     "platform": "Microsoft edx",
+     "courseLink": "https://www.edx.org/course/querying-data-with-transact-sql-2"
+   }
    
    
 ]
