@@ -4348,7 +4348,6 @@
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/java-programming-tutorial-for-beginners"
      },
-
      {
       "id": "713",
       "courseName": "Introduction to Vue Js framework",
@@ -4378,6 +4377,12 @@
       "courseName": "Optimizing Smart Contract",
       "platform": "codedamn",
       "courseLink": "https://codedamn.com/learn/optimizing-smart-contract"
+     },
+     {
+      "id": "718",	
+      "courseName": "C++ programming language",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb"
      },
      
 	
