@@ -4341,17 +4341,44 @@
       "platform": "Udemy",
       "courseLink": "https://www.udemy.com/course/refactoru-intro-nodejs/"
      },
+	
      {
-      "id": "712",
+    "id": "712",
+    "courseName": "Introduction to JAVA",
+    "platform": "Udemy",
+    "courseLink": "https://www.udemy.com/course/java-programming-tutorial-for-beginners"
+     },
+
+     {
+      "id": "713",
       "courseName": "Introduction to Vue Js framework",
       "platform": "Udemy",
       "courseLink": "https://www.udemy.com/course/introduction-to-vue-js-framework-s/"
      },
+	   {
+      "id": "714",
+      "courseName": "Network Defense Essentials (NDE)",
+      "platform": "Code Red",
+      "courseLink": "https://codered.eccouncil.org/course/network-defense-essentials?logged=true"
+     },
      {
-      "id": "713",
+      "id": "715",
+      "courseName": "SpringBoot Basics",
+      "platform": "Baeldung",
+      "courseLink": "https://www.baeldung.com/spring-boot"
+     },
+     {
+     "id": "716",
+      "courseName": "Scrum vs Kanban - What's the Difference?",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/watch?v=rIaz-l1Kf8w"
+     },
+     {
+      "id": "717",
       "courseName": "Optimizing Smart Contract",
       "platform": "codedamn",
       "courseLink": "https://codedamn.com/learn/optimizing-smart-contract"
-     }
+     },
      
+	
 ]
