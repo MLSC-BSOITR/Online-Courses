@@ -4355,14 +4355,20 @@
       "platform": "Udemy",
       "courseLink": "https://www.udemy.com/course/introduction-to-vue-js-framework-s/"
      },
-     {
+	   {
       "id": "714",
+      "courseName": "Network Defense Essentials (NDE)",
+      "platform": "Code Red",
+      "courseLink": "https://codered.eccouncil.org/course/network-defense-essentials?logged=true"
+     },
+     {
+      "id": "715",
       "courseName": "SpringBoot Basics",
       "platform": "Baeldung",
       "courseLink": "https://www.baeldung.com/spring-boot"
      },
      {
-     "id": "715",
+     "id": "716",
       "courseName": "Scrum vs Kanban - What's the Difference?",
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/watch?v=rIaz-l1Kf8w"
