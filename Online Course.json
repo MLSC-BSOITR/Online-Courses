@@ -4383,7 +4383,55 @@
       "courseName": "C++ programming language",
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb"
-     },
-     
-	
+    },
+    {
+     "id": "719",
+     "courseName": "photoshop ",
+     "platform": "youtube",
+     "courseLink": "https://www.youtube.com/watch?v=qvQie2QP5Vg&list=RDCMUC0T6MVd3wQDB5ICAe45OxaQ&start_radio=1&rv=qvQie2QP5Vg&t=43045"
+    },
+    {
+     "id": "720",
+     "courseName": "Online Ethical Hacking Course",
+     "platform": "WsCubetech",
+     "courseLink": "https://www.wscubetech.com/online-ethical-hacking-course.html"
+    },
+    {
+     "id": "721",
+     "courseName": "Live Online WordPress Training Course",
+     "platform": "WsCubetech",
+     "courseLink": "https://www.wscubetech.com/best-wordpress-online-course-india.html"
+    },
+    {
+     "id": "722",
+     "courseName": "Introduction to cyber security",
+     "platform": "oeru",
+     "courseLink": "https://oeru.org/oeru-partners/the-open-university/introduction-to-cyber-security/"
+    },
+    {
+     "id": "723",
+     "courseName": "Introduction to web accessibility",
+     "platform": "oeru",
+     "courseLink": "https://oeru.org/oeru-partners/ryerson-cacede/introduction-to-web-accessibility/"
+    },
+    {
+     "id": "724",
+     "courseName": "ntro to TensorFlow for Deep Learning",
+     "platform": "Udacity",
+     "courseLink": "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187"
+    },
+    {
+     "id": "725",
+     "courseName": "ntro to TensorFlow for Deep Learning",
+     "platform": "free Introduction to Deep Learning",
+     "courseLink": "http://introtodeeplearning.com/"
+    },
+    {
+     "id": "726",
+     "courseName": "Advanced Online SEO Course in India",
+     "platform": "WsCubetech",
+     "courseLink": "https://www.wscubetech.com/online-seo-course-india.html"
+   },
+   
+   
 ]
