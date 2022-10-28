@@ -4365,5 +4365,23 @@
     "courseName": "Golang Tutorial for Beginners | Full Go Course",
     "platform": "YouTube",
     "courseLink": "https://youtu.be/yyUHQIec83I"
+  },
+  {
+    "id": "717",
+    "courseName": "Learn Advanced HTML and CSS Concepts",
+    "platform": "codedamn.com",
+    "courseLink": "https://codedamn.com/learn/advanced-html-css"
+  },
+  {
+    "id": "718",
+    "courseName": "Learn React 18 for free",
+    "platform": "codedamn.com",
+    "courseLink": "https://codedamn.com/learn/reactjs"
+  },
+  {
+    "id": "718",
+    "courseName": "Advanced Theoretical JavaScript",
+    "platform": "codedamn.com",
+    "courseLink": "https://codedamn.com/learn/advanced-theoritical-js"
   }
 ]
