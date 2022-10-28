@@ -4264,13 +4264,50 @@
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/watch?v=f5EpcWp0THw"
   },
-  {
+   {
+        "id": "695",
+        "courseName": "Data Science Foundations",
+        "platform": "Great Learning",
+        "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations"
+    },
+    {
+        "id": "696",
+        "courseName": "Introduction to Cyber Security",
+        "platform": "Skillup",
+        "courseLink": "https://www.simplilearn.com/learn-cyber-security-basics-skillup"
+    },
+    {
+       "id": "697",
+       "courseName": "Ethical Hacking Course for beginner to pro",
+       "platform": "YouTube",
+       "courseLink": "https://www.youtube.com/playlist?list=PLaPnjQHQDW0Z_d_p4rJzvZYqK2Muo21Ye"
+    },
+	  {
+       "id": "698",
+       "courseName": "Docker Full Course",
+       "platform": "YouTube",
+       "courseLink": "https://www.youtube.com/watch?v=0SS6bJczlgs"
+    },
+    {
+      "id": "699",
+      "courseName": "Docker desktop extension",
+      "platform": "YouTube",
+      "courseLink": "https://www.youtube.com/watch?v=Yv7OG-EGJsg"
+
+    },
+    {
+      "id": "700",
+      "courseName": "GitOps",
+      "platform": "YouTube",
+      "courseLink": "https://www.youtube.com/watch?v=f5EpcWp0THw"
+   },
+   {
     "id": "701",
     "courseName": "Free Java Basic Course for Beginners",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
-  },
-  {
+   },
+   {
     "id": "700",
     "courseName": "Data Visualization",
     "platform": "freecodecamp",
@@ -4383,5 +4420,146 @@
     "courseName": "Advanced Theoretical JavaScript",
     "platform": "codedamn.com",
     "courseLink": "https://codedamn.com/learn/advanced-theoritical-js"
-  }
+    },
+    {
+      "id" : "704",
+      "courseName" : "Operating Systems for Placements",
+      "platform" : "YouTube(CodeHelp-by Babbar)",
+      "courseLink" : "https://www.youtube.com/watch?v=_TpOHMCODXo&list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG"
+    },
+    {
+      "id": "705",
+      "courseName": "web development with Flask",
+      "platform": "tutorialspoint",
+      "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
+    },
+    {
+      "id" : "706",
+      "courseName" : "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/nodejs-the-complete-guide/"
+    },
+    {
+     "id": "707",
+     "courseName": "Ethical Hacking - Mobile Platforms and Network Architecture",
+     "platform": "GL",
+     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture"
+    },
+    {
+     "id": "708",
+     "courseName": "Mongodb Tutorial",
+     "platform": "Great Learning",
+     "courseLink": "https://olympus.mygreatlearning.com/courses/46345"
+    },
+    {
+      "id": "709",
+      "courseName": "React For Beginners 2022",
+      "platform": "Udemy",
+      "courseLink": "https://www.udemy.com/course/react-for-beginners-2022/"
+     },
+     {
+      "id": "710",
+      "courseName": "Learn Angular from scratch",
+      "platform": "Udemy",
+      "courseLink": "https://www.udemy.com/course/angular-for-beginners-b/"
+     },
+     {
+      "id": "711",
+      "courseName": "Introduction to Node.js Development",
+      "platform": "Udemy",
+      "courseLink": "https://www.udemy.com/course/refactoru-intro-nodejs/"
+     },
+	
+     {
+    "id": "712",
+    "courseName": "Introduction to JAVA",
+    "platform": "Udemy",
+    "courseLink": "https://www.udemy.com/course/java-programming-tutorial-for-beginners"
+     },
+     {
+      "id": "713",
+      "courseName": "Introduction to Vue Js framework",
+      "platform": "Udemy",
+      "courseLink": "https://www.udemy.com/course/introduction-to-vue-js-framework-s/"
+     },
+	   {
+      "id": "714",
+      "courseName": "Network Defense Essentials (NDE)",
+      "platform": "Code Red",
+      "courseLink": "https://codered.eccouncil.org/course/network-defense-essentials?logged=true"
+     },
+     {
+      "id": "715",
+      "courseName": "SpringBoot Basics",
+      "platform": "Baeldung",
+      "courseLink": "https://www.baeldung.com/spring-boot"
+     },
+     {
+     "id": "716",
+      "courseName": "Scrum vs Kanban - What's the Difference?",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/watch?v=rIaz-l1Kf8w"
+     },
+     {
+      "id": "717",
+      "courseName": "Optimizing Smart Contract",
+      "platform": "codedamn",
+      "courseLink": "https://codedamn.com/learn/optimizing-smart-contract"
+     },
+     {
+      "id": "718",	
+      "courseName": "C++ programming language",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb"
+    },
+    {
+     "id": "719",
+     "courseName": "photoshop ",
+     "platform": "youtube",
+     "courseLink": "https://www.youtube.com/watch?v=qvQie2QP5Vg&list=RDCMUC0T6MVd3wQDB5ICAe45OxaQ&start_radio=1&rv=qvQie2QP5Vg&t=43045"
+    },
+    {
+     "id": "720",
+     "courseName": "Online Ethical Hacking Course",
+     "platform": "WsCubetech",
+     "courseLink": "https://www.wscubetech.com/online-ethical-hacking-course.html"
+    },
+    {
+     "id": "721",
+     "courseName": "Live Online WordPress Training Course",
+     "platform": "WsCubetech",
+     "courseLink": "https://www.wscubetech.com/best-wordpress-online-course-india.html"
+    },
+    {
+     "id": "722",
+     "courseName": "Introduction to cyber security",
+     "platform": "oeru",
+     "courseLink": "https://oeru.org/oeru-partners/the-open-university/introduction-to-cyber-security/"
+    },
+    {
+     "id": "723",
+     "courseName": "Introduction to web accessibility",
+     "platform": "oeru",
+     "courseLink": "https://oeru.org/oeru-partners/ryerson-cacede/introduction-to-web-accessibility/"
+    },
+    {
+     "id": "724",
+     "courseName": "ntro to TensorFlow for Deep Learning",
+     "platform": "Udacity",
+     "courseLink": "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187"
+    },
+    {
+     "id": "725",
+     "courseName": "ntro to TensorFlow for Deep Learning",
+     "platform": "free Introduction to Deep Learning",
+     "courseLink": "http://introtodeeplearning.com/"
+    },
+    {
+     "id": "726",
+     "courseName": "Advanced Online SEO Course in India",
+     "platform": "WsCubetech",
+     "courseLink": "https://www.wscubetech.com/online-seo-course-india.html"
+   },
+   
+   
 ]
