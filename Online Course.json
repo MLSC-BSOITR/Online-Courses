@@ -487,6 +487,12 @@
         "platform" : "Coursera",
         "courseLink" : "https://in.coursera.org/professional-certificates/ibm-machine-learning"
     },
+{
+        "id" : "33",
+        "courseName" : "C++ Tutorial for Complete Beginners",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/free-learn-c-tutorial-beginners/"
+    },
 
 {
         "id" : "37",
