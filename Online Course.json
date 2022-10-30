@@ -1275,7 +1275,12 @@
         "platform": "tutorialspoint",
         "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
     },
-
+    {
+        "id": "653",
+        "courseName": "Learn Solidity",
+        "platform": "Solidity",
+        "courseLink": "https://docs.soliditylang.org/en/v0.8.17/"
+    },
 ]
 
 
