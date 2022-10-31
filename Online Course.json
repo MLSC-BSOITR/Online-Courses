@@ -4704,6 +4704,40 @@
    }
 
  {
+
+        "id" : "31",
+        "courseName" : "dsa with placement preparation with apna college",
+        "platform" : "youtube",
+        "courseLink" : "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
+    },
+
+{
+        "id" : "32",
+        "courseName" : "IBM Machine Learning Professional",
+        "platform" : "Coursera",
+        "courseLink" : "https://in.coursera.org/professional-certificates/ibm-machine-learning"
+    },
+{
+        "id" : "33",
+        "courseName" : "C++ Tutorial for Complete Beginners",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/free-learn-c-tutorial-beginners/"
+    },
+
+{
+        "id" : "37",
+        "courseName" : "Android Development",
+        "platform" : "Officially By Google",
+        "courseLink" : "https://developer.android.com/courses/android-basics-compose/course"
+    },
+
+
+        "id" : "38",
+        "courseName" : "Machine Learning",
+        "platform" : "hARVARD",
+        "courseLink" : "https://www.mybib.com/tools/harvard-referencing-generator"
+    },
+    {
      "id": "737",
      "courseName": "Querying Data with Transact-SQL",
      "platform": "Microsoft edx",
@@ -4715,5 +4749,6 @@
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/pgp-advanced-executive-program-in-cyber-security?tag=Gaming%20programming"
    },
+
 
 ]
