@@ -4744,6 +4744,18 @@
         "courseLink" : "https://www.mybib.com/tools/harvard-referencing-generator"
     },
     {
+        "id": "58",
+        "courseName": "web development with Flask",
+        "platform": "tutorialspoint",
+        "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
+    },
+    {
+        "id": "653",
+        "courseName": "Learn Solidity",
+        "platform": "Solidity",
+        "courseLink": "https://docs.soliditylang.org/en/v0.8.17/"
+    },
+    {
      "id": "737",
      "courseName": "Querying Data with Transact-SQL",
      "platform": "Microsoft edx",
