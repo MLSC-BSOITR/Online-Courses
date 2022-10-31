@@ -4602,5 +4602,11 @@
      "platform": "Microsoft edx",
      "courseLink": "https://www.edx.org/course/querying-data-with-transact-sql-2"
    }
+   {
+    "id": "728",
+    "courseName": "Advanced Executive Program In Cybersecurity",
+    "platform": "Skillup",
+    "courseLink": "https://www.simplilearn.com/pgp-advanced-executive-program-in-cyber-security?tag=Gaming%20programming"
+   },
 
 ]
