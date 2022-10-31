@@ -4595,4 +4595,12 @@
     "platform": "Codetuts+",
     "courseLink": "https://code.tutsplus.com/courses/php-fundamentals?_ga=2.226619103.390153738.1666549879-380649365.1666549879",
    }
+
+ {
+     "id": "737",
+     "courseName": "Querying Data with Transact-SQL",
+     "platform": "Microsoft edx",
+     "courseLink": "https://www.edx.org/course/querying-data-with-transact-sql-2"
+   }
+
 ]
