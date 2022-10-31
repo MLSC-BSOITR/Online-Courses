@@ -4558,5 +4558,156 @@
     "courseName": "Advanced Online SEO Course in India",
     "platform": "WsCubetech",
     "courseLink": "https://www.wscubetech.com/online-seo-course-india.html"
-  }
+   },
+     {
+      "id": "713",
+      "courseName": "Introduction to Vue Js framework",
+      "platform": "Udemy",
+      "courseLink": "https://www.udemy.com/course/introduction-to-vue-js-framework-s/"
+     },
+	   {
+      "id": "714",
+      "courseName": "Network Defense Essentials (NDE)",
+      "platform": "Code Red",
+      "courseLink": "https://codered.eccouncil.org/course/network-defense-essentials?logged=true"
+     },
+     {
+      "id": "715",
+      "courseName": "SpringBoot Basics",
+      "platform": "Baeldung",
+      "courseLink": "https://www.baeldung.com/spring-boot"
+     },
+     {
+     "id": "716",
+      "courseName": "Scrum vs Kanban - What's the Difference?",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/watch?v=rIaz-l1Kf8w"
+     },
+     {
+      "id": "717",
+      "courseName": "Optimizing Smart Contract",
+      "platform": "codedamn",
+      "courseLink": "https://codedamn.com/learn/optimizing-smart-contract"
+     },
+     {
+      "id": "718",	
+      "courseName": "C++ programming language",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb"
+    },
+    {
+     "id": "719",
+     "courseName": "photoshop ",
+     "platform": "youtube",
+     "courseLink": "https://www.youtube.com/watch?v=qvQie2QP5Vg&list=RDCMUC0T6MVd3wQDB5ICAe45OxaQ&start_radio=1&rv=qvQie2QP5Vg&t=43045"
+    },
+    {
+     "id": "720",
+     "courseName": "Online Ethical Hacking Course",
+     "platform": "WsCubetech",
+     "courseLink": "https://www.wscubetech.com/online-ethical-hacking-course.html"
+    },
+    {
+     "id": "721",
+     "courseName": "Live Online WordPress Training Course",
+     "platform": "WsCubetech",
+     "courseLink": "https://www.wscubetech.com/best-wordpress-online-course-india.html"
+    },
+    {
+     "id": "722",
+     "courseName": "Introduction to cyber security",
+     "platform": "oeru",
+     "courseLink": "https://oeru.org/oeru-partners/the-open-university/introduction-to-cyber-security/"
+    },
+    {
+     "id": "723",
+     "courseName": "Introduction to web accessibility",
+     "platform": "oeru",
+     "courseLink": "https://oeru.org/oeru-partners/ryerson-cacede/introduction-to-web-accessibility/"
+    },
+    {
+     "id": "724",
+     "courseName": "ntro to TensorFlow for Deep Learning",
+     "platform": "Udacity",
+     "courseLink": "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187"
+    },
+    {
+     "id": "725",
+     "courseName": "ntro to TensorFlow for Deep Learning",
+     "platform": "free Introduction to Deep Learning",
+     "courseLink": "http://introtodeeplearning.com/"
+    },
+    {
+     "id": "726",
+     "courseName": "Advanced Online SEO Course in India",
+     "platform": "WsCubetech",
+     "courseLink": "https://www.wscubetech.com/online-seo-course-india.html"
+    },
+    {
+      "id": "727",
+      "courseName": " Build a Website with HTML,CSS, and Github pages",
+      "platform": "Codecademy",
+      "courseLink": "https://www.codecademy.com/learn/paths/learn-how-to-build-websites",
+   },
+   {
+      "id":"728"
+      "courseName": " Analyze Data with SQL",
+      "platform": "Codecademy",
+      "courseLink": "https://www.codecademy.com/learn/paths/analyze-data-with-sql"
+   },
+   { 
+      "id":"729"
+      "courseName": " Introduction to SQL:Querying and Managing",
+      "platform": "Khan Academy",
+      "courseLink": "https://www.khanacademy.org/computing/computer-programming/sql",
+   },
+   {
+      "id":"730"
+      "courseName": " Making Web pages interactive with John Resig",
+      "platform": "Khan Academy",
+      "courseLink": "https://www.khanacademy.org/computing/computer-programming/html-js-jquery",
+   },
+   "id": "731",
+   "courseName": " C++ from Begning",
+   "platform": "W3 Schools",
+   "courseLink": "https://www.w3schools.com/cpp/default.asp",
+   },
+   {
+    "id":"732",
+    "courseName": " CSS Tutorial",
+    "platform": "W3 Schools",
+    "courseLink": "https://www.w3schools.com/w3css/default.asp",
+   },
+   {
+    "id":"733"
+    "courseName": " Build Your own Chatbot",
+    "platform": "IBM SkillsBuild",
+    "courseLink": "https://cognitiveclass.ai/courses/chatbot-course",
+   },
+   {
+    "id":"735"
+    "courseName": " Build Your own Chatbot",
+    "platform": "IBM SkillsBuild",
+    "courseLink": "https://cognitiveclass.ai/courses/chatbot-course",
+   },
+   {
+    "id":"736"
+    "courseName": " PHP Fundamentals with Jeremy McPeak",
+    "platform": "Codetuts+",
+    "courseLink": "https://code.tutsplus.com/courses/php-fundamentals?_ga=2.226619103.390153738.1666549879-380649365.1666549879",
+   }
+
+ {
+     "id": "737",
+     "courseName": "Querying Data with Transact-SQL",
+     "platform": "Microsoft edx",
+     "courseLink": "https://www.edx.org/course/querying-data-with-transact-sql-2"
+   }
+   {
+    "id": "728",
+    "courseName": "Advanced Executive Program In Cybersecurity",
+    "platform": "Skillup",
+    "courseLink": "https://www.simplilearn.com/pgp-advanced-executive-program-in-cyber-security?tag=Gaming%20programming"
+   },
+
 ]
