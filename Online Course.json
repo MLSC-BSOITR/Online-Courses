@@ -4661,6 +4661,12 @@
       "platform": "Khan Academy",
       "courseLink": "https://www.khanacademy.org/computing/computer-programming/sql",
    },
+	{
+    "id": "727",
+    "courseName": "Image Processing and Machine Vision",
+    "platform": "Youtube",
+    "courseLink": "https://www.youtube.com/playlist?list=PLm_MSClsnwm8vk9HCc8WOQyrZz3VzEHsW"
+  },
    {
       "id":"730"
       "courseName": " Making Web pages interactive with John Resig",
