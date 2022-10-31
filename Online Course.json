@@ -4685,6 +4685,12 @@
     "courseLink": "https://www.w3schools.com/w3css/default.asp",
    },
    {
+     "id": "727",
+     "courseName": "Kali Linux Tutorial",
+     "platform": "tutorialspoint",
+     "courseLink": "https://www.tutorialspoint.com/kali_linux/index.htm"
+   },
+   {
     "id":"733"
     "courseName": " Build Your own Chatbot",
     "platform": "IBM SkillsBuild",
@@ -4749,6 +4755,5 @@
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/pgp-advanced-executive-program-in-cyber-security?tag=Gaming%20programming"
    },
-
 
 ]
