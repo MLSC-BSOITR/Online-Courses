@@ -205,7 +205,6 @@
     "platform": "Class Central",
     "courseLink": "https://www.classcentral.com/course/independent-preventing-dementia-6565"
   },
-
   {
     "id": "36",
     "courseName": "introduction-to-supervised-learning",
@@ -236,7 +235,6 @@
     "platform": "dphi",
     "courseLink": "https://dphi.tech/courses/introduction-to-pandas"
   },
-
   {
     "id": "41",
     "courseName": "machine-learning/crash-course",
@@ -244,2372 +242,2351 @@
     "courseLink": "https://developers.google.com/machine-learning/crash-course"
   },
   {
-    "id": "43",
+    "id": "42",
     "courseName": "big-data",
     "platform": "cognitiveclass.ai",
     "courseLink": "https://cognitiveclass.ai/learn/big-data"
   },
   {
-    "id": "44",
+    "id": "43",
     "courseName": "C++",
     "platform": "W3Schools",
     "courseLink": "https://www.w3schools.com/cpp/"
   },
   {
-    "id": "45",
+    "id": "44",
     "courseName": "java",
     "platform": "W3Schools",
     "courseLink": "https://www.w3schools.com/java/default.asp"
   },
   {
-    "id": "46",
+    "id": "45",
     "courseName": "UIUX",
     "platform": "youtube",
     "courseLink": "https://youtu.be/PgROIybhrd4"
   },
   {
-    "id": "47",
+    "id": "46",
     "courseName": "ROS",
     "platform": "ros.orgwiki",
     "courseLink": "https://www.ros.org"
   },
   {
-    "id": "48",
+    "id": "47",
     "courseName": "Introduction to CSS",
     "platform": "Simplilearn",
     "courseLink": "https://www.simplilearn.com/learn-css-basics-free-training-course-skillup"
   },
   {
-    "id": "49",
+    "id": "48",
     "courseName": "Android",
     "platform": "Udacity",
     "courseLink": " https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012"
   },
   {
-    "id": "50",
+    "id": "49",
     "courseName": "Python",
     "platform": "W3Schools",
     "courseLink": "https://www.w3schools.com/python/default.asp"
   },
   {
-    "id": "51",
+    "id": "50",
     "courseName": "Javascript",
     "platform": "W3Schools",
     "courseLink": "https://www.w3schools.com/js/default.asp"
   },
   {
-    "id": "53",
+    "id": "51",
     "courseName": "css",
     "platform": "W3Schools",
     "courseLink": "https://www.w3schools.com/css/default.asp"
   },
   {
-    "id": "54",
+    "id": "52",
     "courseName": "DSA",
     "platform": "GFG",
     "courseLink": "https://www.geeksforgeeks.org/data-structures/"
   },
   {
-    "id": "55",
+    "id": "53",
     "courseName": "python",
     "platform": "geeksforgeeks",
     "courseLink": "http://www.geeksforgeeks.com"
   },
   {
-    "id": "56",
+    "id": "54",
     "courseName": "HTML - Introduction to HTML Web Development",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/intro-to-html-web-development/"
   },
   {
-    "id": "57",
+    "id": "55",
     "courseName": "Complete Web DEV",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
   },
   {
-    "id": "58",
+    "id": "56",
     "courseName": "myMQL",
     "platform": "geeksforgeeks",
     "courseLink": "http://www.geeksforgeeks.com"
   },
   {
-    "id": "59",
+    "id": "57",
     "courseName": "Cybersecurity",
     "platform": "Simpli learn",
     "courseLink": "https://www.simplilearn.com/learn-cyber-security-basics-skillup?term=C"
   },
   {
-    "id": "60",
+    "id": "58",
     "courseName": "Data science with python",
     "platform": "Simpli learn",
     "courseLink": "https://www.simplilearn.com/getting-started-data-science-with-python-skillup?term=Dat"
   },
   {
-    "id": "61",
+    "id": "59",
     "courseName": "C++",
     "platform": "codecademy",
     "courseLink": "https://www.codecademy.com/learn/learn-c-plus-plus"
   },
   {
-    "id": "62",
+    "id": "60",
     "courseName": "UI/UX",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/watch?v=QeTbLkH64kQ"
   },
   {
-    "id": "63",
+    "id": "61",
     "courseName": "Introduction To Python Programming",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/pythonforbeginnersintro/"
   },
   {
-    "id": "64",
+    "id": "62",
     "courseName": "Amazon Web Services Cloud Practitioner ",
     "platform": "Amazon",
     "courseLink": "https://aws.amazon.com/"
   },
   {
-    "id": "65",
+    "id": "63",
     "courseName": "Coding Interview Prep",
     "platform": "FreeCodeCamp",
     "courseLink": "https://www.freecodecamp.org/learn/coding-interview-prep/"
   },
   {
-    "id": "66",
+    "id": "64",
     "courseName": "Data science ",
     "platform": "Simpli learn",
     "courseLink": "https://www.simplilearn.com/getting-started-data-science-with-python-skillup?term=Dat"
   },
   {
-    "id": "67",
+    "id": "65",
     "courseName": "Linux bas (shell scripting)",
     "platform": "Swayam",
     "courseLink": "https://onlinecourses.swayam2.ac.in/aic20_sp05/preview"
   },
   {
-    "id": "68",
+    "id": "66",
     "courseName": "Financial Markets",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.org/learn/financial-markets-global"
   },
   {
-    "id": "69",
+    "id": "67",
     "courseName": "The Complete 2022 Web Development Bootcamp ",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
   },
   {
-    "id": "70",
+    "id": "68",
     "courseName": "Coding Interview Prep",
     "platform": "FreeCodeCamp",
     "courseLink": "https://www.freecodecamp.org/learn/coding-interview-prep/"
   },
   {
-    "id": "71",
+    "id": "69",
     "courseName": "DSA",
     "platform": "GFG",
     "courseLink": "https://www.geeksforgeeks.org/data-structures/"
   },
   {
-    "id": "72",
+    "id": "70",
     "courseName": "DBMS",
     "platform": "You Tube",
     "courseLink": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU"
   },
   {
-    "id": "73",
+    "id": "71",
     "courseName": "Docker",
     "platform": "You Tube",
     "courseLink": "https://youtu.be/3c-iBn73dDE"
   },
   {
-    "id": "74",
+    "id": "72",
     "courseName": "Python For Beginners",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-python-basics-free-course-skillup?term=popular%20courses"
   },
   {
-    "id": "75",
+    "id": "73",
     "courseName": "AWS Developer Associate Certification Training",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/java-full-stack-developer-certification-training-course?tag=Advance%20java"
   },
   {
-    "id": "76",
+    "id": "74",
     "courseName": "Advanced Executive Program In Cybersecurity",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/pgp-advanced-executive-program-in-cyber-security?tag=Gaming%20programming"
   },
   {
-    "id": "77",
+    "id": "75",
     "courseName": "Post Graduate Program In Cloud Computing",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/pgp-cloud-computing-certification-training-course?tag=Gaming%20programming"
   },
   {
-    "id": "78",
+    "id": "76",
     "courseName": "introduction to java",
     "platform": "swayam",
     "courseLink": "https://swayam.gov.in/nc_details/NPTEL"
   },
   {
-    "id": "79",
+    "id": "77",
     "courseName": "Learn android kotlin",
     "platform": "Skillup",
     "courseLink": "https://developer.android.com/courses/android-basics-kotlin/course"
   },
   {
-    "id": "80",
+    "id": "78",
     "courseName": "Introduction to Computer Science and Programming Using Python",
     "platform": "EdX",
     "courseLink": "https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2022a/home"
   },
   {
-    "id": "81",
+    "id": "79",
     "courseName": "Professional Certificate Program in Digital Supply Chain Management",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/pgp-digital-supply-chain-management-certification-training-course?tag=time%20management"
   },
   {
-    "id": "82",
+    "id": "80",
     "courseName": "Machine Learning",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/pgp-machine learning?tag=Gaming%20programming"
   },
   {
-    "id": "83",
+    "id": "81",
     "courseName": "Amazon Web Service Developer Associate Certification Training",
     "platform": "Skillup Platform",
     "courseLink": "https://www.simplilearn.com/java-full-stack-developer-certification-training-course?tag=Advance%20java"
   },
   {
-    "id": "84",
+    "id": "82",
     "courseName": "Microsoft Azure Cloud Program",
     "platform": "Microsoft Azure",
     "courseLink": "https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"
   },
   {
-    "id": "85",
+    "id": "83",
     "courseName": "Data Science And Analytics",
     "platform": "Upgrad",
     "courseLink": "https://learn.upgrad.com/course/4401"
   },
   {
-    "id": "86",
+    "id": "84",
     "courseName": "Flutter-Development-Udemy",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/flutter-bootcamp-with-dart/"
   },
   {
-    "id": "87",
+    "id": "85",
     "courseName": "Free Python Certification Course",
     "platform": "Data Flair",
     "courseLink": "https://data-flair.training/python-course/"
   },
   {
+    "id": "86",
+    "courseName": "Python Certification Course",
+    "platform": "udemy",
+    "courseLink": "https://www.udemy.com/course/pythonforbeginners/"
+  },
+  {
+    "id": "87",
+    "courseName": "Python Certification Course",
+    "platform": "udemy",
+    "courseLink": "https://www.udemy.com/course/pythonforbeginners/"
+  },
+  {
     "id": "88",
-    "courseName": "Python Certification Course",
-    "platform": "udemy",
-    "courseLink": "https://www.udemy.com/course/pythonforbeginners/"
-  },
-  {
-    "id": "89",
-    "courseName": "Python Certification Course",
-    "platform": "udemy",
-    "courseLink": "https://www.udemy.com/course/pythonforbeginners/"
-  },
-  {
-    "id": "90",
     "courseName": "AWS Course for AWS Certified Cloud Practitioner",
     "platform": "Data Flair",
     "courseLink": "https://data-flair.training/courses/aws-certified-cloud-practitioner/"
   },
   {
-    "id": "91",
+    "id": "89",
     "courseName": "Data Structures and Algorithms Certification Course in C",
     "platform": "Data Flair",
     "courseLink": "https://data-flair.training/courses/data-structures-and-algorithms/"
   },
   {
-    "id": "92",
+    "id": "90",
     "courseName": "Big Data Certification Course with Hadoop & Spark",
     "platform": "Data Flair",
     "courseLink": "https://data-flair.training/hadoop-spark-developer-course/"
   },
   {
-    "id": "93",
+    "id": "91",
     "courseName": "Full Stack Java Developer",
     "platform": "simplilearn",
     "courseLink": "https://www.simplilearn.com/java-full-stack-developer-certification-training-course?utm_source=google&utm_medium=cpc&utm_term=&utm_content=17794206227-139814028875-611092856388&utm_device=c&utm_campaign=Search-TechCluster-SD-FullStack-DSA-IN-Main-AllDevice-JGuarantee-adgroup-DSA-Full-Stack-Java-Developer-master&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbyFVufRKw8qxUrC_WrPxPEN7Q4JC8Qr-g21N9jWgtXW6DsU1seZX6BoC4y0QAvD_BwE"
   },
   {
-    "id": "95",
+    "id": "92",
     "courseName": "Unity 3D",
     "platform": "udemy",
     "courseLink": "https://www.udemy.com/course/beginner-2d-game-development-in-unity"
   },
   {
-    "id": "96",
+    "id": "93",
     "courseName": "Python foundation course",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/free-python-foundation-course-skillup?tag=Python"
   },
   {
-    "id": "98",
+    "id": "94",
     "courseName": "full stack java devloper",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
   },
   {
-    "id": "99",
+    "id": "95",
     "courseName": "Machine Learning for Beginners",
     "platform": "Great Learning",
     "courseLink": "https://www.mygreatlearning.com/great-lakes-artificial-intelligence-and-machine-learning?&utm_source=google&utm_medium=Search&utm_campaign=AIML_Pune_Purchase_Intent-Course_AIML_Combined&adgroup_id=106440164291&campaign_id=9971246354&keyword=machine%20learning%20course&placement=&gclid=EAIaIQobChMI9PT1tOC8-gIVEyQrCh2PbAwpEAAYASAAEgKrDvD_BwE"
   },
   {
-    "id": "100",
+    "id": "96",
     "courseName": "An Introduction to Photography (FREE Course)",
     "platform": "Karl Taylor",
     "courseLink": "https://karltayloreducation.com/free-photography-course/"
   },
   {
-    "id": "101",
+    "id": "97",
     "courseName": "Javascript for Beginners",
     "platform": "Udemy",
     "courseLink": "hhttps://www.udemy.com/course/beginning-javascript/"
   },
   {
-    "id": "102",
+    "id": "98",
     "courseName": "DataStructure Algo",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/share/105kbg3@8l6O_HqowqPJO4WMXBDoYlkk3C2ZjZHYNsKmAvRr22UWvXol6NOjq8J3L0xowkCMJA==/"
   },
   {
-    "id": "103",
+    "id": "99",
     "courseName": "Building Web applications with Java Spring Boot",
     "platform": "Alison",
     "courseLink": "https://alison.com/courses/building-web-applications-with-java-spring-boot/content#event=login"
   },
   {
-    "id": "104",
+    "id": "100",
     "courseName": "Learn Python: The Complete Python Programming Course",
     "platform": "udemy",
     "courseLink": "https://www.udemy.com/course/pythonforbeginners/"
   },
   {
-    "id": "105",
+    "id": "101",
     "courseName": "Learn C: The Complete C Programming Course",
     "platform": "udemy",
     "courseLink": "https://www.udemy.com/course/pythonforbeginners/"
   },
   {
-    "id": "106",
+    "id": "102",
     "courseName": "The Data Science Course 2022: Complete Data Science Bootcamp",
     "platform": "udemy",
     "courseLink": "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/"
   },
   {
-    "id": "107",
+    "id": "103",
     "courseName": "Basics of c++",
     "platform": "Simply Learn",
     "courseLink": "https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup"
   },
   {
-    "id": "109",
+    "id": "104",
     "courseName": "Javascript Essentials",
     "platform": "udemy",
     "courseLink": "https://www.udemy.com/course/javascript-essentials/"
   },
   {
-    "id": "110",
+    "id": "105",
     "courseName": "Basic Data Structures And Algorithms by Google",
     "platform": "Google",
     "courseLink": "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/"
   },
   {
-    "id": "111",
+    "id": "106",
     "courseName": "FULL STACK DEVELOPER",
     "platform": "udemy",
     "courseLink": "https://www.udemy.com/share/front end"
   },
   {
-    "id": "112",
+    "id": "107",
     "courseName": "DSA learnig with java",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
   },
   {
-    "id": "113",
+    "id": "108",
     "courseName": "dsa with placement preparation with apna college",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
   },
   {
-    "id": "114",
+    "id": "109",
     "courseName": "IBM Machine Learning Professional",
     "platform": "Coursera",
     "courseLink": "https://in.coursera.org/professional-certificates/ibm-machine-learning"
   },
   {
-    "id": "115",
+    "id": "110",
     "courseName": "Android Development",
     "platform": "Google Developers",
     "courseLink": "https://developer.android.com/courses/android-basics-compose/course"
   },
   {
-    "id": "116",
+    "id": "111",
     "courseName": "Introduction to Computer Science and Programming in Python",
     "platform": "MITOPENCOURSEWARE",
     "courseLink": "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/"
   },
   {
-    "id": "117",
+    "id": "112",
     "courseName": "Machine Learning",
     "platform": "hARVARD",
     "courseLink": "https://www.mybib.com/tools/harvard-referencing-generator"
   },
   {
-    "id": "118",
+    "id": "113",
     "courseName": "Web development with Flask",
     "platform": "tutorialspoint.com",
     "courseLink": "https://www.tutorialspoint.com/flask/index.html"
   },
   {
-    "id": "119",
+    "id": "114",
     "courseName": "CET Preparation",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/results?search_query=matrix+science+academy"
   },
   {
-    "id": "121",
+    "id": "115",
     "courseName": " WebDevelopment",
     "platform": "GeeksforGeeks",
     "courseLink": "https://www.geeksforgeeks.org/web-development/"
   },
   {
-    "id": "122",
+    "id": "116",
     "courseName": "Project Managment",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/it-project-management-for-beginners-a-step-by-step-guide/"
   },
   {
-    "id": "123",
+    "id": "117",
     "courseName": "Java Programming",
     "platform": "Google",
     "courseLink": "https://www.programiz.com/java-programming"
   },
   {
-    "id": "124",
+    "id": "118",
     "courseName": "Java Programming  + DSA",
     "platform": "apna college",
     "courseLink": "https://www.apnacollege.in/course/placement-course-java"
   },
   {
-    "id": "125",
+    "id": "119",
     "courseName": "Digital Marketing",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/courses/marketing/digital-marketing/"
   },
   {
-    "id": "126",
+    "id": "120",
     "courseName": "Flutter Tutorials",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/playlist?list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV"
   },
   {
-    "id": "127",
+    "id": "121",
     "courseName": "Bootstrap in Hindi",
     "platform": "Great Learning",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/bootstrap-in-hindi"
   },
   {
-    "id": "128",
+    "id": "122",
     "courseName": "Complte C++ Dsa Placement Course",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
   },
   {
-    "id": "129",
+    "id": "123",
     "courseName": "Java Tutorials for Beginners",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK"
   },
   {
-    "id": "130",
+    "id": "124",
     "courseName": "Learn Dart Language in Hindi",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/watch?v=YyvWaEwSJ84&list=PLWCLxMult9xeeY5NDx4JIWqEnXnlG3fKc"
   },
   {
-    "id": "132",
+    "id": "125",
     "courseName": "React",
     "platform": "Code with Harry",
     "courseLink": "https://www.codewithharry.com/videos/react-tutorials-in-hindi-1/"
   },
   {
-    "id": "133",
+    "id": "126",
     "courseName": "Cpp full course by saurabh shukla",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/watch?v=Iuo9PpGE04Y&list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF"
   },
   {
-    "id": "134",
+    "id": "127",
     "courseName": "Machine Learning",
     "platform": "SoloLearn",
     "courseLink": "https://www.sololearn.com/learning/1094"
   },
   {
-    "id": "135",
+    "id": "128",
     "courseName": "Machine Learning Course for Beginners",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/watch?v=NWONeJKn6kc"
   },
   {
-    "id": "136",
+    "id": "129",
     "courseName": "Digital Art",
     "platform": "Domestika",
     "courseLink": "https://www.domestika.org/"
   },
   {
-    "id": "137",
+    "id": "130",
     "courseName": "Blockchain Specialization",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.org/specializations/blockchain"
   },
   {
-    "id": "138",
+    "id": "131",
     "courseName": "Python Regression Analysis: Statistics & Machine Learning",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
   },
   {
-    "id": "139",
+    "id": "132",
     "courseName": " Java ",
     "platform": "SoloLearn",
     "courseLink": "https://www.sololearn.com/learning/1068"
   },
   {
-    "id": "140",
+    "id": "133",
     "courseName": "Intro to Golang",
     "platform": "freecodecampe",
     "courseLink": "https://www.freecodecamp.org/news/what-is-go-programming-language/"
   },
   {
-    "id": "141",
+    "id": "134",
     "courseName": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/100-days-of-code/"
   },
   {
-    "id": "142",
+    "id": "135",
     "courseName": "Fundamentals of Digital Marketing",
     "platform": "Google Digital Garage",
     "courseLink": "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing/"
   },
   {
-    "id": "143",
+    "id": "136",
     "courseName": "Introduction to Data Science",
     "platform": "Simplilearn",
     "courseLink": "https://www.simplilearn.com/data-science-free-course-for-beginners-skillup"
   },
   {
-    "id": "144",
+    "id": "137",
     "courseName": "Javascript for Beginners",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/beginning-javascript/"
   },
   {
-    "id": "145",
+    "id": "138",
     "courseName": "Selenium",
     "platform": "Javatpoint",
     "courseLink": "https://www.javatpoint.com/selenium-tutorial"
   },
   {
-    "id": "146",
+    "id": "139",
     "courseName": "CS50's Introduction to Computer Science",
     "platform": "edX",
     "courseLink": "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x"
   },
   {
-    "id": "147",
+    "id": "140",
     "courseName": "Swift for Beginners ",
     "platform": "YouTube",
     "courseLink": "https://youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW"
   },
   {
-    "id": "148",
+    "id": "141",
     "courseName": "Excel Basics for Data Analysis",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.org/learn/excel-basics-data-analysis-ibm/home/week/1"
   },
   {
-    "id": "149",
+    "id": "142",
     "courseName": "Master Web Backend",
     "platform": "CodeBeyond",
     "courseLink": "https://www.youtube.com/watch?v=8-YDYE2JOS0&list=PLN4aKSfpk8TTD3g83qIK4PiNsImxWK-6x"
   },
   {
-    "id": "150",
+    "id": "143",
     "courseName": "Git Tutorial",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/tutorials/git-tutorial"
   },
   {
-    "id": "151",
+    "id": "144",
     "courseName": "Explore blockchain technology",
     "platform": "Chainlink",
     "courseLink": "https://chain.link/education"
   },
   {
-    "id": "152",
+    "id": "145",
     "courseName": "Learn JavaScript - Full Course for Beginners",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/watch?v=PkZNo7MFNFg&t=10151s"
   },
   {
-    "id": "153",
+    "id": "146",
     "courseName": "Learn Web Development For Free",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/web-developer-course-on-creating-a-business-website/"
   },
   {
-    "id": "154",
+    "id": "147",
     "courseName": "Python 3 For Offensive PenTest: A Complete Practical Course",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/python-for-offensive-security-practical-course/"
   },
   {
-    "id": "155",
+    "id": "148",
     "courseName": "Golang Tutorial for Beginners | Full Go Course",
     "platform": "Youtube",
     "courseLink": "https://www.youtube.com/watch?v=yyUHQIec83I"
   },
   {
-    "id": "156",
+    "id": "149",
     "courseName": "Free Comptia Cloud Basic Course ",
     "platform": "Alison",
     "courseLink": "https://alison.com/course/comptia-cloud-basic"
-  },,
+  },
   {
-    "id": "159",
+    "id": "150",
     "courseName": "GATE CSE 2023 Live",
     "platform": "geeksforgeeks",
     "courseLink": "https://practice.geeksforgeeks.org/courses/gate-live-course"
   },
   {
-    "id": "160",
+    "id": "151",
     "courseName": "Learn React",
     "platform": "scrimba",
     "courseLink": "https://scrimba.com/learn/learnreact"
   },
   {
-    "id": "161",
+    "id": "152",
     "courseName": "AWS Cloud Practitioner",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/watch?v=3hLmDS179YE"
   },
   {
-    "id": "162",
+    "id": "153",
     "courseName": "SQL and Databases - A Full Course for Beginners",
     "platform": "freeCodeCamp",
     "courseLink": "https://www.freecodecamp.org/news/sql-and-databases-full-course/"
   },
   {
-    "id": "165",
+    "id": "154",
     "courseName": "DevOps Bootcamp",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak"
   },
   {
-    "id": "167",
+    "id": "155",
     "courseName": "machine-learning/crash-course",
     "platform": "Google Developers",
     "courseLink": "https://developers.google.com/machine-learning/crash-course"
   },
   {
-    "id": "169",
+    "id": "156",
     "courseName": "big-data",
     "platform": "cognitiveclass.ai",
     "courseLink": "https://cognitiveclass.ai/learn/big-data"
   },
   {
-    "id": "172",
+    "id": "157",
     "courseName": "UIUX",
     "platform": "youtube",
     "courseLink": "https://youtu.be/PgROIybhrd4"
   },
   {
-    "id": "174",
+    "id": "158",
     "courseName": "Introduction to CSS",
     "platform": "Simplilearn",
     "courseLink": "https://www.simplilearn.com/learn-css-basics-free-training-course-skillup"
   },
   {
-    "id": "175",
+    "id": "159",
     "courseName": "Android",
     "platform": "Udacity",
     "courseLink": " https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012"
   },
   {
-    "id": "180",
+    "id": "160",
     "courseName": "DSA",
     "platform": "GFG",
     "courseLink": "https://www.geeksforgeeks.org/data-structures/"
   },
   {
-    "id": "182",
+    "id": "161",
     "courseName": "HTML - Introduction to HTML Web Development",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/intro-to-html-web-development/"
   },
   {
-    "id": "183",
+    "id": "162",
     "courseName": "Complete Web DEV",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
   },
   {
-    "id": "185",
+    "id": "163",
     "courseName": "Cybersecurity",
     "platform": "Simpli learn",
     "courseLink": "https://www.simplilearn.com/learn-cyber-security-basics-skillup?term=C"
   },
   {
-    "id": "186",
+    "id": "164",
     "courseName": "Data science with python",
     "platform": "Simpli learn",
     "courseLink": "https://www.simplilearn.com/getting-started-data-science-with-python-skillup?term=Dat"
   },
   {
-    "id": "187",
+    "id": "165",
     "courseName": "C++",
     "platform": "codecademy",
     "courseLink": "https://www.codecademy.com/learn/learn-c-plus-plus"
   },
   {
-    "id": "188",
+    "id": "166",
     "courseName": "UI/UX",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/watch?v=QeTbLkH64kQ"
   },
   {
-    "id": "191",
+    "id": "167",
     "courseName": "Coding Interview Prep",
     "platform": "FreeCodeCamp",
     "courseLink": "https://www.freecodecamp.org/learn/coding-interview-prep/"
   },
   {
-    "id": "192",
+    "id": "168",
     "courseName": "Data science ",
     "platform": "Simpli learn",
     "courseLink": "https://www.simplilearn.com/getting-started-data-science-with-python-skillup?term=Dat"
   },
   {
-    "id": "194",
+    "id": "169",
     "courseName": "Financial Markets",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.org/learn/financial-markets-global"
   },
   {
-    "id": "196",
+    "id": "170",
     "courseName": "Coding Interview Prep",
     "platform": "FreeCodeCamp",
     "courseLink": "https://www.freecodecamp.org/learn/coding-interview-prep/"
   },
   {
-    "id": "198",
+    "id": "171",
     "courseName": "DBMS",
     "platform": "You Tube",
     "courseLink": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU"
   },
   {
-    "id": "199",
+    "id": "172",
     "courseName": "Docker",
     "platform": "You Tube",
     "courseLink": "https://youtu.be/3c-iBn73dDE"
   },
   {
-    "id": "200",
+    "id": "173",
     "courseName": "Python For Beginners",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-python-basics-free-course-skillup?term=popular%20courses"
   },
   {
-    "id": "204",
+    "id": "174",
     "courseName": "introduction to java",
     "platform": "swayam",
     "courseLink": "https://swayam.gov.in/nc_details/NPTEL"
   },
   {
-    "id": "205",
+    "id": "175",
     "courseName": "Learn android kotlin",
     "platform": "Skillup",
     "courseLink": "https://developer.android.com/courses/android-basics-kotlin/course"
   },
   {
-    "id": "206",
+    "id": "176",
     "courseName": "Introduction to Computer Science and Programming Using Python",
     "platform": "EdX",
     "courseLink": "https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2022a/home"
   },
   {
-    "id": "211",
+    "id": "177",
     "courseName": "Data Science And Analytics",
     "platform": "Upgrad",
     "courseLink": "https://learn.upgrad.com/course/4401"
   },
   {
-    "id": "212",
+    "id": "178",
     "courseName": "Flutter-Development-Udemy",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/flutter-bootcamp-with-dart/"
   },
   {
-    "id": "213",
+    "id": "179",
     "courseName": "Free Python Certification Course",
     "platform": "Data Flair",
     "courseLink": "https://data-flair.training/python-course/"
   },
   {
-    "id": "216",
+    "id": "180",
     "courseName": "AWS Course for AWS Certified Cloud Practitioner",
     "platform": "Data Flair",
     "courseLink": "https://data-flair.training/courses/aws-certified-cloud-practitioner/"
   },
   {
-    "id": "217",
+    "id": "181",
     "courseName": "Data Structures and Algorithms Certification Course in C",
     "platform": "Data Flair",
     "courseLink": "https://data-flair.training/courses/data-structures-and-algorithms/"
   },
   {
-    "id": "218",
+    "id": "182",
     "courseName": "Big Data Certification Course with Hadoop & Spark",
     "platform": "Data Flair",
     "courseLink": "https://data-flair.training/hadoop-spark-developer-course/"
   },
   {
-    "id": "225",
+    "id": "183",
     "courseName": "Machine Learning for Beginners",
     "platform": "Great Learning",
     "courseLink": "https://www.mygreatlearning.com/great-lakes-artificial-intelligence-and-machine-learning?&utm_source=google&utm_medium=Search&utm_campaign=AIML_Pune_Purchase_Intent-Course_AIML_Combined&adgroup_id=106440164291&campaign_id=9971246354&keyword=machine%20learning%20course&placement=&gclid=EAIaIQobChMI9PT1tOC8-gIVEyQrCh2PbAwpEAAYASAAEgKrDvD_BwE"
   },
   {
-    "id": "228",
+    "id": "184",
     "courseName": "DataStructure Algo",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/share/105kbg3@8l6O_HqowqPJO4WMXBDoYlkk3C2ZjZHYNsKmAvRr22UWvXol6NOjq8J3L0xowkCMJA==/"
   },
   {
-    "id": "229",
+    "id": "185",
     "courseName": "Building Web applications with Java Spring Boot",
     "platform": "Alison",
     "courseLink": "https://alison.com/courses/building-web-applications-with-java-spring-boot/content#event=login"
   },
   {
-    "id": "231",
+    "id": "186",
     "courseName": "Learn C: The Complete C Programming Course",
     "platform": "udemy",
     "courseLink": "https://www.udemy.com/course/pythonforbeginners/"
   },
   {
-    "id": "232",
+    "id": "187",
     "courseName": "The Data Science Course 2022: Complete Data Science Bootcamp",
     "platform": "udemy",
     "courseLink": "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/"
   },
   {
-    "id": "233",
+    "id": "188",
     "courseName": "Basics of c++",
     "platform": "Simply Learn",
     "courseLink": "https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup"
   },
   {
-    "id": "235",
+    "id": "189",
     "courseName": "Javascript Essentials",
     "platform": "udemy",
     "courseLink": "https://www.udemy.com/course/javascript-essentials/"
   },
   {
-    "id": "236",
+    "id": "190",
     "courseName": "Basic Data Structures And Algorithms by Google",
     "platform": "Google",
     "courseLink": "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/"
   },
   {
-    "id": "238",
+    "id": "191",
     "courseName": "DSA learnig with java",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
   },
   {
-    "id": "239",
+    "id": "192",
     "courseName": "dsa with placement preparation with apna college",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
   },
   {
-    "id": "240",
+    "id": "193",
     "courseName": "IBM Machine Learning Professional",
     "platform": "Coursera",
     "courseLink": "https://in.coursera.org/professional-certificates/ibm-machine-learning"
   },
   {
-    "id": "242",
+    "id": "194",
     "courseName": "Machine Learning",
     "platform": "hARVARD",
     "courseLink": "https://www.mybib.com/tools/harvard-referencing-generator"
   },
   {
-    "id": "243",
+    "id": "195",
     "courseName": "Web development with Flask",
     "platform": "tutorialspoint.com",
     "courseLink": "https://www.tutorialspoint.com/flask/index.html"
   },
   {
-    "id": "244",
+    "id": "196",
     "courseName": "CET Preparation",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/results?search_query=matrix+science+academy"
   },
   {
-    "id": "248",
+    "id": "197",
     "courseName": "Java Programming",
     "platform": "Programiz",
     "courseLink": "https://www.programiz.com/java-programming"
   },
   {
-    "id": "249",
+    "id": "198",
     "courseName": "Java Programming  + DSA",
     "platform": "apna college",
     "courseLink": "https://www.apnacollege.in/course/placement-course-java"
   },
   {
-    "id": "251",
+    "id": "199",
     "courseName": "Flutter Tutorials",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/playlist?list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV"
   },
   {
-    "id": "252",
+    "id": "200",
     "courseName": "Bootstrap in Hindi",
     "platform": "Great Learning",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/bootstrap-in-hindi"
   },
   {
-    "id": "253",
+    "id": "201",
     "courseName": "Complte C++ Dsa Placement Course",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
   },
   {
-    "id": "258",
+    "id": "202",
     "courseName": "Cpp full course by saurabh shukla",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/watch?v=Iuo9PpGE04Y&list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF"
   },
   { 
-    "id": "261",
+    "id": "203",
     "courseName": "Digital Art",
     "platform": "Domestika",
     "courseLink": "https://www.domestika.org/"
   },
   {
-    "id": "262",
+    "id": "204",
     "courseName": "Blockchain Specialization",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.org/specializations/blockchain"
   },
   {
-    "id": "264",
+    "id": "205",
     "courseName": " Java ",
     "platform": "SoloLearn",
     "courseLink": "https://www.sololearn.com/learning/1068"
   },
   {
-    "id": "265",
+    "id": "206",
     "courseName": "Intro to Golang",
     "platform": "freecodecampe",
     "courseLink": "https://www.freecodecamp.org/news/what-is-go-programming-language/"
   },
   {
-    "id": "270",
+    "id": "207",
     "courseName": "Selenium",
     "platform": "Javatpoint",
     "courseLink": "https://www.javatpoint.com/selenium-tutorial"
   },
-  {
-    "id": "271",
+  {  
+    "id": "208",
     "courseName": "CS50's Introduction to Computer Science",
     "platform": "edX",
     "courseLink": "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x"
   },
   {
-    "id": "273",
+    "id": "209",
     "courseName": "Excel Basics for Data Analysis",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.org/learn/excel-basics-data-analysis-ibm/home/week/1"
   },
   {
-    "id": "274",
+    "id": "210",
     "courseName": "Master Web Backend",
     "platform": "CodeBeyond",
     "courseLink": "https://www.youtube.com/watch?v=8-YDYE2JOS0&list=PLN4aKSfpk8TTD3g83qIK4PiNsImxWK-6x"
   },
   {
-    "id": "276",
+    "id": "211",
     "courseName": "Explore blockchain technology",
     "platform": "Chainlink",
     "courseLink": "https://chain.link/education"
   },
   {
-    "id": "279",
+    "id": "212",
     "courseName": "Python 3 For Offensive PenTest: A Complete Practical Course",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/python-for-offensive-security-practical-course/"
   },
   {
-    "id": "280",
+    "id": "213",
     "courseName": "Golang Tutorial for Beginners | Full Go Course",
     "platform": "Youtube",
     "courseLink": "https://www.youtube.com/watch?v=yyUHQIec83I"
   },
   {
-    "id": "281",
+    "id": "214",
     "courseName": "Free Comptia Cloud Basic Course ",
     "platform": "Alison",
     "courseLink": "https://alison.com/course/comptia-cloud-basic"
   },
   {
-    "id": "285",
+    "id": "215",
     "courseName": "Learn React",
     "platform": "scrimba",
     "courseLink": "https://scrimba.com/learn/learnreact"
   },
   {
-    "id": "290",
+    "id": "216",
     "courseName": "DevOps Bootcamp",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak"
-  },,
+  },
   {
-    "id": "294",
+    "id": "217",
     "courseName": "Product Retouching - By PiXimperfect",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/playlist?list=PLLlSBGLVsEPL79S7O30F_Jdjq_EN4Jj6M"
   },
   {
-    "id": "295",
+    "id": "218",
     "courseName": "Android Architecture Components & Jetpack",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/playlist?list=PLRKyZvuMYSIO0jLgj8g6sADnD0IBaWaw2"
   },
   {
-    "id": "296",
+    "id": "219",
     "courseName": "Learn SQL / MySQL database basics FOR FREE",
     "platform": "UDEMY",
     "courseLink": "https://www.udemy.com/course/learn-sqlmysql-database-basics-for-free/"
   },
   {
-    "id": "297",
+    "id": "220",
     "courseName": "Get a Business Online",
     "platform": "Google Digital Garage",
     "courseLink": "https://learndigital.withgoogle.com/digitalgarage/course/business-online"
   },
   {
-    "id": "299",
+    "id": "221",
     "courseName": "Getting Started with Angular 2+",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/getting-started-with-angular-2/"
   },
   {
-    "id": "300",
+    "id": "222",
     "courseName": "JSP (Java server pages) and servlet basics",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/jsp-servlet-free/"
   },
   {
-    "id": "301",
+    "id": "223",
     "courseName": "Introduction to Bootstrap 3",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/introduction-to-bootstrap-3/"
   },
   {
-    "id": "302",
+    "id": "224",
     "courseName": "Mongodb Tutorial",
     "platform": "Great Learning Academy",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial"
   },
   {
-    "id": "303",
+    "id": "225",
     "courseName": "Git and Github tutorial for begineer in hindi",
     "platform": "Youtube",
     "courseLink": "https://youtu.be/gwWKnnCMQ5c"
   },
   {
-    "id": "306",
+    "id": "226",
     "courseName": "React JS - React Tutorial for Beginners",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/watch?v=Ke90Tje7VS0"
   },
   {
-    "id": "313",
+    "id": "227",
     "courseName": "Practical Ethical Hacking - The Complete Course",
     "platform": "TCM Security",
     "courseLink": "https://academy.tcm-sec.com/courses/enrolled/1152300"
   },
 
   {
-    "id": "314",
+    "id": "228",
     "courseName": "PNPT",
     "platform": "TCM Security",
     "courseLink": "https://academy.tcm-sec.com/p/pnpt-live"
   },
   {
-    "id": "318",
+    "id": "229",
     "courseName": "Dynamic Programming playlist by take U forward (Striver)",
     "platform": "Youtube",
     "courseLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY"
   },
   {
-    "id": "320",
+    "id": "230",
     "courseName": "C++ Tutorial for beginners in hindi",
     "platform": "YouTube",
     "courseLink": "https://youtu.be/Umm1ZQ5ltZw"
   },
   {
-    "id": "324",
+    "id": "231",
     "courseName": "Microsoft Excel - Excel from Beginner to Advanced ",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/"
   },
   {
-    "id": "325",
+    "id": "232",
     "courseName": "NodeJs Tutorial in Hindi 2020 ",
     "platform": "Youtube",
     "courseLink": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8"
   },
-
   {
-    "id": "326",
+    "id": "233",
     "courseName": "Windows Powershell in Hindi",
     "platform": "Youtube",
     "courseLink": "https://youtube.com/playlist?list=PLRu7mEBdW7fDlf80vMmEJ4Vw9uf2Gbyc_"
   },
   {
-    "id": "330",
+    "id": "234",
     "courseName": "The Full Stack Web Development",
     "platform": "Infosys Springboard",
     "courseLink": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944461471416322737_shared/overview"
   },
-
   {
-    "id": "331",
+    "id": "235",
     "courseName": "Introduction to programming",
     "platform": "w3schools",
     "courseLink": "https://www.w3schools.com/sql/sql_intro.asp"
   },
   {
-    "id": "23733",
+    "id": "236",
     "courseName": "Join the Waiting List - Job Readiness Platform",
     "platform": "GL",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/join-the-waiting-list-job-readiness-platform"
   },
   {
-    "id": "332",
+    "id": "237",
     "courseName": "Django-Course Full",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/watch?v=5BDgKJFZMl8&list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9"
   },
   {
-    "id": "334",
+    "id": "238",
     "courseName": "Information Security",
     "platform": "freecodecamp",
     "courseLink": "https://www.freecodecamp.org/learn/information-security/"
   },
   {
-    "id": "336",
+    "id": "239",
     "courseName": "Introduction to XML",
     "platform": "w3schools",
     "courseLink": "https://www.w3schools.com/xml/xml_whatis.asp"
   },
   {
-    "id": "337",
+    "id": "240",
     "courseName": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/share/101Wci3@9Vsm4iWEj8qyQ1SgmYbZiOnul7kh-dfAyr9sTtEZ-aH02JmedcU7-nVinOSyegWWog==/"
   },
   {
-    "id": "340",
+    "id": "241",
     "courseName": "introduction-to-data-visualization",
     "platform": "dphi",
     "courseLink": "https://dphi.tech/courses/introduction-to-data-visualization"
   },
   {
-    "id": "341",
+    "id": "242",
     "courseName": "Introduction to SQL",
     "platform": "Youtube",
     "courseLink": "https://www.w3schools.com/sql/sql_intro.asp"
   },
   {
-    "id": "343",
+    "id": "243",
     "courseName": "Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer",
     "platform": "Youtube",
     "courseLink": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
   },
   {
-    "id": "344",
+    "id": "244",
     "courseName": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/watch?v=GZvSYJDk-us"
   },
-
   {
-    "id": "345",
+    "id": "245",
     "courseName": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
   },
   {
-    "id": "347",
+    "id": "246",
     "courseName": "Google Project Management: Professional Certificate",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.org/professional-certificates/google-project-management"
   },
   {
-    "id": "348",
+    "id": "247",
     "courseName": "Learn HTML5 and CSS3 from Scratch",
     "platform": "Youtube",
     "courseLink": "https://youtu.be/mU6anWqZJcc"
   },
   {
-    "id": "350",
+    "id": "248",
     "courseName": "M001 Basics(MongoDB)",
     "platform": "MongoDb University",
     "courseLink": "https://university.mongodb.com/courses/M001/about"
   },
   {
-    "id": "351",
+    "id": "249",
     "courseName": "Data Scientist with R",
     "platform": "DataCamp",
     "courseLink": "https://www.datacamp.com/onboarding/learn?technology=r"
   },
   {
-    "id": "354",
+    "id": "250",
     "courseName": "Fundamentals of Digital Marketing",
     "platform": "Google Digital Garage",
     "courseLink": "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing"
   },
   {
-    "id": "381",
+    "id": "251",
     "courseName": "Dynamic Programming playlist by take U forward (Striver)",
     "platform": "Youtube",
     "courseLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY"
   },
   {
-    "id": "397",
+    "id": "252",
     "courseName": "Microsoft Excel - Excel from Beginner to Advanced ",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/"
   },
   {
-    "id": "398",
+    "id": "253",
     "courseName": "NodeJs Tutorial in Hindi 2020 ",
     "platform": "Youtube",
     "courseLink": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8"
   },
   {
-    "id": "399",
+    "id": "254",
     "courseName": "Windows Powershell in Hindi",
     "platform": "Youtube",
     "courseLink": "https://youtube.com/playlist?list=PLRu7mEBdW7fDlf80vMmEJ4Vw9uf2Gbyc_"
   },
   {
-    "id": "400",
+    "id": "255",
     "courseName": "Coding Interview Prep",
     "platform": "FreeCodeCamp",
     "courseLink": "https://www.freecodecamp.org/learn/coding-interview-prep/"
   }.
   {
-    "id": "405",
+    "id": "256",
     "courseName": "Learn Responsive Design",
     "platform": "web.dev",
     "courseLink": "https://web.dev/learn/design"
   },
   {
-    "id": "408",
+    "id": "257",
     "courseName": "Django-Course Full",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/watch?v=5BDgKJFZMl8&list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9"
   },
   {
-    "id": "410",
+    "id": "258",
     "courseName": "Information Security",
     "platform": "freecodecamp",
     "courseLink": "https://www.freecodecamp.org/learn/information-security/"
   },
   {
-    "id": "413",
+    "id": "259",
     "courseName": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/share/101Wci3@9Vsm4iWEj8qyQ1SgmYbZiOnul7kh-dfAyr9sTtEZ-aH02JmedcU7-nVinOSyegWWog==/"
   },
   {
-    "id": "418",
+    "id": "260",
     "courseName": "introduction-to-data-visualization",
     "platform": "dphi",
     "courseLink": "https://dphi.tech/courses/introduction-to-data-visualization"
   },
   {
-    "id": "423",
+    "id": "261",
     "courseName": "Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer",
     "platform": "Youtube",
     "courseLink": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
   },
   {
-    "id": "424",
+    "id": "262",
     "courseName": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/watch?v=GZvSYJDk-us"
   },
   {
-    "id": "425",
+    "id": "263",
     "courseName": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
   },
   {
-    "id": "427",
+    "id": "264",
     "courseName": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
   },
   {
-    "id": "433",
+    "id": "265",
     "courseName": "M001 Basics(MongoDB)",
     "platform": "MongoDb University",
     "courseLink": "https://university.mongodb.com/courses/M001/about"
   },
   {
-    "id": "434",
+    "id": "266",
     "courseName": "Go (or Golang) is an open source programming language",
     "platform": "codecademy",
     "courseLink": "https://www.codecademy.com/learn/learn-go"
   },
   {
-    "id": "440",
+    "id": "267",
     "courseName": "Free Flutter Course by Vandad Nahavandipoor",
     "platform": "Youtube",
     "courseLink": "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
     "type": "free"
   },
   {
-    "id": "443",
+    "id": "268",
     "courseName": "Building Web Applications with Java Spring Boot",
     "platform": "Alison",
     "courseLink": "https://alison.com/course/building-web-applications-with-java-spring-boot",
     "type": "free"
   },
   {
-    "id": "444",
+    "id": "269",
     "courseName": "Python for everybody",
     "platform": "Google",
     "courseLink": "https://www.py4e.com/lessons",
-    "type": "free"
   },
   {
-    "id": "446",
+    "id": "270",
     "courseName": " Introduction to JavaScript:First Steps",
     "platform": "Google",
     "courseLink": "https://www.educative.io/courses/introduction-to-javascript-first-steps?affiliate_id=5073518643380224",
-    "type": "free"
   },
   {
-    "id": "448",
+    "id": "271",
     "courseName": " IBM Data Science Professional Certificate",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.org/professional-certificates/ibm-data-science?irclickid=SZT3S3wElxyNUfJ1ajTOLyNMUkDQIDw3F2fwQ80&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359419&utm_content=b2c",
-    "type": "free"
   },
   {
-    "id": "451",
+    "id": "272",
     "courseName": "Python Regression Analysis: Statistics & Machine Learning",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
   },
   {
-    "id": "453",
+    "id": "273",
     "courseName": "Intro to Golang",
     "platform": "freecodecampe",
     "courseLink": "https://www.freecodecamp.org/news/what-is-go-programming-language/"
   },
   {
-    "id": "454",
+    "id": "274",
     "courseName": "Social Media Management",
     "platform": "coursera",
     "courseLink": "https://www.coursera.org/learn/social-media-management"
   },
   {
-    "id": "456",
+    "id": "275",
     "courseName": "Rut Tutorial",
     "platform": "Youtub",
     "courseLink": "https://youtu.be/U1EFgCNLDB8"
   },
   {
-    "id": "457",
+    "id": "276",
     "courseName": "Strivers A2Z DSA Course",
     "platform": "takeuforward",
     "courseLink": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
   },
   {
-    "id": "458",
+    "id": "277",
     "courseName": "Amazon Web Services (AWS) - Zero to Hero",
     "platform": "Udemy",
     "courselink": "https://www.udemy.com/course/amazon-web-services-aws-v/"
   },
   {
-    "id": "459",
+    "id": "278",
     "courseName": "DBMS",
     "platform": "You Tube",
     "courseLink": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU"
   },
   {
-    "id": "460",
+    "id": "279",
     "courseName": "Introduction to Microservices",
     "platform": "Edyoda",
     "courseLink": "https://www.edyoda.com/course/1556?episode_id=3355"
   },
   {
-    "id": "463",
+    "id": "280",
     "courseName": "PHP",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/topic/php/free/"
   },
   {
-    "id": "466",
+    "id": "281",
     "courseName": "Java + DSA + Interview Preparation Course",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
   },
   {
-    "id": "467",
+    "id": "282",
     "courseName": "Advanced Learning Algorithms",
     "platform": "coursera",
     "courseLink": "https://www.coursera.org/learn/advanced-learning-algorithms/home/week/1"
   },
   {
-    "id": "468",
+    "id": "283",
     "courseName": "web development with Flask",
     "platform": "tutorialspoint",
     "courseLink": "https://www.tutorialspoint.com/flask/index.htm"
   },
   {
-    "id": "469",
+    "id": "284",
     "courseName": "web development ",
     "platform": "unschool",
     "courseLink": "https://learn.unschool.in/learn/home/Web-Development/"
   },
   {
-    "id": "470",
+    "id": "285",
     "courseName": "python Django",
     "platform": "Coursera",
     "courseLink": "https://www.Coursera.com/"
   },
   {
-    "id": "472",
+    "id": "286",
     "courseName": "Computer Science",
     "platform": "Saylor Academy",
     "courseLink": "https://learn.saylor.org/course/index.php?categoryid=9"
   },
   {
-    "id": "475",
+    "id": "287",
     "courseName": "Learn C: The Complete C Programming Course",
     "platform": "udemy",
     "courseLink": "https://www.udemy.com/course/pythonforbeginners/"
   },
   {
-    "id": "476",
+    "id": "288",
     "courseName": "The Data Science Course 2022: Complete Data Science Bootcamp",
     "platform": "udemy",
     "courseLink": "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/"
   },
   {
-    "id": "477",
+    "id": "289",
     "courseName": "Basics of c++",
     "platform": "Simply Learn",
     "courseLink": "https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup"
   },
   {
-    "id": "478",
+    "id": "290",
     "courseName": "Introduction To Python Programming",
     "platform": "udemy",
     "courseLink": "https://www.udemy.com/share/101r1i/"
   },
   {
-    "id": "479",
+    "id": "291",
     "courseName": "HTML in web development",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/html-in-web-development-new/"
   },
   {
-    "id": "480",
+    "id": "292",
     "courseName": "Front End Development Libraries",
     "platform": "free code camp",
     "courseLink": "https://www.freecodecamp.org/learn/front-end-development-libraries/"
   },
   {
-    "id": "481",
+    "id": "293",
     "courseName": "Java",
     "platform": "codeacademy",
     "courseLink": "https://www.codecademy.com/learn/learn-java%3Fg_network%3Ds%26g_productchannel%3D%26g_adid%3D624888212379%26g_locinterest%3D%26g_keyword%3Dcourse%2520java%26g_acctid%3D243-039-7011%26g_adtype%3D%26g_keywordid%3Dkwd-222505214%26g_ifcreative%3D%26g_campaign%3Daccount%26g_locphysical%3D1007818%26g_adgroupid%3D104765209382%26g_productid%3D%26g_source%3D%7Bsourceid%7D%26g_merchantid%3D%26g_placement%3D%26g_partition%3D%26g_campaignid%3D10947274266%26g_ifproduct%3D%26utm_id%3Dt_kwd-222505214:ag_104765209382:cp_10947274266:n_s:d_c%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26utm_term%3Dcourse%2520java%26utm_campaign%3D%26utm_content%3D624888212379%26g_adtype%3Dsearch%26g_acctid%3D243-039-7011&q="
   },
   {
-    "id": "482",
+    "id": "294",
     "courseName": "Algorithm Tool Kit",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.com/Algorithm-Tool-Kit"
   },
   {
-    "id": "483",
+    "id": "295",
     "courseName": "css",
     "platform": "W3Schools",
     "courseLink": "https://www.w3schools.com/css/default.asp"
   },
   {
-    "id": "485",
+    "id": "296",
     "courseName": "Data Analysis with Python",
     "platform": "freecodecamp.org",
     "courseLink": "https://www.freecodecamp.org/learn/data-analysis-with-python/"
   },
   {
-    "id": "492",
+    "id": "297",
     "courseName": "Python for non programmers",
     "platform": "Great Learning",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
   },
   {
-    "id": "493",
+    "id": "298",
     "courseName": "Introduction to Cybersecurity",
     "platform": "Cisco",
     "courseLink": "https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html#~introduction-to-cybersecurity"
   },
   {
-    "id": "494",
+    "id": "299",
     "courseName": "C# Tutorial - Full Course for Beginners",
     "platform": "Youtube",
     "courseLink": "https://youtu.be/GhQdlIFylQ8"
   },
   {
-    "id": "495",
+    "id": "300",
     "courseName": "pre-requisites_for_deep_learning_bootcamp",
     "platform": "dphi",
     "courseLink": "https://dphi.tech/courses/pre-requisites_for_deep_learning_bootcamp"
   },
   {
-    "id": "496",
+    "id": "301",
     "courseName": "Data science",
     "platform": "educba",
     "courseLink": "https://www.educba.com/data-science/courses/"
   },
   {
-    "id": "498",
-    "courseName": "Love Babbar DSA",
-    "platform": "Youtube",
-    "courseLink": "https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=1&t=0s"
-  },
-  {
-    "id": "499",
+    "id": "302",
     "courseName": "Classification Models",
     "platform": "Udacity",
     "courseLink": "https://www.udacity.com/course/classification-models--ud978"
   },
   {
-    "id": "500",
+    "id": "303",
     "courseName": "Elite Singing Techniques - Phase I",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/elite-singing-techniques-phase-1/"
   },
   {
-    "id": "501",
+    "id": "304",
     "courseName": "Microsoft Azure Essentials",
     "platform": "Great Learning",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/microsoft-azure-essentials"
   },
   {
-    "id": "503",
+    "id": "305",
     "courseName": "Web Design for Web Developers: Build Beautiful Websites!",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/web-design-secrets/"
   },
   {
-    "id": "505",
+    "id": "306",
     "courseName": "Freecodecamp.org",
     "platform": "Youtube",
     "courseLink": "https://youtu.be/gyMwXuJrbJQ"
   },
   {
-    "id": "507",
+    "id": "307",
     "courseName": "Data Structures and Algorithms Specialization",
     "platform": "coursera",
     "courseLink": "https://www.coursera.org/specializations/data-structures-algorithms"
   },
   {
-    "id": "508",
+    "id": "308",
     "courseName": "MongoDB Basics",
     "platform": "MongoDB University",
     "courseLink": "https://university.mongodb.com/courses/M001/about"
   },
   {
-    "id": "509",
+    "id": "309",
     "courseName": "MongoDB for SQL Pros",
     "platform": "MongoDB University",
     "courseLink": "https://university.mongodb.com/courses/M100/about"
   },
   {
-    "id": "511",
+    "id": "310",
     "courseName": "Introduction to Computer Science and Programming Using Python",
     "platform": "EdX",
     "courseLink": "https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2022a/home"
   },
   {
-    "id": "512",
+    "id": "311",
     "courseName": "Statistics",
     "platform": "edx",
     "courseLink": "https://www.edx.org/learn/statistics"
   },
   {
-    "id": "517",
+    "id": "312",
     "courseName": "JSP (Java server pages) and servlet basics",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/jsp-servlet-free/"
   },
   {
-    "id": "519",
+    "id": "313",
     "courseName": "Mongodb Tutorial",
     "platform": "Great Learning Academy",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial"
   },
   {
-    "id": "584",
+    "id": "314",
     "courseName": "Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer",
     "platform": "Youtube",
     "courseLink": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
   },
   {
-    "id": "585",
+    "id": "315",
     "courseName": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/watch?v=GZvSYJDk-us"
   },
   {
-    "id": "586",
+    "id": "316",
     "courseName": "Firewall",
     "platform": "GL",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/firewall"
   },
   {
-    "id": "594",
+    "id": "317",
     "courseName": "M001 Basics(MongoDB)",
     "platform": "MongoDb University",
     "courseLink": "https://university.mongodb.com/courses/M001/about"
   },
   {
-    "id": "595",
+    "id": "318",
     "courseName": "Go (or Golang) is an open source programming language",
     "platform": "codecademy",
     "courseLink": "https://www.codecademy.com/learn/learn-go"
   },
   {
-    "id": "596",
+    "id": "319",
     "courseName": "DevOps Engineering",
     "platform": "freecodecamp",
     "courseLink": "https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/"
   },
   {
-    "id": "597",
+    "id": "320",
     "courseName": "Data Scientist with R",
     "platform": "DataCamp",
     "courseLink": "https://www.datacamp.com/onboarding/learn?technology=r"
   },
   {
-    "id": "603",
+    "id": "321",
     "courseName": "Google Cloud Computing Foundations",
     "platform": "Google Digital Garage",
     "courseLink": "https://learndigital.withgoogle.com/digitalgarage/course/gcloud-computing-foundations",
   },
   {
-    "id": "604",
+    "id": "322",
     "courseName": "Building Web Applications with Java Spring Boot",
     "platform": "Alison",
     "courseLink": "https://alison.com/course/building-web-applications-with-java-spring-boot",
   },
   {
-    "id": "607",
+    "id": "323",
     "courseName": " Introduction to JavaScript:First Steps",
     "platform": "Google",
     "courseLink": "https://www.educative.io/courses/introduction-to-javascript-first-steps?affiliate_id=5073518643380224",
   },
   {
-    "id": "609",
-    "courseName": " IBM Data Science Professional Certificate",
-    "platform": "Coursera",
-    "courseLink": "https://www.coursera.org/professional-certificates/ibm-data-science?irclickid=SZT3S3wElxyNUfJ1ajTOLyNMUkDQIDw3F2fwQ80&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359419&utm_content=b2c",
-    "type": "free"
-  },
-  {
-    "id": "615",
+    "id": "324",
     "courseName": "Social Media Management",
     "platform": "coursera",
     "courseLink": "https://www.coursera.org/learn/social-media-management"
   },
   {
-    "id": "617",
+    "id": "325",
     "courseName": "Rut Tutorial",
     "platform": "Youtub",
     "courseLink": "https://youtu.be/U1EFgCNLDB8"
   },
   {
-    "id": "618",
+    "id": "326",
     "courseName": "Strivers A2Z DSA Course",
     "platform": "takeuforward",
     "courseLink": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
   },
   {
-    "id": "619",
+    "id": "327",
     "courseName": "Amazon Web Services (AWS) - Zero to Hero",
     "platform": "Udemy",
     "courselink": "https://www.udemy.com/course/amazon-web-services-aws-v/"
   },
   {
-    "id": "621",
+    "id": "328",
     "courseName": "Introduction to Microservices",
     "platform": "Edyoda",
     "courseLink": "https://www.edyoda.com/course/1556?episode_id=3355"
   },
   {
-    "id": "628",
+    "id": "329",
     "courseName": "Advanced Learning Algorithms",
     "platform": "coursera",
     "courseLink": "https://www.coursera.org/learn/advanced-learning-algorithms/home/week/1"
   },
-
   {
-    "id": "630",
+    "id": "340",
     "courseName": "web development ",
     "platform": "unschool",
     "courseLink": "https://learn.unschool.in/learn/home/Web-Development/"
   },
   {
-    "id": "633",
+    "id": "341",
     "courseName": "Computer Science",
     "platform": "Saylor Academy",
     "courseLink": "https://learn.saylor.org/course/index.php?categoryid=9"
   },
   {
-    "id": "635",
+    "id": "342",
     "courseName": "Mastering Data Structures & Algorithms using C and C++",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/datastructurescncpp/?src=sac&kw=mastering+data+structure"
   },
   {
-    "id": "637",
+    "id": "343",
     "courseName": "The Data Science Course 2022: Complete Data Science Bootcamp",
     "platform": "udemy",
     "courseLink": "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/"
   },
   {
-    "id": "640",
+    "id": "344",
     "courseName": "HTML in web development",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/html-in-web-development-new/"
   },
   {
-    "id": "641",
+    "id": "345",
     "courseName": "Front End Development Libraries",
     "platform": "free code camp",
     "courseLink": "https://www.freecodecamp.org/learn/front-end-development-libraries/"
   },
   {
-    "id": "642",
+    "id": "346",
     "courseName": "Java",
     "platform": "codeacademy",
     "courseLink": "https://www.codecademy.com/learn/learn-java%3Fg_network%3Ds%26g_productchannel%3D%26g_adid%3D624888212379%26g_locinterest%3D%26g_keyword%3Dcourse%2520java%26g_acctid%3D243-039-7011%26g_adtype%3D%26g_keywordid%3Dkwd-222505214%26g_ifcreative%3D%26g_campaign%3Daccount%26g_locphysical%3D1007818%26g_adgroupid%3D104765209382%26g_productid%3D%26g_source%3D%7Bsourceid%7D%26g_merchantid%3D%26g_placement%3D%26g_partition%3D%26g_campaignid%3D10947274266%26g_ifproduct%3D%26utm_id%3Dt_kwd-222505214:ag_104765209382:cp_10947274266:n_s:d_c%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26utm_term%3Dcourse%2520java%26utm_campaign%3D%26utm_content%3D624888212379%26g_adtype%3Dsearch%26g_acctid%3D243-039-7011&q="
   },
   {
-    "id": "643",
+    "id": "347",
     "courseName": "Algorithm Tool Kit",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.com/Algorithm-Tool-Kit"
   },
   {
-    "id": "652",
+    "id": "348",
     "courseName": " Machine Learning for All",
     "platform": "Coursera",
-    "courseLink": "https://www.coursera.org/learn/uol-machine-learning-for-all",
-    "type": "free"
+    "courseLink": "https://www.coursera.org/learn/uol-machine-learning-for-all"
   },
   {
-    "id": "653",
+    "id": "349",
     "courseName": "Python for non programmers",
     "platform": "Great Learning",
     "courseLink": "https://www.simplilearn.com/learn-java-basics-skillup"
   },
   {
-    "id": "654",
+    "id": "350",
     "courseName": "Introduction to Cybersecurity",
     "platform": "Cisco",
     "courseLink": "https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html#~introduction-to-cybersecurity"
   },
   {
-    "id": "655",
+    "id": "351",
     "courseName": "C# Tutorial - Full Course for Beginners",
     "platform": "Youtube",
     "courseLink": "https://youtu.be/GhQdlIFylQ8"
   },
   {
-    "id": "656",
+    "id": "352",
     "courseName": "pre-requisites_for_deep_learning_bootcamp",
     "platform": "dphi",
     "courseLink": "https://dphi.tech/courses/pre-requisites_for_deep_learning_bootcamp"
   },
   {
-    "id": "657",
+    "id": "353",
     "courseName": "Data science",
     "platform": "educba",
     "courseLink": "https://www.educba.com/data-science/courses/"
   },
   {
-    "id": "659",
+    "id": "354",
     "courseName": "DSA",
     "platform": "Youtube",
     "courseLink": "https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=1&t=0s"
   },
   {
-    "id": "660",
+    "id": "355",
     "courseName": "Classification Models",
     "platform": "Udacity",
     "courseLink": "https://www.udacity.com/course/classification-models--ud978"
   },
   {
-    "id": "661",
+    "id": "356",
     "courseName": "Elite Singing Techniques - Phase I",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/elite-singing-techniques-phase-1/"
   },
   {
-    "id": "662",
+    "id": "357",
     "courseName": "Microsoft Azure Essentials",
     "platform": "Great Learning",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/microsoft-azure-essentials"
   },
   {
-    "id": "663",
+    "id": "358",
     "courseName": "Android Development Tutorial For Beginners In Hindi (With Notes)",
     "platform": "Youtube",
     "courseLink": "https://youtu.be/mXjZQX3UzOs"
   },
   {
-    "id": "664",
+    "id": "359",
     "courseName": "Web Design for Web Developers: Build Beautiful Websites!",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/web-design-secrets/"
   },
   {
-    "id": "666",
+    "id": "360",
     "courseName": "Freecodecamp.org",
     "platform": "Youtube",
     "courseLink": "https://youtu.be/gyMwXuJrbJQ"
   },
   {
-    "id": "667",
+    "id": "361",
     "courseName": "Python Crash Course",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.com/course/python-crash-course"
   },
   {
-    "id": "668",
+    "id": "362",
     "courseName": "Data Structures and Algorithms Specialization",
     "platform": "coursera",
     "courseLink": "https://www.coursera.org/specializations/data-structures-algorithms"
   },
   {
-    "id": "670",
+    "id": "363",
     "courseName": "MongoDB for SQL Pros",
     "platform": "MongoDB University",
     "courseLink": "https://university.mongodb.com/courses/M100/about"
   },
   {
-    "id": "672",
+    "id": "364",
     "courseName": "Introduction to Computer Science and Programming Using Python",
     "platform": "EdX",
     "courseLink": "https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2022a/home"
   },
   {
-    "id": "673",
+    "id": "365",
     "courseName": "Statistics",
     "platform": "edx",
     "courseLink": "https://www.edx.org/learn/statistics"
   },
   {
-    "id": "675",
+    "id": "366",
     "courseName": "Free Flutter Course by Vandad Nahavandipoor",
     "platform": "Youtube",
     "courseLink": "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
     "type": "free"
   },
   {
-    "id": "676",
+    "id": "367",
     "courseName": "Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial",
     "platform": "Youtube",
     "courseLink": "https://youtu.be/VPvVD8t02U8"
   },
   {
-    "id": "677",
+    "id": "368",
     "courseName": "Chrome Extension Development",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/watch?v=0n809nd4Zu4&t=285s"
   },
   {
-    "id": "678",
+    "id": "369",
     "courseName": "The Science of Well-Being",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.org/learn/the-science-of-well-being"
   },
   {
-    "id": "679",
+    "id": "370",
     "courseName": "DSA",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.org/learn/algorithms-part2?irclickid=XwoSPK0VwxyNWqUQodwnHxJuUkDVAMSLWUXDUQ0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c"
   },
   {
-    "id": "681",
+    "id": "371",
     "courseName": "Introduction to User Experience Design",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.org/learn/user-experience-design"
   },
   {
-    "id": "682",
+    "id": "372",
     "courseName": "Graphic Design Elements for non-designers ",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.org/learn/fonts-typography-spacing/home/week/1"
   },
   {
-    "id": "683",
+    "id": "373",
     "courseName": "C-Language",
     "platform": "platform",
     "courseLink": "https://www.youtube.com/watch?v=ZSPZob_1TOk"
   },
   {
-    "id": "684",
+    "id": "374",
     "courseName": "Python for Everybody Specialization",
     "platform": "Coursera",
     "courseLink": "https://in.coursera.org/specializations/python"
   },
   {
-    "id": "687",
+    "id": "375",
     "courseName": "The Complete Android Developer Course Beginner To Advanced",
     "platform": "Udemy",
     "courseLink": "https://freecoursesite.com/1-the-complete-android-developer-course-beginner-to-advanced/"
   },
   {
-    "id": "688",
+    "id": "376",
     "courseName": "Introduction to Psychology",
     "platform": "Coursera",
     "courseLink": "https://www.coursera.org/learn/introduction-psychology"
   },
   {
-    "id": "690",
+    "id": "377",
     "courseName": "Salesforce Lightning",
     "platform": "Trailhead",
     "courseLink": "https://trailhead.salesforce.com/content/learn/modules/lex_implementation_basics"
   },
   {
-    "id": "691",
+    "id": "378",
     "courseName": "Service Cloud for Lightning Experience",
     "platform": "Trailhead",
     "courseLink": "https://trailhead.salesforce.com/content/learn/modules/service_lex"
   },
   {
-    "id": "692",
+    "id": "379",
     "courseName": "Git and GitHub Basics",
     "platform": "Trailhead",
     "courseLink": "https://trailhead.salesforce.com/content/learn/modules/git-and-git-hub-basics"
   },
   {
-    "id": "693",
+    "id": "380",
     "courseName": "Data Analysis With Python",
     "platform": "freecodecamp",
     "courseLink": "https://www.freecodecamp.org/learn/data-analysis-with-python/"
   },
   {
-    "id": "694",
+    "id": "381",
     "courseName": "Java + DSA + Interview Preparation Course",
     "platform": "Youtube",
     "courseLink": "https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
   },
   {
-    "id": "697",
+    "id": "382",
     "courseName": "Ethical Hacking Course for beginner to pro",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/playlist?list=PLaPnjQHQDW0Z_d_p4rJzvZYqK2Muo21Ye"
   },
   {
-    "id": "698",
+    "id": "383",
     "courseName": "Docker Full Course",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/watch?v=0SS6bJczlgs"
   },
   {
-    "id": "699",
+    "id": "384",
     "courseName": "Docker desktop extension",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/watch?v=Yv7OG-EGJsg"
   },
   {
-    "id": "700",
+    "id": "385",
     "courseName": "GitOps",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/watch?v=f5EpcWp0THw"
   },
   {
-    "id": "695",
+    "id": "386",
     "courseName": "Data Science Foundations",
     "platform": "Great Learning",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations"
   },
   {
-    "id": "696",
+    "id": "387",
     "courseName": "Introduction to Cyber Security",
     "platform": "Skillup",
     "courseLink": "https://www.simplilearn.com/learn-cyber-security-basics-skillup"
   },
   {
-    "id": "699",
+    "id": "388",
     "courseName": "Docker desktop extension",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/watch?v=Yv7OG-EGJsg"
   },
   {
-    "id": "700",
+    "id": "389",
     "courseName": "GitOps",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/watch?v=f5EpcWp0THw"
   },
   {
-    "id": "700",
+    "id": "390",
     "courseName": "Data Visualization",
     "platform": "freecodecamp",
     "courseLink": "https://www.freecodecamp.org/learn/data-visualization/"
   },
   {
-    "id": "702",
+    "id": "391",
     "courseName": "React JS Tutorial",
     "platform": "Great Learning",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial"
   },
   {
-    "id": "703",
+    "id": "392",
     "courseName": "Front End Development - HTML",
     "platform": "Great Learning",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-html"
   },
   {
-    "id": "704",
+    "id": "393",
     "courseName": "Operating Systems for Placements",
     "platform": "YouTube(CodeHelp-by Babbar)",
     "courseLink": "https://www.youtube.com/watch?v=_TpOHMCODXo&list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG"
   },
   {
-    "id": "710",
+    "id": "394",
     "courseName": "Learn Angular from scratch",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/angular-for-beginners-b/"
   },
   {
-    "id": "712",
+    "id": "395",
     "courseName": "Introduction to Vue Js framework",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/introduction-to-vue-js-framework-s/"
   },
   {
-    "id": "713",
+    "id": "396",
     "courseName": "Java + DSA + Interview Preparation Course",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"
   },
   {
-    "id": "715",
+    "id": "397",
     "courseName": "Complete Kubernetes Tutorial for Beginners",
     "platform": "YouTube",
     "courseLink": "https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC"
   },
   {
-    "id": "716",
+    "id": "398",
     "courseName": "Golang Tutorial for Beginners | Full Go Course",
     "platform": "YouTube",
     "courseLink": "https://youtu.be/yyUHQIec83I"
   },
   {
-    "id": "717",
+    "id": "399",
     "courseName": "Learn Advanced HTML and CSS Concepts",
     "platform": "codedamn.com",
     "courseLink": "https://codedamn.com/learn/advanced-html-css"
   },
   {
-    "id": "718",
+    "id": "400",
     "courseName": "Learn React 18 for free",
     "platform": "codedamn.com",
     "courseLink": "https://codedamn.com/learn/reactjs"
   },
   {
-    "id": "719",
+    "id": "401",
     "courseName": "Advanced Theoretical JavaScript",
     "platform": "codedamn.com",
     "courseLink": "https://codedamn.com/learn/advanced-theoritical-js"
   },
   {
-    "id": "720",
+    "id": "402",
     "courseName": "Operating Systems for Placements",
     "platform": "YouTube(CodeHelp-by Babbar)",
     "courseLink": "https://www.youtube.com/watch?v=_TpOHMCODXo&list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG"
   },
   {
-    "id": "722",
+    "id": "403",
     "courseName": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/nodejs-the-complete-guide/"
   },
   {
-    "id": "723",
+    "id": "404",
     "courseName": "Ethical Hacking - Mobile Platforms and Network Architecture",
     "platform": "GL",
     "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture"
   },
   {
-    "id": "726",
+    "id": "405",
     "courseName": "React For Beginners 2022",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/react-for-beginners-2022/"
   },
   {
-    "id": "727",
+    "id": "406",
     "courseName": "Learn Angular from scratch",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/angular-for-beginners-b/"
   },
   {
-    "id": "730",
+    "id": "407",
     "courseName": "Introduction to Vue Js framework",
     "platform": "Udemy",
     "courseLink": "https://www.udemy.com/course/introduction-to-vue-js-framework-s/"
   },
   {
-    "id": "731",
+    "id": "408",
     "courseName": "Network Defense Essentials (NDE)",
     "platform": "Code Red",
     "courseLink": "https://codered.eccouncil.org/course/network-defense-essentials?logged=true"
   },
   {
-    "id": "732",
+    "id": "409",
     "courseName": "SpringBoot Basics",
     "platform": "Baeldung",
     "courseLink": "https://www.baeldung.com/spring-boot"
   },
   {
-    "id": "733",
+    "id": "410",
     "courseName": "Scrum vs Kanban - What's the Difference?",
     "platform": "Youtube",
     "courseLink": "https://www.youtube.com/watch?v=rIaz-l1Kf8w"
   },
   {
-    "id": "734",
+    "id": "411",
     "courseName": "Optimizing Smart Contract",
     "platform": "codedamn",
     "courseLink": "https://codedamn.com/learn/optimizing-smart-contract"
   },
   {
-    "id": "736",
+    "id": "412",
     "courseName": "photoshop ",
     "platform": "youtube",
     "courseLink": "https://www.youtube.com/watch?v=qvQie2QP5Vg&list=RDCMUC0T6MVd3wQDB5ICAe45OxaQ&start_radio=1&rv=qvQie2QP5Vg&t=43045"
   },
   {
-    "id": "737",
+    "id": "413",
     "courseName": "Online Ethical Hacking Course",
     "platform": "WsCubetech",
     "courseLink": "https://www.wscubetech.com/online-ethical-hacking-course.html"
   },
   {
-    "id": "738",
+    "id": "414",
     "courseName": "Live Online WordPress Training Course",
     "platform": "WsCubetech",
     "courseLink": "https://www.wscubetech.com/best-wordpress-online-course-india.html"
   },
   {
-    "id": "739",
+    "id": "415",
     "courseName": "Introduction to cyber security",
     "platform": "oeru",
     "courseLink": "https://oeru.org/oeru-partners/the-open-university/introduction-to-cyber-security/"
   },
   {
-    "id": "741",
+    "id": "416",
     "courseName": "ntro to TensorFlow for Deep Learning",
     "platform": "Udacity",
     "courseLink": "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187"
   },
   {
-    "id": "742",
+    "id": "417",
     "courseName": "ntro to TensorFlow for Deep Learning",
     "platform": "free Introduction to Deep Learning",
     "courseLink": "http://introtodeeplearning.com/"
   },
   {
-    "id": "743",
+    "id": "418",
     "courseName": "Advanced Online SEO Course in India",
     "platform": "WsCubetech",
     "courseLink": "https://www.wscubetech.com/online-seo-course-india.html"
   },
   {
-      "id": "713",
+      "id": "419",
       "courseName": "Introduction to Vue Js framework",
       "platform": "Udemy",
       "courseLink": "https://www.udemy.com/course/introduction-to-vue-js-framework-s/"
   },
   {
-      "id": "714",
+      "id": "420",
       "courseName": "Network Defense Essentials (NDE)",
       "platform": "Code Red",
       "courseLink": "https://codered.eccouncil.org/course/network-defense-essentials?logged=true"
   },
   {
-      "id": "715",
+      "id": "421",
       "courseName": "SpringBoot Basics",
       "platform": "Baeldung",
       "courseLink": "https://www.baeldung.com/spring-boot"
   },
   {
-     "id": "716",
+     "id": "422",
       "courseName": "Scrum vs Kanban - What's the Difference?",
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/watch?v=rIaz-l1Kf8w"
   },
   {
-      "id": "717",
+      "id": "423",
       "courseName": "Optimizing Smart Contract",
       "platform": "codedamn",
       "courseLink": "https://codedamn.com/learn/optimizing-smart-contract"
   },
   {
-      "id": "718",	
+      "id": "424",	
       "courseName": "C++ programming language",
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb"
   },
   {
-     "id": "719",
+     "id": "425",
      "courseName": "photoshop ",
      "platform": "youtube",
      "courseLink": "https://www.youtube.com/watch?v=qvQie2QP5Vg&list=RDCMUC0T6MVd3wQDB5ICAe45OxaQ&start_radio=1&rv=qvQie2QP5Vg&t=43045"
   },
   {
-     "id": "721",
+     "id": "426",
      "courseName": "Live Online WordPress Training Course",
      "platform": "WsCubetech",
      "courseLink": "https://www.wscubetech.com/best-wordpress-online-course-india.html"
   },
   {
-     "id": "722",
+     "id": "427",
      "courseName": "Introduction to cyber security",
      "platform": "oeru",
      "courseLink": "https://oeru.org/oeru-partners/the-open-university/introduction-to-cyber-security/"
   },
   {
-     "id": "723",
+     "id": "428",
      "courseName": "Introduction to web accessibility",
      "platform": "oeru",
      "courseLink": "https://oeru.org/oeru-partners/ryerson-cacede/introduction-to-web-accessibility/"
   },
   {
-     "id": "724",
+     "id": "429",
      "courseName": "ntro to TensorFlow for Deep Learning",
      "platform": "Udacity",
      "courseLink": "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187"
   },
   {
-     "id": "726",
+     "id": "430",
      "courseName": "Advanced Online SEO Course in India",
      "platform": "WsCubetech",
      "courseLink": "https://www.wscubetech.com/online-seo-course-india.html"
   },
   {
-     "id": "727",
+     "id": "431",
      "courseName": " Build a Website with HTML,CSS, and Github pages",
      "platform": "Codecademy",
      "courseLink": "https://www.codecademy.com/learn/paths/learn-how-to-build-websites",
   },
   {
-      "id":"728"
+      "id":"432"
       "courseName": " Analyze Data with SQL",
       "platform": "Codecademy",
       "courseLink": "https://www.codecademy.com/learn/paths/analyze-data-with-sql"
    },
    { 
-      "id":"729"
+      "id":"433"
       "courseName": " Introduction to SQL:Querying and Managing",
       "platform": "Khan Academy",
       "courseLink": "https://www.khanacademy.org/computing/computer-programming/sql",
    },
    {
-      "id": "730",
+      "id": "434",
       "courseName": "Image Processing and Machine Vision",
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/playlist?list=PLm_MSClsnwm8vk9HCc8WOQyrZz3VzEHsW"
    },
    {
-      "id":"731"
+      "id":"435",
       "courseName": " Making Web pages interactive with John Resig",
       "platform": "Khan Academy",
-      "courseLink": "https://www.khanacademy.org/computing/computer-programming/html-js-jquery",
+      "courseLink": "https://www.khanacademy.org/computing/computer-programming/html-js-jquery"
    },
    {
-      "id": "734",
+      "id": "436",
       "courseName": "Kali Linux Tutorial",
       "platform": "tutorialspoint",
       "courseLink": "https://www.tutorialspoint.com/kali_linux/index.htm"
    },
    {
-      "id":"735"
+      "id":"437",
       "courseName": " Build Your own Chatbot",
       "platform": "IBM SkillsBuild",
-      "courseLink": "https://cognitiveclass.ai/courses/chatbot-course",
+      "courseLink": "https://cognitiveclass.ai/courses/chatbot-course"
    },
    {
-      "id":"736"
+      "id":"438",
       "courseName": " Build Your own Chatbot",
       "platform": "IBM SkillsBuild",
-      "courseLink": "https://cognitiveclass.ai/courses/chatbot-course",
+      "courseLink": "https://cognitiveclass.ai/courses/chatbot-course"
    },
    {
-      "id":"737"
+      "id":"439",
       "courseName": " PHP Fundamentals with Jeremy McPeak",
       "platform": "Codetuts+",
       "courseLink": "https://code.tutsplus.com/courses/php-fundamentals?_ga=2.226619103.390153738.1666549879-380649365.1666549879",
    },
    {
-      "id" : "739",
+      "id" : "440",
       "courseName" : "IBM Machine Learning Professional",
       "platform" : "Coursera",
       "courseLink" : "https://in.coursera.org/professional-certificates/ibm-machine-learning"
    },
    {
-     "id": "744",
+     "id": "441",
       "courseName": "Learn Solidity",
       "platform": "Solidity",
       "courseLink": "https://docs.soliditylang.org/en/v0.8.17/"
    },
    {
-      "id": "745",
+      "id": "442",
       "courseName": "Querying Data with Transact-SQL",
       "platform": "Microsoft edx",
       "courseLink": "https://www.edx.org/course/querying-data-with-transact-sql-2"
