@@ -2590,6 +2590,12 @@
       "courseName": "Querying Data with Transact-SQL",
       "platform": "Microsoft edx",
       "courseLink": "https://www.edx.org/course/querying-data-with-transact-sql-2"
-   }
+   },
+  {
+    "id": "443",
+    "courseName": "Dart - Beginners Course",
+    "platform": "Udemy",
+    "courseLink": "https://www.udemy.com/share/101PQF3@0bTEZxml35OpLZEzP_m5uV8XZuenrqLfRlw24p3bAeUTMF0OcYdxmSvs5nN-aQXi-A==/",
+  },
 
 ]
